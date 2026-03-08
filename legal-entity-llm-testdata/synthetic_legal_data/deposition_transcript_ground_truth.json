@@ -1,0 +1,611 @@
+{
+  "scenario_id": "deposition_transcript",
+  "doc_type": "DEPOSITION TRANSCRIPT",
+  "word_count": 808,
+  "entity_count": 86,
+  "unique_canonical_count": 24,
+  "entities": [
+    {
+      "text": "MERIDIAN INDUSTRIES CORP.",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation"
+    },
+    {
+      "text": "Case No. 2023-CV-04792",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Case No. 2023-CV-04792",
+      "notes": "federal case number"
+    },
+    {
+      "text": "Hon. Margaret R. Fitzgerald",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "Hon. Margaret R. Fitzgerald",
+      "notes": "presiding judge"
+    },
+    {
+      "text": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "CARLOS RIVERA",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "CARLOS RIVERA",
+      "notes": "fact witness"
+    },
+    {
+      "text": "October 15, 2023",
+      "token_prefix": "DEPOSITION_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 15, 2023",
+      "notes": "deposition date"
+    },
+    {
+      "text": "Jennifer L. Patterson, Esq.",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Patterson, Esq.",
+      "notes": "plaintiff's counsel"
+    },
+    {
+      "text": "Morrison & Associates LLP",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Morrison & Associates LLP",
+      "notes": "plaintiff's law firm"
+    },
+    {
+      "text": "Robert K. Chen, Esq.",
+      "token_prefix": "DEFENDANT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert K. Chen, Esq.",
+      "notes": "defendant's counsel"
+    },
+    {
+      "text": "Sullivan Defense Group",
+      "token_prefix": "DEFENDANT_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Sullivan Defense Group",
+      "notes": "defendant's law firm"
+    },
+    {
+      "text": "MS. PATTERSON",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Patterson, Esq.",
+      "notes": "plaintiff's counsel reference"
+    },
+    {
+      "text": "Carlos Rivera",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "CARLOS RIVERA",
+      "notes": "fact witness"
+    },
+    {
+      "text": "847 West Armitage Avenue, Chicago, Illinois 60614",
+      "token_prefix": "WITNESS_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "847 West Armitage Avenue, Chicago, Illinois 60614",
+      "notes": "witness home address"
+    },
+    {
+      "text": "Mr. Rivera",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "CARLOS RIVERA",
+      "notes": "witness reference"
+    },
+    {
+      "text": "(312) 555-7829",
+      "token_prefix": "WITNESS_PHONE",
+      "entity_type": "ID",
+      "canonical": "(312) 555-7829",
+      "notes": "witness phone number"
+    },
+    {
+      "text": "c.rivera.logistics@gmail.com",
+      "token_prefix": "WITNESS_EMAIL",
+      "entity_type": "ID",
+      "canonical": "c.rivera.logistics@gmail.com",
+      "notes": "witness email"
+    },
+    {
+      "text": "Northwest Logistics Solutions",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "Sarah Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO"
+    },
+    {
+      "text": "Meridian Industries",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation reference"
+    },
+    {
+      "text": "David Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO"
+    },
+    {
+      "text": "Exhibit A",
+      "token_prefix": "EXHIBIT_A",
+      "entity_type": "ID",
+      "canonical": "Exhibit A",
+      "notes": "contract exhibit"
+    },
+    {
+      "text": "Meridian",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation reference"
+    },
+    {
+      "text": "Northwest Logistics",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "March 12, 2022",
+      "token_prefix": "CONTRACT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 12, 2022",
+      "notes": "contract execution date"
+    },
+    {
+      "text": "$2.8 million",
+      "token_prefix": "CONTRACT_VALUE",
+      "entity_type": "MONEY",
+      "canonical": "$2.8 million",
+      "notes": "disputed contract value"
+    },
+    {
+      "text": "Northwest Logistics",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "Ms. Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "She",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO pronoun"
+    },
+    {
+      "text": "Mr. Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO reference"
+    },
+    {
+      "text": "Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "Northwest Logistics",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "We",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "December 15, 2022",
+      "token_prefix": "BREACH_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 15, 2022",
+      "notes": "contract breach date"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "Thornton's",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO possessive"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "his company",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation reference"
+    },
+    {
+      "text": "MR. CHEN",
+      "token_prefix": "DEFENDANT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert K. Chen, Esq.",
+      "notes": "defendant's counsel reference"
+    },
+    {
+      "text": "Mr. Rivera",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "CARLOS RIVERA",
+      "notes": "witness reference"
+    },
+    {
+      "text": "Ms. Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "Exhibit C-2",
+      "token_prefix": "EXHIBIT_C2",
+      "entity_type": "ID",
+      "canonical": "Exhibit C-2",
+      "notes": "correspondence exhibit"
+    },
+    {
+      "text": "David Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "Northwest",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "the CEO",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO role reference"
+    },
+    {
+      "text": "Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO reference"
+    },
+    {
+      "text": "his company",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation reference"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "Sarah Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO"
+    },
+    {
+      "text": "She",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO pronoun"
+    },
+    {
+      "text": "Meridian",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation reference"
+    },
+    {
+      "text": "December 15, 2022",
+      "token_prefix": "BREACH_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 15, 2022",
+      "notes": "contract termination date"
+    },
+    {
+      "text": "Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "She",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO pronoun"
+    },
+    {
+      "text": "Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO reference"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO pronoun"
+    },
+    {
+      "text": "Northwest Logistics",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "the COO",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO role reference"
+    },
+    {
+      "text": "She",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO pronoun"
+    },
+    {
+      "text": "MS. PATTERSON",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Patterson, Esq.",
+      "notes": "plaintiff's counsel reference"
+    },
+    {
+      "text": "Mr. Rivera",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "CARLOS RIVERA",
+      "notes": "witness reference"
+    },
+    {
+      "text": "Ms. Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "She",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO pronoun"
+    },
+    {
+      "text": "$400,000",
+      "token_prefix": "SUBCONTRACT_COST",
+      "entity_type": "MONEY",
+      "canonical": "$400,000",
+      "notes": "additional expenses amount"
+    },
+    {
+      "text": "we",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "the defendant",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation legal reference"
+    },
+    {
+      "text": "Mr. Thornton",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "David Thornton",
+      "notes": "plaintiff's CEO reference"
+    },
+    {
+      "text": "Mitchell",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Mitchell",
+      "notes": "defendant's COO reference"
+    },
+    {
+      "text": "Meridian",
+      "token_prefix": "PLAINTIFF_CORP",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN INDUSTRIES CORP.",
+      "notes": "plaintiff corporation reference"
+    },
+    {
+      "text": "Northwest Logistics",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation reference"
+    },
+    {
+      "text": "them",
+      "token_prefix": "DEFENDANT_CORP",
+      "entity_type": "ORG",
+      "canonical": "NORTHWEST LOGISTICS SOLUTIONS, LLC",
+      "notes": "defendant corporation pronoun"
+    },
+    {
+      "text": "January 2023",
+      "token_prefix": "WITNESS_DEPARTURE_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 2023",
+      "notes": "witness departure date"
+    },
+    {
+      "text": "Linda M. Rodriguez",
+      "token_prefix": "COURT_REPORTER",
+      "entity_type": "PERSON",
+      "canonical": "Linda M. Rodriguez",
+      "notes": "court reporter"
+    },
+    {
+      "text": "October 20, 2023",
+      "token_prefix": "CERTIFICATION_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 20, 2023",
+      "notes": "transcript certification date"
+    },
+    {
+      "text": "Linda M. Rodriguez, CCR",
+      "token_prefix": "COURT_REPORTER",
+      "entity_type": "PERSON",
+      "canonical": "Linda M. Rodriguez",
+      "notes": "court reporter with credentials"
+    }
+  ]
+}

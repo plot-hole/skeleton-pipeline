@@ -1,0 +1,118 @@
+**UNITED STATES DISTRICT COURT**
+**NORTHERN DISTRICT OF ILLINOIS**
+
+MERIDIAN INDUSTRIES CORP.,               )
+                                        )
+            Plaintiff,                  )   Case No. 2023-CV-04792
+                                        )
+v.                                      )   Hon. Margaret R. Fitzgerald
+                                        )
+NORTHWEST LOGISTICS SOLUTIONS, LLC,     )
+                                        )
+            Defendant.                  )
+
+**DEPOSITION OF CARLOS RIVERA**
+**October 15, 2023**
+
+APPEARANCES:
+
+For Plaintiff:
+Jennifer L. Patterson, Esq.
+Morrison & Associates LLP
+
+For Defendant:
+Robert K. Chen, Esq.
+Sullivan Defense Group
+
+---
+
+**EXAMINATION BY MS. PATTERSON:**
+
+Q: Please state your name and address for the record.
+
+A: Carlos Rivera. I live at 847 West Armitage Avenue, Chicago, Illinois 60614.
+
+Q: Mr. Rivera, what is your phone number and email address?
+
+A: My phone is (312) 555-7829 and my email is c.rivera.logistics@gmail.com.
+
+Q: How do you know the parties in this litigation?
+
+A: I was the operations manager at Northwest Logistics Solutions from 2018 until early this year. I worked directly under Sarah Mitchell, who was our COO. I also had regular contact with Meridian Industries, particularly their CEO David Thornton.
+
+Q: Let me show you what's been marked as Exhibit A. Do you recognize this document?
+
+A: Yes, this is the supply chain contract between Meridian and Northwest Logistics. It was executed on March 12, 2022. The contract value was $2.8 million over eighteen months.
+
+Q: Who negotiated this agreement on behalf of Northwest Logistics?
+
+A: Ms. Mitchell handled the negotiations. She met with Mr. Thornton several times in February 2022. I was present at two of those meetings.
+
+Q: What was discussed during those meetings?
+
+A: The main issue was delivery timelines. Thornton was very specific about needing the components by certain dates for his manufacturing schedule. Mitchell assured him that we could meet those deadlines.
+
+Q: Did Northwest Logistics meet the delivery requirements?
+
+A: Initially, yes. For the first six months, we were on schedule. But things started falling apart in October 2022.
+
+Q: What happened in October?
+
+A: We had equipment failures at our Chicago facility. Mitchell tried to work around it, but the delays started accumulating. By December 15, 2022, we were officially in breach of the delivery terms.
+
+Q: Did you communicate with Meridian about these delays?
+
+A: I did. I called Thornton's office several times. He was frustrated because the delays were affecting his production line. He specifically told me that if we couldn't fulfill the contract, his company would seek alternative suppliers.
+
+**EXAMINATION BY MR. CHEN:**
+
+Q: Mr. Rivera, you mentioned equipment failures. Were these foreseeable?
+
+A: Not really. The machinery had been serviced regularly. Ms. Mitchell had invested significantly in maintenance protocols.
+
+Q: Looking at Exhibit C-2, do you recognize this correspondence?
+
+A: Yes, that's an email chain between myself and David Thornton from November 2022. In it, he acknowledges that some delays might be unavoidable due to supply chain disruptions affecting the entire industry.
+
+Q: In this email, does the CEO express understanding about the challenges Northwest was facing?
+
+A: He does. Thornton writes that his company had experienced similar issues with other vendors. He even suggested that we might extend the contract deadline by 30 days.
+
+Q: Did Sarah Mitchell agree to this extension?
+
+A: She was willing to discuss it, but ultimately Meridian decided to terminate the contract instead. The termination notice came on December 15, 2022.
+
+Q: After the termination, did you have any further contact with either Ms. Mitchell or Mr. Thornton?
+
+A: I spoke with Mitchell several times as we wound down operations. She was concerned about the legal implications. As for Thornton, I haven't spoken to him since the contract was terminated.
+
+Q: In your opinion, was Northwest Logistics acting in good faith throughout this contract period?
+
+A: Absolutely. Despite the equipment problems, the COO did everything possible to minimize delays. She even arranged for emergency subcontracting at significant cost to the company.
+
+Q: Are you aware of any other disputes between these parties?
+
+A: No, this was their first major contract together. Prior to this, they had only done smaller transactions without any problems.
+
+**EXAMINATION BY MS. PATTERSON:**
+
+Q: Mr. Rivera, you mentioned that Ms. Mitchell incurred additional costs for subcontracting. Do you know how much?
+
+A: She told me it was approximately $400,000 in additional expenses. But even with that investment, we couldn't meet the original timeline.
+
+Q: Did the defendant ever formally request the contract extension that Mr. Thornton had suggested?
+
+A: No. By the time Mitchell was ready to make that request officially, Meridian had already decided to terminate.
+
+Q: Have you maintained any documentation from your time at Northwest Logistics?
+
+A: I have some emails and notes, but most company records remained with them when I left in January 2023.
+
+**CERTIFICATE**
+
+I, Linda M. Rodriguez, Certified Court Reporter, do hereby certify that the foregoing is a true and accurate transcript of the deposition testimony given in the above-entitled cause.
+
+Dated: October 20, 2023
+
+_________________________
+Linda M. Rodriguez, CCR

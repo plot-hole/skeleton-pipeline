@@ -1,0 +1,247 @@
+{
+  "scenario_id": "criminal_complaint",
+  "doc_type": "CRIMINAL COMPLAINT",
+  "word_count": 808,
+  "entity_count": 34,
+  "unique_canonical_count": 24,
+  "entities": [
+    {
+      "text": "2024-CR-07832",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CR-07832",
+      "notes": "federal criminal case number"
+    },
+    {
+      "text": "Detective Raymond Charles Blackwood",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Blackwood",
+      "notes": "investigating law enforcement officer"
+    },
+    {
+      "text": "Badge No. 4729",
+      "token_prefix": "BADGE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Badge No. 4729",
+      "notes": "police badge identification number"
+    },
+    {
+      "text": "January 15, 2023",
+      "token_prefix": "INCIDENT_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2023",
+      "notes": "start date of criminal activity"
+    },
+    {
+      "text": "September 8, 2023",
+      "token_prefix": "INCIDENT_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 8, 2023",
+      "notes": "end date of criminal activity"
+    },
+    {
+      "text": "Marcus Wellington Hayes",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington Hayes",
+      "notes": "criminal defendant"
+    },
+    {
+      "text": "417-88-2936",
+      "token_prefix": "DEFENDANT_SSN",
+      "entity_type": "ID",
+      "canonical": "417-88-2936",
+      "notes": "defendant's social security number"
+    },
+    {
+      "text": "18 U.S.C. \u00a7 1343",
+      "token_prefix": "WIRE_FRAUD_STATUTE",
+      "entity_type": "ID",
+      "canonical": "18 U.S.C. \u00a7 1343",
+      "notes": "federal wire fraud statute"
+    },
+    {
+      "text": "18 U.S.C. \u00a7 1341",
+      "token_prefix": "MAIL_FRAUD_STATUTE",
+      "entity_type": "ID",
+      "canonical": "18 U.S.C. \u00a7 1341",
+      "notes": "federal mail fraud statute"
+    },
+    {
+      "text": "defendant",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington Hayes",
+      "notes": "role reference to defendant"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington Hayes",
+      "notes": "defendant surname reference"
+    },
+    {
+      "text": "1847 Corktown Avenue, Detroit, Michigan 48216",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1847 Corktown Avenue, Detroit, Michigan 48216",
+      "notes": "defendant's residential address"
+    },
+    {
+      "text": "Margaret Catherine Thornfield",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Catherine Thornfield",
+      "notes": "fraud victim"
+    },
+    {
+      "text": "2904 Maple Ridge Drive, Birmingham, Michigan 48009",
+      "token_prefix": "VICTIM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2904 Maple Ridge Drive, Birmingham, Michigan 48009",
+      "notes": "victim's residential address"
+    },
+    {
+      "text": "Mrs. Thornfield",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Catherine Thornfield",
+      "notes": "formal reference to victim"
+    },
+    {
+      "text": "(248) 555-0147",
+      "token_prefix": "VICTIM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(248) 555-0147",
+      "notes": "victim's phone number"
+    },
+    {
+      "text": "January 22, 2023",
+      "token_prefix": "TRANSFER_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 22, 2023",
+      "notes": "first fraudulent transfer date"
+    },
+    {
+      "text": "August 14, 2023",
+      "token_prefix": "TRANSFER_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "August 14, 2023",
+      "notes": "last fraudulent transfer date"
+    },
+    {
+      "text": "Thornfield",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Catherine Thornfield",
+      "notes": "victim surname reference"
+    },
+    {
+      "text": "$247,800",
+      "token_prefix": "FRAUD_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$247,800",
+      "notes": "total amount defrauded"
+    },
+    {
+      "text": "mhayespremier@tempmail.com",
+      "token_prefix": "FRAUD_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mhayespremier@tempmail.com",
+      "notes": "email used in fraudulent scheme"
+    },
+    {
+      "text": "(313) 555-0892",
+      "token_prefix": "DEFENDANT_PHONE",
+      "entity_type": "ID",
+      "canonical": "(313) 555-0892",
+      "notes": "defendant's phone number"
+    },
+    {
+      "text": "J.T.M.",
+      "token_prefix": "MINOR_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "J.T.M.",
+      "notes": "minor witness initials"
+    },
+    {
+      "text": "the minor witness",
+      "token_prefix": "MINOR_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "J.T.M.",
+      "notes": "role reference to minor witness"
+    },
+    {
+      "text": "Detective Blackwood",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Blackwood",
+      "notes": "detective title and surname"
+    },
+    {
+      "text": "September 12, 2023",
+      "token_prefix": "INVESTIGATION_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 12, 2023",
+      "notes": "investigation initiation date"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington Hayes",
+      "notes": "pronoun reference to defendant"
+    },
+    {
+      "text": "she",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Catherine Thornfield",
+      "notes": "pronoun reference to victim"
+    },
+    {
+      "text": "October 3, 2023",
+      "token_prefix": "ARREST_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 3, 2023",
+      "notes": "defendant arrest date"
+    },
+    {
+      "text": "Patricia Marie Rodriguez",
+      "token_prefix": "DISTRICT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Marie Rodriguez",
+      "notes": "prosecuting attorney"
+    },
+    {
+      "text": "211 West Fort Street, Suite 2001, Detroit, Michigan 48226",
+      "token_prefix": "DA_OFFICE_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "211 West Fort Street, Suite 2001, Detroit, Michigan 48226",
+      "notes": "district attorney office address"
+    },
+    {
+      "text": "November 8, 2023",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 8, 2023",
+      "notes": "complaint filing date"
+    },
+    {
+      "text": "Blackwood",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Blackwood",
+      "notes": "detective surname reference"
+    },
+    {
+      "text": "4729",
+      "token_prefix": "BADGE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Badge No. 4729",
+      "notes": "badge number without prefix"
+    }
+  ]
+}

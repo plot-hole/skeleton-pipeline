@@ -1,0 +1,289 @@
+{
+  "scenario_id": "expert_witness_report",
+  "doc_type": "EXPERT WITNESS REPORT",
+  "word_count": 733,
+  "entity_count": 40,
+  "unique_canonical_count": 25,
+  "entities": [
+    {
+      "text": "Martinez v. Thompson, et al.",
+      "token_prefix": "CASE_NAME",
+      "entity_type": "ID",
+      "canonical": "Martinez v. Thompson, et al.",
+      "notes": "case name identifier"
+    },
+    {
+      "text": "2023-CV-08947",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08947",
+      "notes": "court case number"
+    },
+    {
+      "text": "November 15, 2023",
+      "token_prefix": "REPORT_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 15, 2023",
+      "notes": "expert report date"
+    },
+    {
+      "text": "Johnson & Associates Law Firm",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Associates Law Firm",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "Dr. Rebecca Patricia Hernandez",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Rebecca Patricia Hernandez",
+      "notes": "expert witness name"
+    },
+    {
+      "text": "Rebecca Patricia Hernandez",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Rebecca Patricia Hernandez",
+      "notes": "expert witness name variant"
+    },
+    {
+      "text": "Memorial Heart Center",
+      "token_prefix": "EXPERT_HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Memorial Heart Center",
+      "notes": "expert witness hospital"
+    },
+    {
+      "text": "4821 Oak Grove Boulevard, Richardson, Texas 75080",
+      "token_prefix": "EXPERT_HOSPITAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4821 Oak Grove Boulevard, Richardson, Texas 75080",
+      "notes": "expert hospital address"
+    },
+    {
+      "text": "rhernandez@memorialheart.org",
+      "token_prefix": "EXPERT_EMAIL",
+      "entity_type": "ID",
+      "canonical": "rhernandez@memorialheart.org",
+      "notes": "expert witness email"
+    },
+    {
+      "text": "Isabella Marie Santos",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff patient name"
+    },
+    {
+      "text": "03/22/1967",
+      "token_prefix": "PLAINTIFF_DOB",
+      "entity_type": "DATE",
+      "canonical": "03/22/1967",
+      "notes": "plaintiff date of birth"
+    },
+    {
+      "text": "462-88-9341",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "462-88-9341",
+      "notes": "plaintiff social security number"
+    },
+    {
+      "text": "MRN-445782",
+      "token_prefix": "PLAINTIFF_MRN",
+      "entity_type": "ID",
+      "canonical": "MRN-445782",
+      "notes": "plaintiff medical record number"
+    },
+    {
+      "text": "August 14, 2022",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "August 14, 2022",
+      "notes": "surgery incident date"
+    },
+    {
+      "text": "Dallas Metropolitan Medical Center",
+      "token_prefix": "TREATING_HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Dallas Metropolitan Medical Center",
+      "notes": "treating hospital name"
+    },
+    {
+      "text": "2200 Harry Hines Boulevard, Dallas, Texas 75235",
+      "token_prefix": "TREATING_HOSPITAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2200 Harry Hines Boulevard, Dallas, Texas 75235",
+      "notes": "treating hospital address"
+    },
+    {
+      "text": "the patient",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Dr. Michael Jonathan Thompson",
+      "token_prefix": "DEFENDANT_SURGEON",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Michael Jonathan Thompson",
+      "notes": "defendant surgeon name"
+    },
+    {
+      "text": "August 12, 2022",
+      "token_prefix": "RECORD_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "August 12, 2022",
+      "notes": "medical record date"
+    },
+    {
+      "text": "September 2, 2022",
+      "token_prefix": "RECORD_DATE_2",
+      "entity_type": "DATE",
+      "canonical": "September 2, 2022",
+      "notes": "medical record date"
+    },
+    {
+      "text": "October 18, 2022",
+      "token_prefix": "FOLLOWUP_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 18, 2022",
+      "notes": "follow-up record date"
+    },
+    {
+      "text": "(214) 555-7839",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(214) 555-7839",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "metoprolol",
+      "token_prefix": "MEDICATION",
+      "entity_type": "ID",
+      "canonical": "metoprolol",
+      "notes": "medication name"
+    },
+    {
+      "text": "Dr. Thompson",
+      "token_prefix": "DEFENDANT_SURGEON",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Michael Jonathan Thompson",
+      "notes": "defendant surgeon reference"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "DEFENDANT_SURGEON",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Michael Jonathan Thompson",
+      "notes": "defendant surgeon reference"
+    },
+    {
+      "text": "Isabella Santos",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "the patient's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff possessive reference"
+    },
+    {
+      "text": "Isabella Santos",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "$287,500",
+      "token_prefix": "MEDICAL_COST_1",
+      "entity_type": "MONEY",
+      "canonical": "$287,500",
+      "notes": "medical expense amount"
+    },
+    {
+      "text": "$145,000",
+      "token_prefix": "MEDICAL_COST_2",
+      "entity_type": "MONEY",
+      "canonical": "$145,000",
+      "notes": "medical expense amount"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "$500,000 to $750,000",
+      "token_prefix": "MEDICAL_COST_3",
+      "entity_type": "MONEY",
+      "canonical": "$500,000 to $750,000",
+      "notes": "estimated medical cost range"
+    },
+    {
+      "text": "Michael Jonathan Thompson's",
+      "token_prefix": "DEFENDANT_SURGEON",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Michael Jonathan Thompson",
+      "notes": "defendant surgeon possessive"
+    },
+    {
+      "text": "Isabella Marie Santos",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "His",
+      "token_prefix": "DEFENDANT_SURGEON",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Michael Jonathan Thompson",
+      "notes": "defendant surgeon pronoun"
+    },
+    {
+      "text": "the patient",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Isabella Marie Santos",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Exhibit A",
+      "token_prefix": "EXHIBIT",
+      "entity_type": "ID",
+      "canonical": "Exhibit A",
+      "notes": "exhibit reference"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generated_with": "claude-sonnet-4-20250514",
+  "documents": [
+    {
+      "id": "civil_complaint_rural",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "civil_complaint_rural.txt",
+      "ground_truth_file": "civil_complaint_rural_ground_truth.json"
+    },
+    {
+      "id": "deposition_transcript",
+      "doc_type": "DEPOSITION TRANSCRIPT",
+      "text_file": "deposition_transcript.txt",
+      "ground_truth_file": "deposition_transcript_ground_truth.json"
+    },
+    {
+      "id": "settlement_agreement",
+      "doc_type": "SETTLEMENT AGREEMENT",
+      "text_file": "settlement_agreement.txt",
+      "ground_truth_file": "settlement_agreement_ground_truth.json"
+    },
+    {
+      "id": "criminal_complaint",
+      "doc_type": "CRIMINAL COMPLAINT",
+      "text_file": "criminal_complaint.txt",
+      "ground_truth_file": "criminal_complaint_ground_truth.json"
+    },
+    {
+      "id": "expert_witness_report",
+      "doc_type": "EXPERT WITNESS REPORT",
+      "text_file": "expert_witness_report.txt",
+      "ground_truth_file": "expert_witness_report_ground_truth.json"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "scenario_id": "civil_complaint_rural",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 856,
+  "entity_count": 66,
+  "unique_canonical_count": 31,
+  "entities": [
+    {
+      "text": "Thomas Eugene Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff full name first mention"
+    },
+    {
+      "text": "2023-CV-04782",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-04782",
+      "notes": "civil case number"
+    },
+    {
+      "text": "MIDWEST FREIGHT SOLUTIONS, INC.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "MARCUS ALEXANDER RODRIGUEZ",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver full name"
+    },
+    {
+      "text": "Thomas Eugene Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff full name repeat"
+    },
+    {
+      "text": "4782 Rural Route 18, Cadiz, Ohio 43907",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4782 Rural Route 18, Cadiz, Ohio 43907",
+      "notes": "plaintiff home address"
+    },
+    {
+      "text": "247-58-9132",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "247-58-9132",
+      "notes": "plaintiff social security number"
+    },
+    {
+      "text": "Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff last name only"
+    },
+    {
+      "text": "(740) 942-7583",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(740) 942-7583",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "twhitfield@ruralnet.com",
+      "token_prefix": "PLAINTIFF_EMAIL",
+      "entity_type": "ID",
+      "canonical": "twhitfield@ruralnet.com",
+      "notes": "plaintiff email address"
+    },
+    {
+      "text": "Midwest Freight Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation repeat"
+    },
+    {
+      "text": "8956 Industrial Boulevard, Detroit, Michigan 48201",
+      "token_prefix": "DEFENDANT_COMPANY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "8956 Industrial Boulevard, Detroit, Michigan 48201",
+      "notes": "defendant company address"
+    },
+    {
+      "text": "Marcus Alexander Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver full name repeat"
+    },
+    {
+      "text": "1247 Maple Street, Apartment 3B, Toledo, Ohio 43604",
+      "token_prefix": "DEFENDANT_DRIVER_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1247 Maple Street, Apartment 3B, Toledo, Ohio 43604",
+      "notes": "defendant driver home address"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name only"
+    },
+    {
+      "text": "391-67-4825",
+      "token_prefix": "DEFENDANT_DRIVER_SSN",
+      "entity_type": "ID",
+      "canonical": "391-67-4825",
+      "notes": "defendant driver social security number"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Midwest Freight Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation repeat"
+    },
+    {
+      "text": "Jennifer L. Brennan",
+      "token_prefix": "PLAINTIFF_ATTORNEY1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Brennan",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "Michael P. Brennan",
+      "token_prefix": "PLAINTIFF_ATTORNEY2",
+      "entity_type": "PERSON",
+      "canonical": "Michael P. Brennan",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "Brennan & Associates LLC",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Brennan & Associates LLC",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "225 Market Street, Steubenville, Ohio 43952",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "225 Market Street, Steubenville, Ohio 43952",
+      "notes": "plaintiff law firm address"
+    },
+    {
+      "text": "Sarah J. Collins",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Sarah J. Collins",
+      "notes": "defense attorney full name"
+    },
+    {
+      "text": "Morrison, Hayes & Associates",
+      "token_prefix": "DEFENSE_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Morrison, Hayes & Associates",
+      "notes": "defense law firm"
+    },
+    {
+      "text": "1890 Superior Avenue, Cleveland, Ohio 44114",
+      "token_prefix": "DEFENSE_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1890 Superior Avenue, Cleveland, Ohio 44114",
+      "notes": "defense law firm address"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "date of accident"
+    },
+    {
+      "text": "Thomas Eugene Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff full name repeat"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Midwest Freight Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation repeat"
+    },
+    {
+      "text": "Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff last name repeat"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Rodriguez's",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver possessive"
+    },
+    {
+      "text": "Whitfield's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff last name repeat"
+    },
+    {
+      "text": "Dr. Jonathan K. Matthews",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Jonathan K. Matthews",
+      "notes": "expert witness orthopedic surgeon"
+    },
+    {
+      "text": "East Ohio Regional Medical Center",
+      "token_prefix": "EXPERT_WITNESS_HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "East Ohio Regional Medical Center",
+      "notes": "expert witness hospital affiliation"
+    },
+    {
+      "text": "$347,892.67",
+      "token_prefix": "MEDICAL_COSTS",
+      "entity_type": "MONEY",
+      "canonical": "$347,892.67",
+      "notes": "plaintiff medical expenses"
+    },
+    {
+      "text": "Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff last name repeat"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Midwest Freight Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation repeat"
+    },
+    {
+      "text": "Continental Commercial Insurance Company",
+      "token_prefix": "INSURANCE_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Continental Commercial Insurance Company",
+      "notes": "defendants insurance company"
+    },
+    {
+      "text": "CC-2847691-OH",
+      "token_prefix": "INSURANCE_POLICY",
+      "entity_type": "ID",
+      "canonical": "CC-2847691-OH",
+      "notes": "insurance policy number"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff last name repeat"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Rodriguez's",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver possessive"
+    },
+    {
+      "text": "Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff last name repeat"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Midwest Freight Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation repeat"
+    },
+    {
+      "text": "Midwest Freight Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Solutions, Inc.",
+      "notes": "defendant corporation repeat"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_DRIVER",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Alexander Rodriguez",
+      "notes": "defendant driver last name repeat"
+    },
+    {
+      "text": "Thomas Eugene Whitfield",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Eugene Whitfield",
+      "notes": "plaintiff full name repeat"
+    },
+    {
+      "text": "$1,250,000",
+      "token_prefix": "DAMAGES_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$1,250,000",
+      "notes": "plaintiff damages sought"
+    },
+    {
+      "text": "Jennifer L. Brennan",
+      "token_prefix": "PLAINTIFF_ATTORNEY1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Brennan",
+      "notes": "plaintiff attorney signature"
+    },
+    {
+      "text": "0089456",
+      "token_prefix": "PLAINTIFF_ATTORNEY1_BAR",
+      "entity_type": "ID",
+      "canonical": "0089456",
+      "notes": "plaintiff attorney bar number"
+    },
+    {
+      "text": "Michael P. Brennan",
+      "token_prefix": "PLAINTIFF_ATTORNEY2",
+      "entity_type": "PERSON",
+      "canonical": "Michael P. Brennan",
+      "notes": "plaintiff attorney signature"
+    },
+    {
+      "text": "0067823",
+      "token_prefix": "PLAINTIFF_ATTORNEY2_BAR",
+      "entity_type": "ID",
+      "canonical": "0067823",
+      "notes": "plaintiff attorney bar number"
+    },
+    {
+      "text": "225 Market Street",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "225 Market Street, Steubenville, Ohio 43952",
+      "notes": "plaintiff law firm street address"
+    },
+    {
+      "text": "Steubenville, Ohio 43952",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "225 Market Street, Steubenville, Ohio 43952",
+      "notes": "plaintiff law firm city state zip"
+    },
+    {
+      "text": "(740) 264-7891",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(740) 264-7891",
+      "notes": "plaintiff law firm phone"
+    },
+    {
+      "text": "jbrennan@brennanlaw.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY1_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jbrennan@brennanlaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "mbrennan@brennanlaw.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY2_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mbrennan@brennanlaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "April 3, 2023",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 3, 2023",
+      "notes": "complaint filing date"
+    }
+  ]
+}
