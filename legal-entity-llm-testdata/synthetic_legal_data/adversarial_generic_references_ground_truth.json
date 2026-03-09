@@ -1,0 +1,135 @@
+{
+  "scenario_id": "adversarial_generic_references",
+  "doc_type": "COURT ORDER",
+  "word_count": 914,
+  "entity_count": 9,
+  "unique_canonical_count": 5,
+  "adversarial": true,
+  "entities": [
+    {
+      "text": "2023-CR-45892",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CR-45892",
+      "notes": "criminal case number"
+    },
+    {
+      "text": "MARCUS DANIEL RODRIGUEZ",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS DANIEL RODRIGUEZ",
+      "notes": "defendant's full name"
+    },
+    {
+      "text": "Marcus Daniel Rodriguez",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS DANIEL RODRIGUEZ",
+      "notes": "defendant's name"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS DANIEL RODRIGUEZ",
+      "notes": "defendant's last name"
+    },
+    {
+      "text": "Marcus Daniel Rodriguez",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS DANIEL RODRIGUEZ",
+      "notes": "defendant's name"
+    },
+    {
+      "text": "March 8, 2023",
+      "token_prefix": "ARREST_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2023",
+      "notes": "defendant's arrest date"
+    },
+    {
+      "text": "4728 North Sheridan Road, Chicago, Illinois 60640",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4728 North Sheridan Road, Chicago, Illinois 60640",
+      "notes": "defendant's home address"
+    },
+    {
+      "text": "PATRICIA M. WONG",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "PATRICIA M. WONG",
+      "notes": "judge's name"
+    },
+    {
+      "text": "March 8, 2023",
+      "token_prefix": "ARREST_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2023",
+      "notes": "arrest date referenced again"
+    }
+  ],
+  "negative_examples": [
+    {
+      "text": "the Court",
+      "reason": "generic institutional reference"
+    },
+    {
+      "text": "this Court",
+      "reason": "generic institutional self-reference"
+    },
+    {
+      "text": "the People",
+      "reason": "generic prosecutorial party reference"
+    },
+    {
+      "text": "the State",
+      "reason": "generic prosecutorial entity reference"
+    },
+    {
+      "text": "the Commonwealth",
+      "reason": "generic government reference"
+    },
+    {
+      "text": "the Government",
+      "reason": "generic sovereign reference"
+    },
+    {
+      "text": "the defendant",
+      "reason": "generic role reference"
+    },
+    {
+      "text": "720 ILCS 5/12-3.05",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "730 ILCS 5/5-4.1-4",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "$250",
+      "reason": "generic monetary amount, not PII"
+    },
+    {
+      "text": "four (4) years",
+      "reason": "sentence length, not PII"
+    },
+    {
+      "text": "Cook County",
+      "reason": "generic jurisdiction reference"
+    },
+    {
+      "text": "Illinois Department of Corrections",
+      "reason": "generic institutional reference"
+    },
+    {
+      "text": "November 15, 2023",
+      "reason": "court proceeding date, not personal PII"
+    },
+    {
+      "text": "Circuit Court of Cook County",
+      "reason": "generic institutional reference"
+    }
+  ]
+}

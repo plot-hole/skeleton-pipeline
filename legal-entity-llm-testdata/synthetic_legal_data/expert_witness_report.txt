@@ -1,62 +1,56 @@
 **EXPERT WITNESS REPORT**
 
-**CASE:** Martinez v. Thompson, et al.
-**CASE NO.:** 2023-CV-08947
-**DATE:** November 15, 2023
-
-**TO:** Johnson & Associates Law Firm
-**FROM:** Dr. Rebecca Patricia Hernandez, M.D., F.A.C.C.
-**RE:** Expert Medical Opinion - Cardiac Surgical Malpractice
+**Case No.:** 2023-CV-08742
+**Court:** District Court of Harris County, Texas
+**Plaintiff:** Rebecca Marie Harrison
+**Defendant:** Dr. Marcus Jonathan Whitfield, MD
 
 ---
 
-**EXPERT WITNESS QUALIFICATIONS**
+**EXPERT WITNESS REPORT OF DR. ELENA VASQUEZ, MD**
 
-I am Dr. Rebecca Patricia Hernandez, a board-certified cardiologist currently practicing at Memorial Heart Center, located at 4821 Oak Grove Boulevard, Richardson, Texas 75080. I received my medical degree from Baylor College of Medicine in 1998 and completed my cardiology fellowship at Texas Heart Institute in 2003. I have been practicing interventional cardiology for over twenty years and have performed more than 3,500 cardiac catheterizations and related procedures. My curriculum vitae, which details my extensive qualifications, is attached as Exhibit A.
+I, Dr. Elena Vasquez, MD, have been retained by counsel for the plaintiff in the above-referenced matter to provide expert medical opinion regarding the standard of care provided to Rebecca Marie Harrison during her cardiac procedure performed on March 15, 2023.
 
-I may be reached at rhernandez@memorialheart.org for any questions regarding this report.
+**QUALIFICATIONS AND BACKGROUND**
 
-**CASE SUMMARY AND MATERIALS REVIEWED**
+I am a board-certified cardiologist with over eighteen years of experience in interventional cardiology. I am currently the Director of Cardiac Services at Meadowbrook Regional Medical Center, located at 4250 Cypress Creek Parkway, Spring, Texas 77388. My email address is e.vasquez@meadowbrookmed.org. I received my medical degree from Baylor College of Medicine in 2005 and completed my cardiology fellowship at Texas Heart Institute. I have performed over 3,000 cardiac catheterization procedures and have testified as an expert witness in similar cases on twelve previous occasions.
 
-I have been retained to provide expert medical opinion regarding the care and treatment of Isabella Marie Santos, DOB: 03/22/1967, SSN: 462-88-9341, Medical Record Number: MRN-445782, in connection with cardiac surgery performed on August 14, 2022, at Dallas Metropolitan Medical Center, 2200 Harry Hines Boulevard, Dallas, Texas 75235.
+**MATERIALS REVIEWED**
 
-The patient, Ms. Santos, underwent coronary artery bypass grafting (CABG) performed by Dr. Michael Jonathan Thompson, M.D. I have reviewed the complete medical records from Dallas Metropolitan Medical Center dated August 12, 2022, through September 2, 2022, as well as follow-up records dated October 18, 2022. Ms. Santos may be reached at her home telephone number (214) 555-7839 if additional patient history is required.
+I have reviewed the complete medical records of Ms. Harrison from Memorial Healthcare System, located at 1400 Binz Street, Houston, Texas 77004. Specifically, I examined records from March 14, 2023, and March 16, 2023, encompassing the pre-operative assessment, surgical procedure notes, and post-operative care documentation. The patient's date of birth is July 22, 1967, her Social Security number is 412-88-9362, medical record number is MHS-7749821, and her home phone number is (281) 555-4792.
 
-**MEDICAL HISTORY AND PROCEDURE**
+**CASE SUMMARY**
 
-Isabella Marie Santos, a 55-year-old female, presented with severe three-vessel coronary artery disease requiring surgical intervention. She had a documented history of diabetes mellitus, hypertension, and hyperlipidemia. Prior to surgery, the patient was maintained on metoprolol 50mg twice daily among other medications.
+Rebecca Marie Harrison underwent a percutaneous coronary intervention (PCI) with stent placement performed by defendant Dr. Marcus Jonathan Whitfield on March 15, 2023. The procedure was intended to address a 75% stenosis in the left anterior descending artery. According to the medical records, the patient experienced complications during the procedure, resulting in coronary artery dissection and subsequent myocardial infarction.
 
-On August 14, 2022, Dr. Thompson performed a three-vessel coronary artery bypass graft procedure on Ms. Santos. The surgery involved bypassing the left anterior descending artery, right coronary artery, and obtuse marginal branch of the circumflex artery using saphenous vein grafts.
+**STANDARD OF CARE ANALYSIS**
 
-**EXPERT OPINIONS**
+Based on my review of the medical documentation and current medical literature, it is my opinion that Dr. Whitfield's treatment of Ms. Harrison fell below the accepted standard of care in several critical areas:
 
-Based on my review of the medical records and my expertise in cardiovascular medicine, I offer the following opinions within a reasonable degree of medical certainty:
+**1. Pre-procedural Assessment:** The defendant failed to adequately assess the patient's coronary anatomy using appropriate imaging modalities. The records indicate that Rebecca Marie Harrison had complex vessel tortuosity that should have been identified and addressed in the procedural planning. A more thorough pre-procedural evaluation would have revealed the high-risk nature of her coronary anatomy.
 
-**1. Standard of Care Violation**
+**2. Procedural Technique:** During the catheterization, Dr. Whitfield used excessive force when advancing the guidewire, despite clear resistance noted in the procedure notes. The standard of care requires careful, measured advancement with immediate cessation upon meeting resistance. His failure to heed these warning signs directly contributed to the coronary dissection that occurred.
 
-Dr. Thompson's management of Isabella Santos fell below the accepted standard of care for cardiac surgery. Specifically, Thompson failed to adequately assess the patient's cardiac function prior to surgery. The preoperative echocardiogram clearly showed an ejection fraction of 25%, indicating severely compromised left ventricular function. Standard protocol requires additional hemodynamic assessment and possible placement of intra-aortic balloon pump support in patients with such severe dysfunction.
+**3. Post-procedural Management:** Following the recognized complication, the defendant delayed appropriate intervention for approximately 45 minutes. During this critical period, she should have received immediate administration of Metoprolol and emergency consultation with cardiac surgery. This delay resulted in extension of the myocardial injury and contributed to the patient's prolonged recovery.
 
-Furthermore, Dr. Thompson proceeded with surgery despite the patient's elevated troponin levels (4.8 ng/mL) indicating ongoing myocardial injury. The standard of care required delay of the procedure and medical stabilization of Isabella Santos before attempting surgical intervention.
+**CAUSATION**
 
-**2. Causation Analysis**
+In my professional opinion, the deviations from the standard of care directly caused Ms. Harrison's injuries. The coronary artery dissection was a direct result of improper technique during guidewire placement. The extended delay in recognition and treatment of this complication caused additional myocardial damage that could have been prevented with appropriate immediate intervention.
 
-The substandard care provided by the defendant directly caused significant harm to Ms. Santos. Thompson's failure to provide adequate cardiac support during the procedure resulted in perioperative myocardial infarction and subsequent cardiogenic shock. This complication was entirely preventable with proper preoperative planning and intraoperative management.
+**DAMAGES AND COSTS**
 
-The patient suffered prolonged hospitalization requiring intensive care support for 18 days, resulting in additional medical expenses exceeding $287,500. She also required placement of a left ventricular assist device, adding another $145,000 in medical costs.
-
-**3. Long-term Consequences**
-
-Isabella Santos now suffers from permanent cardiac disability with a current ejection fraction of only 15%. She requires ongoing medical management including heart failure medications and frequent cardiology follow-up visits. The patient's functional capacity has been severely limited, and she is now classified as New York Heart Association Class III heart failure.
-
-Ms. Santos will require consideration for heart transplantation within the next two to three years, representing additional medical expenses of approximately $500,000 to $750,000.
+The medical records indicate that Rebecca Marie Harrison required emergency cardiac surgery with a total hospital cost of $187,450. She subsequently required additional cardiac rehabilitation costing $23,800 and ongoing cardiological care. The patient has experienced significant physical limitations and will require lifelong monitoring for cardiac function. As referenced in Exhibit C-12, her ejection fraction has been permanently reduced from 60% to 35%, representing substantial cardiac impairment.
 
 **CONCLUSION**
 
-In my expert medical opinion, Dr. Michael Jonathan Thompson's care of Isabella Marie Santos on August 14, 2022, fell below the accepted standard of care for cardiac surgery. His actions directly caused preventable complications resulting in permanent cardiac disability and substantial medical expenses. The harm suffered by the patient was entirely avoidable with proper adherence to standard cardiac surgical protocols.
+Based on my expertise and review of all available medical documentation, it is my opinion within a reasonable degree of medical certainty that Dr. Marcus Jonathan Whitfield's treatment of the plaintiff fell below the accepted standard of care for interventional cardiology. His actions were the proximate cause of her injuries, complications, and ongoing medical needs. The damages sustained by Ms. Harrison were preventable with appropriate adherence to established medical standards.
 
-This opinion is rendered within a reasonable degree of medical certainty based on my training, experience, and review of the relevant medical records.
+This report is rendered on November 8, 2023, and I am prepared to testify to these opinions at trial.
 
-**Dr. Rebecca Patricia Hernandez, M.D., F.A.C.C.**
-**Interventional Cardiologist**
-**Memorial Heart Center**
-**November 15, 2023**
+Respectfully submitted,
+
+Elena Vasquez, MD
+Director of Cardiac Services
+Meadowbrook Regional Medical Center
+4250 Cypress Creek Parkway
+Spring, Texas 77388

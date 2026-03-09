@@ -1,118 +1,126 @@
 **UNITED STATES DISTRICT COURT**
 **NORTHERN DISTRICT OF ILLINOIS**
+**EASTERN DIVISION**
 
-MERIDIAN INDUSTRIES CORP.,               )
-                                        )
-            Plaintiff,                  )   Case No. 2023-CV-04792
-                                        )
-v.                                      )   Hon. Margaret R. Fitzgerald
-                                        )
-NORTHWEST LOGISTICS SOLUTIONS, LLC,     )
-                                        )
-            Defendant.                  )
+MERIDIAN LOGISTICS CORP.,
+                                    Plaintiff,
+v.                                  Case No. 2023-CV-04792
+PINNACLE SUPPLY SOLUTIONS, INC.,
+                                    Defendant.
 
-**DEPOSITION OF CARLOS RIVERA**
-**October 15, 2023**
+**DEPOSITION OF PATRICIA HELEN RODRIGUEZ**
+**Taken on November 14, 2023**
 
 APPEARANCES:
 
 For Plaintiff:
-Jennifer L. Patterson, Esq.
-Morrison & Associates LLP
+    Sarah M. Chen, Esq.
+    CHEN & ASSOCIATES LLP
 
 For Defendant:
-Robert K. Chen, Esq.
-Sullivan Defense Group
+    Michael R. Davidson, Esq.
+    DAVIDSON MURPHY & PARTNERS
 
----
+The Honorable Judge Elizabeth Thornton presiding.
 
-**EXAMINATION BY MS. PATTERSON:**
+* * *
 
-Q: Please state your name and address for the record.
+PATRICIA HELEN RODRIGUEZ, having been first duly sworn, was examined and testified as follows:
 
-A: Carlos Rivera. I live at 847 West Armitage Avenue, Chicago, Illinois 60614.
+**EXAMINATION BY MS. CHEN:**
 
-Q: Mr. Rivera, what is your phone number and email address?
+Q. Please state your full name and address for the record.
 
-A: My phone is (312) 555-7829 and my email is c.rivera.logistics@gmail.com.
+A. My name is Patricia Helen Rodriguez. I live at 2847 North Halsted Street, Chicago, Illinois 60657.
 
-Q: How do you know the parties in this litigation?
+Q. Ms. Rodriguez, what is your phone number and email address?
 
-A: I was the operations manager at Northwest Logistics Solutions from 2018 until early this year. I worked directly under Sarah Mitchell, who was our COO. I also had regular contact with Meridian Industries, particularly their CEO David Thornton.
+A. My phone is (312) 555-9823 and my email is p.rodriguez@northsidetech.com.
 
-Q: Let me show you what's been marked as Exhibit A. Do you recognize this document?
+Q. How do you know the parties in this case?
 
-A: Yes, this is the supply chain contract between Meridian and Northwest Logistics. It was executed on March 12, 2022. The contract value was $2.8 million over eighteen months.
+A. I worked directly with both companies on the contract at issue. I was the project coordinator between Meridian Logistics Corp. and Pinnacle Supply Solutions, Inc.
 
-Q: Who negotiated this agreement on behalf of Northwest Logistics?
+Q. Who did you work with specifically at each company?
 
-A: Ms. Mitchell handled the negotiations. She met with Mr. Thornton several times in February 2022. I was present at two of those meetings.
+A. At Meridian, I worked primarily with the CEO, Thomas Bradley Hutchinson. Mr. Hutchinson was very hands-on with this deal. At Pinnacle, my main contact was their COO, Rebecca Marie Santos.
 
-Q: What was discussed during those meetings?
+Q. Let's talk about the contract execution. When was the agreement signed?
 
-A: The main issue was delivery timelines. Thornton was very specific about needing the components by certain dates for his manufacturing schedule. Mitchell assured him that we could meet those deadlines.
+A. The contract was executed on March 15, 2022. I remember because it was right after the quarterly board meeting.
 
-Q: Did Northwest Logistics meet the delivery requirements?
+Q. Were you present when Mr. Hutchinson signed the contract?
 
-A: Initially, yes. For the first six months, we were on schedule. But things started falling apart in October 2022.
+A. Yes, I was in his office. He reviewed the terms one final time before signing. Thomas was particularly concerned about the delivery schedules.
 
-Q: What happened in October?
+Q. Did he express any concerns to you?
 
-A: We had equipment failures at our Chicago facility. Mitchell tried to work around it, but the delays started accumulating. By December 15, 2022, we were officially in breach of the delivery terms.
+A. Mr. Hutchinson mentioned that Ms. Santos had assured him that Pinnacle could meet all deadlines. He said Rebecca had personally guaranteed the timeline during their February meeting.
 
-Q: Did you communicate with Meridian about these delays?
+Q. Let me show you what's been marked as Exhibit A. Do you recognize this document?
 
-A: I did. I called Thornton's office several times. He was frustrated because the delays were affecting his production line. He specifically told me that if we couldn't fulfill the contract, his company would seek alternative suppliers.
+A. Yes, this is the original supply agreement between the companies. The contract value was $2,847,500.
 
-**EXAMINATION BY MR. CHEN:**
+Q. When did the alleged breach occur?
 
-Q: Mr. Rivera, you mentioned equipment failures. Were these foreseeable?
+A. The breach happened on August 22, 2022. That's when Pinnacle missed their first major delivery deadline.
 
-A: Not really. The machinery had been serviced regularly. Ms. Mitchell had invested significantly in maintenance protocols.
+Q. How did you learn about the breach?
 
-Q: Looking at Exhibit C-2, do you recognize this correspondence?
+A. Thomas called me immediately. He was furious because Ms. Santos hadn't returned his calls for three days. Mr. Hutchinson said he needed me to document everything for potential legal action.
 
-A: Yes, that's an email chain between myself and David Thornton from November 2022. In it, he acknowledges that some delays might be unavoidable due to supply chain disruptions affecting the entire industry.
+Q. What did you document?
 
-Q: In this email, does the CEO express understanding about the challenges Northwest was facing?
+A. I kept detailed records of all communications. Rebecca finally called back on August 25th, but by then the damage was done.
 
-A: He does. Thornton writes that his company had experienced similar issues with other vendors. He even suggested that we might extend the contract deadline by 30 days.
+**EXAMINATION BY MR. DAVIDSON:**
 
-Q: Did Sarah Mitchell agree to this extension?
+Q. Ms. Rodriguez, you mentioned Ms. Santos assured Mr. Hutchinson about deadlines. Were you present for those conversations?
 
-A: She was willing to discuss it, but ultimately Meridian decided to terminate the contract instead. The termination notice came on December 15, 2022.
+A. Not all of them. Some discussions were between Thomas and Rebecca directly.
 
-Q: After the termination, did you have any further contact with either Ms. Mitchell or Mr. Thornton?
+Q. So you don't have firsthand knowledge of what she actually said?
 
-A: I spoke with Mitchell several times as we wound down operations. She was concerned about the legal implications. As for Thornton, I haven't spoken to him since the contract was terminated.
+A. Correct. I only know what Mr. Hutchinson told me afterward.
 
-Q: In your opinion, was Northwest Logistics acting in good faith throughout this contract period?
+Q. Looking at Exhibit C-2, do you see your initials on this amendment?
 
-A: Absolutely. Despite the equipment problems, the COO did everything possible to minimize delays. She even arranged for emergency subcontracting at significant cost to the company.
+A. Yes, those are my initials. This was an amendment that Thomas requested in May 2022.
 
-Q: Are you aware of any other disputes between these parties?
+Q. Did Ms. Santos object to this amendment?
 
-A: No, this was their first major contract together. Prior to this, they had only done smaller transactions without any problems.
+A. Not initially. Rebecca seemed agreeable when we first discussed it. But later, she said her team had concerns about the modified timeline.
 
-**EXAMINATION BY MS. PATTERSON:**
+Q. When you say "later," can you be more specific?
 
-Q: Mr. Rivera, you mentioned that Ms. Mitchell incurred additional costs for subcontracting. Do you know how much?
+A. This was in June. Ms. Santos called Thomas directly, and he relayed the conversation to me. According to him, Rebecca was now saying the changes would impact their ability to perform.
 
-A: She told me it was approximately $400,000 in additional expenses. But even with that investment, we couldn't meet the original timeline.
+Q. Did Mr. Hutchinson document his concerns about Ms. Santos' changing position?
 
-Q: Did the defendant ever formally request the contract extension that Mr. Thornton had suggested?
+A. Yes. Thomas sent several emails to Rebecca between June and August. He was trying to get clarity on their position.
 
-A: No. By the time Mitchell was ready to make that request officially, Meridian had already decided to terminate.
+Q. Were you copied on those emails?
 
-Q: Have you maintained any documentation from your time at Northwest Logistics?
+A. Some of them. Mr. Hutchinson wanted me to track all correspondence for the project file.
 
-A: I have some emails and notes, but most company records remained with them when I left in January 2023.
+Q. In your opinion, did both parties understand their obligations under the contract?
 
-**CERTIFICATE**
+A. I believe so. Thomas certainly understood what Meridian was expecting, and Rebecca seemed to grasp what Pinnacle needed to deliver.
 
-I, Linda M. Rodriguez, Certified Court Reporter, do hereby certify that the foregoing is a true and accurate transcript of the deposition testimony given in the above-entitled cause.
+Q. But things changed?
 
-Dated: October 20, 2023
+A. Yes. By July, Ms. Santos was raising issues that hadn't come up before. She claimed there were supply chain problems, but Thomas felt these were excuses.
 
-_________________________
-Linda M. Rodriguez, CCR
+Q. Did you personally witness any conversations between Mr. Hutchinson and Ms. Santos about these problems?
+
+A. I was present for one phone call in late July. Thomas put the call on speaker. Rebecca was explaining the delays, but he wasn't satisfied with her explanations.
+
+Q. What specifically did she say during that call?
+
+A. Ms. Santos mentioned material shortages and shipping delays. But Mr. Hutchinson pointed out that these issues should have been anticipated when she originally committed to the timeline.
+
+Q. How did that conversation end?
+
+A. Thomas told Rebecca that Meridian was depending on timely performance and that any delays could result in significant damages. She said she understood, but obviously things didn't improve.
+
+(Deposition continued for additional testimony...)

@@ -1,0 +1,76 @@
+**IN THE UNITED STATES DISTRICT COURT**
+**FOR THE NORTHERN DISTRICT OF CALIFORNIA**
+
+MARCUS WELLINGTON HAYES,
+                                                           Plaintiff,
+v.                                                        Case No. 2023-CV-04827
+
+PINNACLE TECHNOLOGY SOLUTIONS, INC.,
+                                                           Defendant.
+
+**MOTION FOR SUMMARY JUDGMENT**
+
+TO THE HONORABLE COURT:
+
+Defendant PINNACLE TECHNOLOGY SOLUTIONS, INC., by and through its undersigned counsel, respectfully moves this Court for summary judgment pursuant to Rule 56(a) of the Federal Rules of Civil Procedure on all claims asserted by Plaintiff MARCUS WELLINGTON HAYES in this employment discrimination action.
+
+**I. STATEMENT OF THE CASE**
+
+This matter arises from Plaintiff's allegations of wrongful termination and employment discrimination filed on March 15, 2023. Hayes claims he was terminated in retaliation for reporting safety violations at Defendant's manufacturing facility located in San Jose, California. The plaintiff seeks damages totaling $2,450,000, including $187,500 in lost wages, along with punitive damages and attorney's fees.
+
+This Court has subject matter jurisdiction under 28 U.S.C. § 1331 for federal question jurisdiction and supplemental jurisdiction over state law claims pursuant to 28 U.S.C. § 1367. The amount-in-controversy requirement of $75,000 is clearly satisfied, as Plaintiff seeks well over the statutory threshold. Additionally, this Court has personal jurisdiction over Defendant, which maintains its principal place of business within this district.
+
+**II. STATEMENT OF UNDISPUTED MATERIAL FACTS**
+
+The following facts are undisputed based on the record evidence, including deposition testimony, corporate records, and documentary evidence filed as Exhibit No. 1 through Exhibit No. 5:
+
+1. Hayes was employed by Pinnacle Technology Solutions from January 2019 through December 2022 as a Quality Assurance Manager at an annual salary exceeding the $300,000 statutory cap for certain damages under California Labor Code provisions.
+
+2. During his employment, the plaintiff reported multiple safety concerns through the company's established reporting system, as documented in Docket No. 1 and Docket No. 15 of the company's internal compliance records.
+
+3. Hayes's performance evaluations consistently rated him in the top 35% of quality assurance personnel, with no documented performance deficiencies prior to his termination.
+
+4. The decision to terminate Plaintiff's employment was made following a comprehensive restructuring of Defendant's quality assurance department, which resulted in the elimination of multiple positions as the company's No. 1 priority for cost reduction in fiscal year 2023.
+
+5. Pinnacle Technology Solutions provided Hayes with appropriate notice and severance benefits in accordance with company policy and applicable law, including payment of all accrued wages and benefits.
+
+**III. LEGAL STANDARD**
+
+Summary judgment is appropriate when "there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The movant bears the initial burden of demonstrating the absence of a genuine issue of material fact. Once this burden is met, the non-moving party must present evidence showing that a reasonable jury could return a verdict in their favor.
+
+**IV. ARGUMENT**
+
+**A. Plaintiff Cannot Establish a Prima Facie Case of Retaliation**
+
+Hayes cannot satisfy the essential elements of his retaliation claim under 42 U.S.C. § 1983 and state anti-retaliation statutes. While the plaintiff engaged in protected activity by reporting safety concerns, he cannot demonstrate the requisite causal connection between his protected activity and his termination.
+
+The undisputed record establishes that Defendant's decision to restructure was driven by legitimate business considerations, including a company-wide reduction in force affecting multiple departments. The timing of Hayes's termination—occurring more than six months after his last safety report—negates any inference of retaliatory motive.
+
+**B. Defendant's Actions Were Based on Legitimate Business Reasons**
+
+Even assuming arguendo that Plaintiff could establish a prima facie case, Defendant is entitled to summary judgment because its actions were motivated by legitimate, non-retaliatory business reasons. The company's financial records, which required only a $50 filing fee to obtain from the Secretary of State, demonstrate significant revenue declines necessitating workforce reductions.
+
+The restructuring plan, developed independently of any knowledge of Hayes's safety reports, eliminated positions across multiple departments in a non-discriminatory manner. The plaintiff has produced no evidence that the stated business reasons were pretextual or that similarly situated employees outside the protected class were treated more favorably.
+
+**V. CONCLUSION**
+
+For the foregoing reasons, Defendant respectfully requests that this Court grant its Motion for Summary Judgment and enter judgment in favor of PINNACLE TECHNOLOGY SOLUTIONS, INC. on all claims asserted by Plaintiff MARCUS WELLINGTON HAYES.
+
+Respectfully submitted,
+
+/s/ Jennifer L. Morrison
+JENNIFER L. MORRISON, ESQ.
+State Bar No. 245789
+CROMWELL & ASSOCIATES LLP
+Attorney for Defendant
+1850 Gateway Boulevard, Suite 400
+San Francisco, CA 94102
+(415) 555-2847
+jmorrison@cromwelllaw.com
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true and correct copy of the foregoing Motion for Summary Judgment was served upon counsel for Plaintiff by electronic filing through the Court's CM/ECF system on this 8th day of June, 2023.
+
+/s/ Jennifer L. Morrison
+JENNIFER L. MORRISON, ESQ.

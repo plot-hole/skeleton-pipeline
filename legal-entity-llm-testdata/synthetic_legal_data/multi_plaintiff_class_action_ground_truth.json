@@ -1,0 +1,730 @@
+{
+  "scenario_id": "multi_plaintiff_class_action",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 1015,
+  "entity_count": 103,
+  "unique_canonical_count": 48,
+  "entities": [
+    {
+      "text": "MARIA ELENA RODRIGUEZ",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "first named plaintiff full name"
+    },
+    {
+      "text": "JAMES MICHAEL THOMPSON",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "second named plaintiff full name"
+    },
+    {
+      "text": "SARAH JANET WILLIAMS",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "third named plaintiff full name"
+    },
+    {
+      "text": "DAVID ANTHONY CHEN",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "fourth named plaintiff full name"
+    },
+    {
+      "text": "2024-CV-02847",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CV-02847",
+      "notes": "federal case number"
+    },
+    {
+      "text": "VITAMAX NUTRITION CORPORATION",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "first defendant corporation"
+    },
+    {
+      "text": "SUPERMART RETAIL CHAINS INC.",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "second defendant corporation"
+    },
+    {
+      "text": "ROBERT WILLIAM STERLING",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "third defendant individual"
+    },
+    {
+      "text": "Maria Elena Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 full name repetition"
+    },
+    {
+      "text": "James Michael Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 full name repetition"
+    },
+    {
+      "text": "Sarah Janet Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 full name repetition"
+    },
+    {
+      "text": "David Anthony Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 full name repetition"
+    },
+    {
+      "text": "VitaMax Nutrition Corporation",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 corporation standard form"
+    },
+    {
+      "text": "SuperMart Retail Chains Inc.",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 corporation standard form"
+    },
+    {
+      "text": "Robert William Sterling",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "defendant 3 individual standard form"
+    },
+    {
+      "text": "Maria Elena Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 parties section"
+    },
+    {
+      "text": "3847 Riverside Drive, Sacramento, California 95819",
+      "token_prefix": "ADDRESS_1",
+      "entity_type": "ADDRESS",
+      "canonical": "3847 Riverside Drive, Sacramento, California 95819",
+      "notes": "plaintiff 1 home address"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 last name only"
+    },
+    {
+      "text": "(916) 555-3729",
+      "token_prefix": "PHONE_1",
+      "entity_type": "ID",
+      "canonical": "(916) 555-3729",
+      "notes": "plaintiff 1 phone number"
+    },
+    {
+      "text": "mrodriguez.legal@email.com",
+      "token_prefix": "EMAIL_1",
+      "entity_type": "ID",
+      "canonical": "mrodriguez.legal@email.com",
+      "notes": "plaintiff 1 email address"
+    },
+    {
+      "text": "James Michael Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 parties section"
+    },
+    {
+      "text": "9251 Sunset Boulevard, Los Angeles, California 90069",
+      "token_prefix": "ADDRESS_2",
+      "entity_type": "ADDRESS",
+      "canonical": "9251 Sunset Boulevard, Los Angeles, California 90069",
+      "notes": "plaintiff 2 home address"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 last name only"
+    },
+    {
+      "text": "(323) 555-8142",
+      "token_prefix": "PHONE_2",
+      "entity_type": "ID",
+      "canonical": "(323) 555-8142",
+      "notes": "plaintiff 2 phone number"
+    },
+    {
+      "text": "Sarah Janet Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 parties section"
+    },
+    {
+      "text": "1456 Ocean View Terrace, San Diego, California 92101",
+      "token_prefix": "ADDRESS_3",
+      "entity_type": "ADDRESS",
+      "canonical": "1456 Ocean View Terrace, San Diego, California 92101",
+      "notes": "plaintiff 3 home address"
+    },
+    {
+      "text": "Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 last name only"
+    },
+    {
+      "text": "(619) 555-2883",
+      "token_prefix": "PHONE_3",
+      "entity_type": "ID",
+      "canonical": "(619) 555-2883",
+      "notes": "plaintiff 3 phone number"
+    },
+    {
+      "text": "sarah.j.williams@email.com",
+      "token_prefix": "EMAIL_3",
+      "entity_type": "ID",
+      "canonical": "sarah.j.williams@email.com",
+      "notes": "plaintiff 3 email address"
+    },
+    {
+      "text": "David Anthony Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 parties section"
+    },
+    {
+      "text": "2893 Fig Garden Loop, Fresno, California 93711",
+      "token_prefix": "ADDRESS_4",
+      "entity_type": "ADDRESS",
+      "canonical": "2893 Fig Garden Loop, Fresno, California 93711",
+      "notes": "plaintiff 4 home address"
+    },
+    {
+      "text": "Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 last name only"
+    },
+    {
+      "text": "(559) 555-7394",
+      "token_prefix": "PHONE_4",
+      "entity_type": "ID",
+      "canonical": "(559) 555-7394",
+      "notes": "plaintiff 4 phone number"
+    },
+    {
+      "text": "VitaMax Nutrition Corporation",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 parties section"
+    },
+    {
+      "text": "1200 Corporate Plaza, Irvine, California 92618",
+      "token_prefix": "ADDRESS_5",
+      "entity_type": "ADDRESS",
+      "canonical": "1200 Corporate Plaza, Irvine, California 92618",
+      "notes": "defendant 1 business address"
+    },
+    {
+      "text": "SuperMart Retail Chains Inc.",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 parties section"
+    },
+    {
+      "text": "4500 Commerce Center Drive, Las Vegas, Nevada 89119",
+      "token_prefix": "ADDRESS_6",
+      "entity_type": "ADDRESS",
+      "canonical": "4500 Commerce Center Drive, Las Vegas, Nevada 89119",
+      "notes": "defendant 2 business address"
+    },
+    {
+      "text": "Robert William Sterling",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "defendant 3 parties section"
+    },
+    {
+      "text": "VitaMax Nutrition Corporation",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 corporate affiliation"
+    },
+    {
+      "text": "7825 Hillcrest Manor Drive, Beverly Hills, California 90210",
+      "token_prefix": "ADDRESS_7",
+      "entity_type": "ADDRESS",
+      "canonical": "7825 Hillcrest Manor Drive, Beverly Hills, California 90210",
+      "notes": "defendant 3 home address"
+    },
+    {
+      "text": "$5,000,000",
+      "token_prefix": "AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$5,000,000",
+      "notes": "jurisdictional amount threshold"
+    },
+    {
+      "text": "January 2022",
+      "token_prefix": "DATE_1",
+      "entity_type": "DATE",
+      "canonical": "January 2022",
+      "notes": "scheme start date"
+    },
+    {
+      "text": "December 2023",
+      "token_prefix": "DATE_2",
+      "entity_type": "DATE",
+      "canonical": "December 2023",
+      "notes": "scheme end date"
+    },
+    {
+      "text": "VitaMax",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 short form"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 short form"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 factual allegations"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 transaction reference"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "DATE_3",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "plaintiff 1 purchase date"
+    },
+    {
+      "text": "VitaMax",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 manufacturer reference"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 retailer reference"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 factual allegations"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 purchase location"
+    },
+    {
+      "text": "June 8, 2023",
+      "token_prefix": "DATE_4",
+      "entity_type": "DATE",
+      "canonical": "June 8, 2023",
+      "notes": "plaintiff 2 purchase date"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 pronoun reference"
+    },
+    {
+      "text": "Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 factual allegations"
+    },
+    {
+      "text": "August 22, 2023",
+      "token_prefix": "DATE_5",
+      "entity_type": "DATE",
+      "canonical": "August 22, 2023",
+      "notes": "plaintiff 3 purchase date"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 purchase location"
+    },
+    {
+      "text": "Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 factual allegations"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 purchase location"
+    },
+    {
+      "text": "October 5, 2023",
+      "token_prefix": "DATE_6",
+      "entity_type": "DATE",
+      "canonical": "October 5, 2023",
+      "notes": "plaintiff 4 purchase date"
+    },
+    {
+      "text": "Sterling",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "defendant 3 last name only"
+    },
+    {
+      "text": "VitaMax",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 corporate reference"
+    },
+    {
+      "text": "He",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "defendant 3 pronoun reference"
+    },
+    {
+      "text": "SuperMart",
+      "token_prefix": "DEFENDANT_2",
+      "entity_type": "ORG",
+      "canonical": "SuperMart Retail Chains Inc.",
+      "notes": "defendant 2 promotion activities"
+    },
+    {
+      "text": "January 1, 2022",
+      "token_prefix": "DATE_7",
+      "entity_type": "DATE",
+      "canonical": "January 1, 2022",
+      "notes": "class period start date"
+    },
+    {
+      "text": "December 31, 2023",
+      "token_prefix": "DATE_8",
+      "entity_type": "DATE",
+      "canonical": "December 31, 2023",
+      "notes": "class period end date"
+    },
+    {
+      "text": "250,000",
+      "token_prefix": "NUMBER_1",
+      "entity_type": "ID",
+      "canonical": "250,000",
+      "notes": "units sold quantity"
+    },
+    {
+      "text": "February 14, 2024",
+      "token_prefix": "DATE_9",
+      "entity_type": "DATE",
+      "canonical": "February 14, 2024",
+      "notes": "class certification date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 cause of action"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 cause of action"
+    },
+    {
+      "text": "Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 cause of action"
+    },
+    {
+      "text": "Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 cause of action"
+    },
+    {
+      "text": "Sterling",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "defendant 3 negligent misrepresentation"
+    },
+    {
+      "text": "VitaMax",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "VitaMax Nutrition Corporation",
+      "notes": "defendant 1 negligent misrepresentation"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 damages section"
+    },
+    {
+      "text": "$149.99",
+      "token_prefix": "AMOUNT_2",
+      "entity_type": "MONEY",
+      "canonical": "$149.99",
+      "notes": "plaintiff 1 individual damages"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 damages section"
+    },
+    {
+      "text": "$149.99",
+      "token_prefix": "AMOUNT_3",
+      "entity_type": "MONEY",
+      "canonical": "$149.99",
+      "notes": "plaintiff 2 individual damages"
+    },
+    {
+      "text": "Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 damages section"
+    },
+    {
+      "text": "$149.99",
+      "token_prefix": "AMOUNT_4",
+      "entity_type": "MONEY",
+      "canonical": "$149.99",
+      "notes": "plaintiff 3 individual damages"
+    },
+    {
+      "text": "Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 damages section"
+    },
+    {
+      "text": "$149.99",
+      "token_prefix": "AMOUNT_5",
+      "entity_type": "MONEY",
+      "canonical": "$149.99",
+      "notes": "plaintiff 4 individual damages"
+    },
+    {
+      "text": "$37,000,000",
+      "token_prefix": "AMOUNT_6",
+      "entity_type": "MONEY",
+      "canonical": "$37,000,000",
+      "notes": "aggregate class damages"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Rodriguez",
+      "notes": "plaintiff 1 prayer for relief"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF_2",
+      "entity_type": "PERSON",
+      "canonical": "James Michael Thompson",
+      "notes": "plaintiff 2 prayer for relief"
+    },
+    {
+      "text": "Williams",
+      "token_prefix": "PLAINTIFF_3",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Janet Williams",
+      "notes": "plaintiff 3 prayer for relief"
+    },
+    {
+      "text": "Chen",
+      "token_prefix": "PLAINTIFF_4",
+      "entity_type": "PERSON",
+      "canonical": "David Anthony Chen",
+      "notes": "plaintiff 4 prayer for relief"
+    },
+    {
+      "text": "Sterling",
+      "token_prefix": "DEFENDANT_3",
+      "entity_type": "PERSON",
+      "canonical": "Robert William Sterling",
+      "notes": "defendant 3 punitive damages"
+    },
+    {
+      "text": "JENNIFER L. MORRISON",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Morrison",
+      "notes": "plaintiff attorney 1 full name"
+    },
+    {
+      "text": "189432",
+      "token_prefix": "BAR_NUMBER_1",
+      "entity_type": "ID",
+      "canonical": "189432",
+      "notes": "attorney 1 state bar number"
+    },
+    {
+      "text": "MICHAEL R. PATTERSON",
+      "token_prefix": "ATTORNEY_2",
+      "entity_type": "PERSON",
+      "canonical": "Michael R. Patterson",
+      "notes": "plaintiff attorney 2 full name"
+    },
+    {
+      "text": "205671",
+      "token_prefix": "BAR_NUMBER_2",
+      "entity_type": "ID",
+      "canonical": "205671",
+      "notes": "attorney 2 state bar number"
+    },
+    {
+      "text": "MORRISON & PATTERSON LLP",
+      "token_prefix": "LAW_FIRM_1",
+      "entity_type": "ORG",
+      "canonical": "Morrison & Patterson LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "555 Capitol Mall, Suite 1400, Sacramento, California 95814",
+      "token_prefix": "ADDRESS_8",
+      "entity_type": "ADDRESS",
+      "canonical": "555 Capitol Mall, Suite 1400, Sacramento, California 95814",
+      "notes": "plaintiff law firm address"
+    },
+    {
+      "text": "(916) 555-0199",
+      "token_prefix": "PHONE_5",
+      "entity_type": "ID",
+      "canonical": "(916) 555-0199",
+      "notes": "plaintiff law firm phone"
+    },
+    {
+      "text": "jmorrison@mp-law.com",
+      "token_prefix": "EMAIL_4",
+      "entity_type": "ID",
+      "canonical": "jmorrison@mp-law.com",
+      "notes": "attorney 1 email address"
+    },
+    {
+      "text": "March 1, 2024",
+      "token_prefix": "DATE_10",
+      "entity_type": "DATE",
+      "canonical": "March 1, 2024",
+      "notes": "service certificate date"
+    },
+    {
+      "text": "DAVID K. HARRISON",
+      "token_prefix": "ATTORNEY_3",
+      "entity_type": "PERSON",
+      "canonical": "David K. Harrison",
+      "notes": "defense attorney full name"
+    },
+    {
+      "text": "156789",
+      "token_prefix": "BAR_NUMBER_3",
+      "entity_type": "ID",
+      "canonical": "156789",
+      "notes": "defense attorney state bar number"
+    },
+    {
+      "text": "CORPORATE DEFENSE ASSOCIATES",
+      "token_prefix": "LAW_FIRM_2",
+      "entity_type": "ORG",
+      "canonical": "Corporate Defense Associates",
+      "notes": "defense law firm"
+    },
+    {
+      "text": "1875 Century Park East, Suite 2200, Los Angeles, California 90067",
+      "token_prefix": "ADDRESS_9",
+      "entity_type": "ADDRESS",
+      "canonical": "1875 Century Park East, Suite 2200, Los Angeles, California 90067",
+      "notes": "defense law firm address"
+    },
+    {
+      "text": "(310) 555-7829",
+      "token_prefix": "PHONE_6",
+      "entity_type": "ID",
+      "canonical": "(310) 555-7829",
+      "notes": "defense law firm phone"
+    },
+    {
+      "text": "JENNIFER L. MORRISON",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Morrison",
+      "notes": "attorney 1 certificate signature"
+    }
+  ]
+}

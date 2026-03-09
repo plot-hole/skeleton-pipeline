@@ -1,0 +1,66 @@
+**IN THE UNITED STATES DISTRICT COURT**
+**FOR THE SOUTHERN DISTRICT OF NEW YORK**
+
+MARCUS WELLINGTON HARRISON,
+                                    Plaintiff,
+v.                                                    Case No. 2023-CV-08471
+
+PINNACLE INDUSTRIAL SYSTEMS CORP.,
+                                    Defendant.
+
+**MOTION TO DISMISS PURSUANT TO FED. R. CIV. P. 12(b)(6)**
+
+TO THE HONORABLE COURT:
+
+Defendant Pinnacle Industrial Systems Corp. respectfully moves this Honorable Court to dismiss the Complaint pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure for failure to state a claim upon which relief can be granted. In support of this Motion, Defendant respectfully submits the following:
+
+**I. STANDARD OF REVIEW**
+
+Pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure, a motion to dismiss tests the legal sufficiency of the complaint. Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007). The Court must accept all factual allegations in the complaint as true and draw all reasonable inferences in favor of the plaintiff. Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). However, the Court is not bound to accept as true a legal conclusion couched as a factual allegation. Id. at 678.
+
+To survive a motion to dismiss under Rule 12(b)(6), a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face. Twombly, 550 U.S. at 570. A claim has facial plausibility when the plaintiff pleads factual content that allows the Court to draw the reasonable inference that the defendant is liable for the misconduct alleged. Iqbal, 556 U.S. at 678. The plausibility standard is not akin to a probability requirement, but it asks for more than a sheer possibility that a defendant has acted unlawfully. Id.
+
+**II. PROCEDURAL HISTORY**
+
+On September 15, 2023, Marcus Wellington Harrison filed the instant Complaint against Defendant, alleging various claims arising from alleged commercial disputes. The Complaint, however, fails to meet the basic pleading requirements established by the Federal Rules of Civil Procedure and the Supreme Court's decisions in Twombly and Iqbal.
+
+**III. ARGUMENT**
+
+**A. The Complaint Fails to State a Claim Upon Which Relief Can Be Granted**
+
+The fundamental flaw in Harrison's Complaint is its failure to plead facts sufficient to state a plausible claim for relief. The Court in Twombly held that Rule 8(a)(2) requires a short and plain statement of the claim showing that the pleader is entitled to relief, in order to give the defendant fair notice of what the claim is and the grounds upon which it rests. 550 U.S. at 555. The factual allegations must be enough to raise a right to relief above the speculative level. Id. at 555-56.
+
+Here, the Complaint contains nothing more than formulaic recitation of the elements of various causes of action, supported only by conclusory statements. The Supreme Court has made clear that such threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice. Iqbal, 556 U.S. at 678. The Court emphasized that determining whether a complaint states a plausible claim for relief is a context-specific task that requires the reviewing court to draw on its judicial experience and common sense. Id. at 679.
+
+**B. Subject Matter Jurisdiction is Lacking**
+
+This Court lacks subject matter jurisdiction over this action. Federal district courts are courts of limited jurisdiction and may only exercise such jurisdiction as is expressly conferred by Congress. Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375, 377 (1994). The party invoking federal jurisdiction bears the burden of establishing that jurisdiction exists. DaimlerChrysler Corp. v. Cuno, 547 U.S. 332, 342 n.3 (2006).
+
+Plaintiff has failed to establish diversity jurisdiction under 28 U.S.C. § 1332. The statute requires complete diversity of citizenship between all plaintiffs and all defendants, and the amount in controversy must exceed $75,000, exclusive of interest and costs. The Complaint fails to adequately plead either complete diversity or that the amount in controversy exceeds the jurisdictional threshold.
+
+Furthermore, Plaintiff has failed to establish federal question jurisdiction under 28 U.S.C. § 1331. The well-pleaded complaint rule requires that the federal question appear on the face of the complaint. Louisville & Nashville R.R. Co. v. Mottley, 211 U.S. 149, 152 (1908). Here, the Complaint fails to identify any federal statute, constitutional provision, or federal common law upon which the claims are based.
+
+**C. The Court Should Exercise Its Discretion to Dismiss**
+
+Even if the Court were to find that jurisdiction exists, dismissal is appropriate in the exercise of the Court's sound discretion. The interests of judicial economy and efficient case management support dismissal of this deficient pleading. Allowing this case to proceed would waste valuable judicial resources on claims that lack merit and factual foundation.
+
+The United States Constitution and federal statutes establish clear parameters for federal court jurisdiction, and these parameters must be strictly observed. The State of New York provides adequate forums for state law claims, and federal courts should not strain to exercise jurisdiction over matters that are properly within the purview of state courts.
+
+**IV. CONCLUSION**
+
+For the foregoing reasons, Defendant respectfully requests that this Honorable Court grant this Motion to Dismiss pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure. The Complaint fails to state a claim upon which relief can be granted, and this Court lacks subject matter jurisdiction over the dispute. The Court should dismiss the Complaint with prejudice, or in the alternative, without prejudice with leave to amend within thirty days.
+
+Respectfully submitted,
+
+/s/ Attorney for Defendant
+Attorney for Defendant
+State Bar No. 1234567
+123 Legal Plaza
+New York, NY 10001
+(212) 555-0199
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true and correct copy of the foregoing Motion to Dismiss was served upon all counsel of record by electronic filing through the Court's CM/ECF system this 30th day of October, 2023.
+
+/s/ Attorney for Defendant

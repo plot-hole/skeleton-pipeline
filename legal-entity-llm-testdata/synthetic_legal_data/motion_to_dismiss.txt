@@ -1,0 +1,73 @@
+IN THE CIRCUIT COURT OF THE STATE OF OREGON
+IN AND FOR MULTNOMAH COUNTY
+
+DEREK HARRISON,                    )
+                                   )
+            Plaintiff,             )    Case No. 2024-CV-08471
+                                   )
+v.                                 )    MOTION TO DISMISS
+                                   )    UNDER RULE 12(b)(6)
+NEXSTREAM TECHNOLOGIES CORP.,      )
+a Delaware corporation,            )
+                                   )
+            Defendant.             )
+_________________________________ )
+
+TO THE HONORABLE COURT:
+
+COMES NOW the Defendant, NexStream Technologies Corp., a Delaware corporation, by and through its undersigned counsel, and hereby respectfully moves this Court to dismiss Plaintiff's Complaint pursuant to Rule 12(b)(6) of the Oregon Rules of Civil Procedure for failure to state a claim upon which relief can be granted.
+
+I. PARTIES AND PROCEDURAL HISTORY
+
+Plaintiff Derek Harrison filed his Complaint on March 15, 2024, alleging breach of contract against Defendant NexStream Technologies Corp. Mr. Harrison, who resides at 4821 Northwest Pine Street, Portland, Oregon 97210, claims that NexStream failed to perform under a software development agreement. NexStream Technologies Corp. is a Delaware corporation with its registered agent, Margaret Chen, located at 1209 Orange Street, Wilmington, Delaware 19801. The corporation maintains its principal place of business at 3400 Corporate Center Drive, Suite 200, Wilmington, Delaware 19803.
+
+II. STANDARD OF REVIEW
+
+Under Rule 12(b)(6) of the Oregon Rules of Civil Procedure, a motion to dismiss tests the legal sufficiency of the complaint. The Court must accept all well-pleaded factual allegations as true and view them in the light most favorable to the plaintiff. However, the Court is not required to accept legal conclusions or allegations that are merely conclusory. To survive a Rule 12(b)(6) motion, the complaint must contain sufficient factual matter to state a claim that is plausible on its face. The Court should dismiss a complaint when it appears beyond doubt that the plaintiff can prove no set of facts that would entitle him to relief.
+
+III. ARGUMENT
+
+A. The Complaint Fails to Identify Essential Contract Terms
+
+Harrison's Complaint fails to state a claim for breach of contract because it lacks sufficient allegations regarding the essential terms of the purported agreement. Under Oregon law, to establish a breach of contract claim, the plaintiff must demonstrate the existence of a contract, performance by the plaintiff, breach by the defendant, and resulting damages. Here, the Complaint contains only vague and conclusory allegations that fail to identify the specific terms allegedly breached.
+
+The Complaint alleges that the parties entered into a "software development agreement" but provides no details about the scope of work, deliverables, timeline, or payment terms. Mr. Harrison merely states that NexStream "failed to perform its obligations" without specifying what those obligations were. The Court cannot determine from the pleadings what NexStream was required to do or how it allegedly failed to meet those requirements.
+
+B. The Allegations Are Contradictory and Implausible
+
+The Complaint contains internally inconsistent allegations that render it implausible. Harrison alleges that he paid $75,000 for software development services but also claims that the agreement called for payment upon completion. These contradictory statements demonstrate the facial implausibility of the plaintiff's claims. The Court should not be required to accept allegations that are contradicted within the same pleading.
+
+Furthermore, Harrison alleges that the software was to be completed by December 1, 2023, but also states that he continued making payments through February 2024. This temporal inconsistency further undermines the credibility of his allegations and demonstrates that the Complaint fails to state a plausible claim for relief.
+
+C. The Statute of Limitations Bar Cannot Be Cured by Amendment
+
+Even if the Court were to allow amendment, any breach of contract claim would be barred by Oregon's six-year statute of limitations. The Complaint suggests that any alleged breach occurred no later than December 1, 2023, yet Harrison did not file this action until March 15, 2024. While this timeframe appears to be within the limitations period, the vague nature of the allegations prevents the Court from making a proper determination regarding the accrual of the claim.
+
+IV. CONCLUSION
+
+For the foregoing reasons, the Court should grant NexStream's Motion to Dismiss pursuant to Rule 12(b)(6) of the Oregon Rules of Civil Procedure. The Complaint fails to state a claim upon which relief can be granted because it lacks sufficient factual allegations to establish the essential elements of a breach of contract claim. The allegations are vague, conclusory, and internally inconsistent. The Court should dismiss the Complaint with prejudice as amendment would be futile.
+
+WHEREFORE, Defendant NexStream Technologies Corp. respectfully requests that this Court grant its Motion to Dismiss and enter an order dismissing Plaintiff's Complaint with prejudice, together with such other and further relief as the Court deems just and proper.
+
+Respectfully submitted,
+
+/s/ Victoria L. Brennan
+Victoria L. Brennan, OSB #147892
+BRENNAN & ASSOCIATES LAW FIRM
+2150 Fourth Avenue, Suite 1800
+Seattle, Washington 98121
+Phone: (206) 555-7234
+Email: vbrennan@brennanlaw.com
+Attorney for Defendant
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on April 8, 2024, I served a true and correct copy of the foregoing Motion to Dismiss upon opposing counsel by electronic mail and U.S. mail, postage prepaid, addressed as follows:
+
+Thomas R. Mitchell, OSB #098654
+MITCHELL LEGAL GROUP
+815 Southwest Morrison Street, Suite 300
+Portland, Oregon 97205
+
+/s/ Victoria L. Brennan
+Victoria L. Brennan

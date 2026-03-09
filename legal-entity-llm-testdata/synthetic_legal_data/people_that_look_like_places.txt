@@ -1,0 +1,63 @@
+**SUPERIOR COURT OF VIRGINIA**
+**COUNTY OF HENRICO**
+
+**SAVANNAH CHARLOTTE BROOKS,**
+                                                    Plaintiff,
+v.                                                  Case No. 2024-CV-08471
+
+**DALLAS HOUSTON,**
+                                                    Defendant.
+
+**ORDER ON PLAINTIFF'S MOTION TO COMPEL DISCOVERY**
+
+This matter came before the Court on March 15, 2024, on Plaintiff's Motion to Compel Discovery. The Honorable Judge Samuel Washington presided over the hearing held in Courtroom 4A at 9:00 a.m. Present were Virginia Austin, Esq., counsel for Plaintiff Savannah Charlotte Brooks, and pro se Defendant Dallas Houston. Also present was Dr. Georgia Carolina Nash, the expert witness retained by Plaintiff.
+
+**FACTUAL BACKGROUND**
+
+Plaintiff Ms. Savannah Charlotte Brooks, residing at 1847 Monument Avenue, Richmond, Virginia 23220, filed this action on January 8, 2024, seeking damages arising from a contractual dispute with Defendant Mr. Dallas Houston. The case involves allegations of breach of a consulting agreement dated September 12, 2023, whereby Houston allegedly failed to deliver promised marketing services valued at $47,500.
+
+During the discovery phase, Plaintiff's counsel Virginia Austin served comprehensive interrogatories and document requests on February 2, 2024. Ms. Austin specifically requested production of all communications between Dallas Houston and third-party vendors, financial records showing Houston's business expenses for the relevant time period, and documentation of his qualifications and certifications claimed in the original contract.
+
+Defendant Dallas Houston, representing himself pro se, provided only partial responses by the March 1, 2024 deadline. He produced some email correspondence but objected to requests for financial documentation, claiming such materials were proprietary and outside the scope of discovery. Houston also failed to provide complete answers to interrogatories regarding his professional background and the specific services he was contracted to perform.
+
+**ARGUMENTS PRESENTED**
+
+Attorney Virginia Austin argued that her client Ms. Brooks is entitled to full discovery to evaluate the extent of damages and Houston's ability to perform under the contract. She emphasized that Dr. Georgia Carolina Nash, an expert in digital marketing consulting retained by Plaintiff, requires access to Houston's financial records and correspondence to formulate her opinion regarding industry standards and the reasonableness of the contracted services.
+
+Ms. Austin further contended that Dallas Houston's objections lack merit, as the requested documents are clearly relevant to the claims and defenses in this action. She noted that Houston's selective compliance with discovery requests suggests he may be concealing evidence unfavorable to his position.
+
+Defendant Mr. Dallas Houston responded that the financial information sought by Plaintiff exceeds the scope of permissible discovery. He argued that his business records contain confidential information unrelated to the specific contract with Ms. Savannah Charlotte Brooks. Houston also claimed that producing all requested communications would be unduly burdensome given his limited resources as a solo practitioner.
+
+Dr. Georgia Carolina Nash testified briefly regarding the necessity of reviewing complete financial records to assess whether Houston maintained adequate resources and expertise to fulfill his contractual obligations. She explained that industry analysis requires examination of comparable expenditures and business practices to establish benchmarks for professional performance.
+
+**ANALYSIS AND RULING**
+
+Under Virginia Code § 8.01-420 and Rule 4:1 of the Rules of the Supreme Court of Virginia, parties are entitled to broad discovery of relevant, non-privileged information. The Court finds that Plaintiff's discovery requests are reasonably calculated to lead to admissible evidence regarding both liability and damages in this breach of contract action.
+
+The Court notes that Dallas Houston's objections to producing financial records lack sufficient specificity. While he claims confidentiality concerns, Houston has not demonstrated that the requested materials contain trade secrets or proprietary information deserving of protection. Moreover, the Court can fashion appropriate protective measures to address legitimate confidentiality concerns while ensuring Ms. Brooks receives the discovery she needs to prosecute her case.
+
+Regarding the communications with third-party vendors, the Court finds these materials directly relevant to evaluating whether Mr. Houston had the capacity and intent to perform his contractual obligations. The fact that he selectively produced only certain emails suggests he may possess additional responsive documents that should be disclosed.
+
+The testimony of expert witness Dr. Georgia Carolina Nash persuasively demonstrated the necessity of comprehensive financial discovery. Her expertise in marketing consulting standards supports Plaintiff's position that complete financial records are essential for proper evaluation of damages and Houston's professional capabilities.
+
+**ORDER**
+
+IT IS HEREBY ORDERED that Plaintiff's Motion to Compel Discovery is GRANTED as follows:
+
+1. Defendant Dallas Houston shall produce, within twenty (20) days of this Order, all financial records for the period January 1, 2023 through December 31, 2023, including bank statements, tax returns, profit and loss statements, and records of business expenses.
+
+2. Mr. Houston shall produce all communications, including emails, text messages, and written correspondence, between himself and any third-party vendors, subcontractors, or business associates from August 1, 2023 through the present date.
+
+3. Dallas Houston shall provide complete and verified answers to all outstanding interrogatories within fifteen (15) days of this Order, including detailed information regarding his professional qualifications, business operations, and the specific circumstances surrounding his performance under the contract with Ms. Savannah Charlotte Brooks.
+
+4. The Court will enter a protective order upon request to address any legitimate confidentiality concerns regarding the produced materials.
+
+5. Plaintiff Virginia Austin, Esq. may arrange for expert witness Dr. Georgia Carolina Nash to review all produced discovery materials for purposes of forming her expert opinions.
+
+6. Should Defendant fail to comply with this Order, Plaintiff may seek appropriate sanctions including default judgment.
+
+IT IS SO ORDERED this 18th day of March, 2024.
+
+                                    _________________________________
+                                    The Honorable Judge Samuel Washington
+                                    Circuit Court Judge

@@ -1,0 +1,562 @@
+{
+  "scenario_id": "dual_role_attorney_expert",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 960,
+  "entity_count": 79,
+  "unique_canonical_count": 27,
+  "entities": [
+    {
+      "text": "2024-CV-04782",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CV-04782",
+      "notes": "civil case number"
+    },
+    {
+      "text": "Meridian Capital Ventures LLC",
+      "token_prefix": "PLAINTIFF_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Meridian Capital Ventures LLC",
+      "notes": "plaintiff LLC company"
+    },
+    {
+      "text": "SARAH ELIZABETH HENLEY",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "BERKSHIRE FINANCIAL ADVISORS, INC.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Berkshire Financial Advisors, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "MARCUS JONATHAN RUTHERFORD",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "COLONIAL TRUST COMPANY",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Colonial Trust Company",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Meridian Capital Ventures LLC",
+      "token_prefix": "PLAINTIFF_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Meridian Capital Ventures LLC",
+      "notes": "plaintiff LLC company"
+    },
+    {
+      "text": "847 Commonwealth Avenue, Boston, MA 02215",
+      "token_prefix": "ADDRESS_1",
+      "entity_type": "ADDRESS",
+      "canonical": "847 Commonwealth Avenue, Boston, MA 02215",
+      "notes": "plaintiff company address"
+    },
+    {
+      "text": "Sarah Elizabeth Henley",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Meridian Capital",
+      "token_prefix": "PLAINTIFF_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Meridian Capital Ventures LLC",
+      "notes": "plaintiff LLC company"
+    },
+    {
+      "text": "Ms. Henley",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "1205 Marlborough Street, Unit 3B, Boston, MA 02116",
+      "token_prefix": "ADDRESS_2",
+      "entity_type": "ADDRESS",
+      "canonical": "1205 Marlborough Street, Unit 3B, Boston, MA 02116",
+      "notes": "plaintiff individual address"
+    },
+    {
+      "text": "(617) 555-0847",
+      "token_prefix": "PHONE_1",
+      "entity_type": "ID",
+      "canonical": "(617) 555-0847",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "sherley@meridianvc.com",
+      "token_prefix": "EMAIL_1",
+      "entity_type": "ID",
+      "canonical": "sherley@meridianvc.com",
+      "notes": "plaintiff email"
+    },
+    {
+      "text": "Berkshire Financial Advisors, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Berkshire Financial Advisors, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "290 Westminster Street, Providence, RI 02903",
+      "token_prefix": "ADDRESS_3",
+      "entity_type": "ADDRESS",
+      "canonical": "290 Westminster Street, Providence, RI 02903",
+      "notes": "defendant company address"
+    },
+    {
+      "text": "Marcus Jonathan Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "78 Benefit Street, Providence, RI 02904",
+      "token_prefix": "ADDRESS_4",
+      "entity_type": "ADDRESS",
+      "canonical": "78 Benefit Street, Providence, RI 02904",
+      "notes": "defendant individual address"
+    },
+    {
+      "text": "Mr. Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "Berkshire Financial Advisors, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Berkshire Financial Advisors, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Colonial Trust Company",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Colonial Trust Company",
+      "notes": "defendant company"
+    },
+    {
+      "text": "500 Boylston Street, Boston, MA 02116",
+      "token_prefix": "ADDRESS_5",
+      "entity_type": "ADDRESS",
+      "canonical": "500 Boylston Street, Boston, MA 02116",
+      "notes": "defendant company address"
+    },
+    {
+      "text": "Attorney Margaret Ann Patterson",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "Patterson & Associates LLP",
+      "token_prefix": "LAW_FIRM_1",
+      "entity_type": "ORG",
+      "canonical": "Patterson & Associates LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "101 Federal Street, Suite 1900, Boston, MA 02110",
+      "token_prefix": "ADDRESS_6",
+      "entity_type": "ADDRESS",
+      "canonical": "101 Federal Street, Suite 1900, Boston, MA 02110",
+      "notes": "law firm address"
+    },
+    {
+      "text": "Attorney Patterson",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "(617) 555-0123",
+      "token_prefix": "PHONE_2",
+      "entity_type": "ID",
+      "canonical": "(617) 555-0123",
+      "notes": "attorney phone number"
+    },
+    {
+      "text": "mpatterson@pattersonlaw.com",
+      "token_prefix": "EMAIL_2",
+      "entity_type": "ID",
+      "canonical": "mpatterson@pattersonlaw.com",
+      "notes": "attorney email"
+    },
+    {
+      "text": "the expert",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "Attorney Patterson",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "The expert",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "Ms. Patterson",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "March 2022",
+      "token_prefix": "DATE_1",
+      "entity_type": "DATE",
+      "canonical": "March 2022",
+      "notes": "engagement date"
+    },
+    {
+      "text": "the Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Sarah Elizabeth Henley",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Berkshire Financial Advisors",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Berkshire Financial Advisors, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "$2.3 million",
+      "token_prefix": "MONEY_1",
+      "entity_type": "MONEY",
+      "canonical": "$2.3 million",
+      "notes": "portfolio value"
+    },
+    {
+      "text": "the Managing Member",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "Meridian Capital's",
+      "token_prefix": "PLAINTIFF_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Meridian Capital Ventures LLC",
+      "notes": "plaintiff LLC company"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "Ms. Henley",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "The witness",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "April 2022",
+      "token_prefix": "DATE_2",
+      "entity_type": "DATE",
+      "canonical": "April 2022",
+      "notes": "start of violations"
+    },
+    {
+      "text": "September 2023",
+      "token_prefix": "DATE_3",
+      "entity_type": "DATE",
+      "canonical": "September 2023",
+      "notes": "end of violations"
+    },
+    {
+      "text": "Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "Berkshire Financial's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Berkshire Financial Advisors, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Meridian Capital's",
+      "token_prefix": "PLAINTIFF_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Meridian Capital Ventures LLC",
+      "notes": "plaintiff LLC company"
+    },
+    {
+      "text": "the Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "July 2023",
+      "token_prefix": "DATE_4",
+      "entity_type": "DATE",
+      "canonical": "July 2023",
+      "notes": "questioning date"
+    },
+    {
+      "text": "Defendant Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "The witness",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "Colonial Trust Company",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Colonial Trust Company",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "October 2023",
+      "token_prefix": "DATE_5",
+      "entity_type": "DATE",
+      "canonical": "October 2023",
+      "notes": "loss date"
+    },
+    {
+      "text": "$1.4 million",
+      "token_prefix": "MONEY_2",
+      "entity_type": "MONEY",
+      "canonical": "$1.4 million",
+      "notes": "loss amount"
+    },
+    {
+      "text": "Ms. Henley",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Rutherford",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Rutherford",
+      "notes": "defendant and witness - dual role"
+    },
+    {
+      "text": "Meridian Capital",
+      "token_prefix": "PLAINTIFF_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Meridian Capital Ventures LLC",
+      "notes": "plaintiff LLC company"
+    },
+    {
+      "text": "$1.4 million",
+      "token_prefix": "MONEY_2",
+      "entity_type": "MONEY",
+      "canonical": "$1.4 million",
+      "notes": "loss amount"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "$1,400,000",
+      "token_prefix": "MONEY_2",
+      "entity_type": "MONEY",
+      "canonical": "$1.4 million",
+      "notes": "loss amount"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Elizabeth Henley",
+      "notes": "plaintiff and managing member - dual role"
+    },
+    {
+      "text": "Margaret Ann Patterson",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Ann Patterson",
+      "notes": "plaintiff attorney and expert witness - dual role"
+    },
+    {
+      "text": "445789",
+      "token_prefix": "ID_1",
+      "entity_type": "ID",
+      "canonical": "445789",
+      "notes": "bar number"
+    },
+    {
+      "text": "Patterson & Associates LLP",
+      "token_prefix": "LAW_FIRM_1",
+      "entity_type": "ORG",
+      "canonical": "Patterson & Associates LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "101 Federal Street, Suite 1900",
+      "token_prefix": "ADDRESS_6",
+      "entity_type": "ADDRESS",
+      "canonical": "101 Federal Street, Suite 1900, Boston, MA 02110",
+      "notes": "law firm address"
+    },
+    {
+      "text": "Boston, MA 02110",
+      "token_prefix": "ADDRESS_6",
+      "entity_type": "ADDRESS",
+      "canonical": "101 Federal Street, Suite 1900, Boston, MA 02110",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(617) 555-0123",
+      "token_prefix": "PHONE_2",
+      "entity_type": "ID",
+      "canonical": "(617) 555-0123",
+      "notes": "attorney phone number"
+    },
+    {
+      "text": "mpatterson@pattersonlaw.com",
+      "token_prefix": "EMAIL_2",
+      "entity_type": "ID",
+      "canonical": "mpatterson@pattersonlaw.com",
+      "notes": "attorney email"
+    },
+    {
+      "text": "January 15, 2024",
+      "token_prefix": "DATE_6",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "filing date"
+    }
+  ]
+}

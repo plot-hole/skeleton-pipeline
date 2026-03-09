@@ -1,0 +1,118 @@
+{
+  "scenario_id": "adversarial_boilerplate",
+  "doc_type": "MOTION TO DISMISS",
+  "word_count": 958,
+  "entity_count": 6,
+  "unique_canonical_count": 3,
+  "adversarial": true,
+  "entities": [
+    {
+      "text": "MARCUS WELLINGTON HARRISON",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HARRISON",
+      "notes": "plaintiff's full name in caption"
+    },
+    {
+      "text": "2023-CV-08471",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08471",
+      "notes": "case number in caption"
+    },
+    {
+      "text": "PINNACLE INDUSTRIAL SYSTEMS CORP.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "PINNACLE INDUSTRIAL SYSTEMS CORP.",
+      "notes": "defendant corporation in caption"
+    },
+    {
+      "text": "Pinnacle Industrial Systems Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "PINNACLE INDUSTRIAL SYSTEMS CORP.",
+      "notes": "defendant corporation in first paragraph"
+    },
+    {
+      "text": "Marcus Wellington Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HARRISON",
+      "notes": "plaintiff's full name in procedural history"
+    },
+    {
+      "text": "Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HARRISON",
+      "notes": "plaintiff referenced by last name possessive"
+    }
+  ],
+  "negative_examples": [
+    {
+      "text": "the Court",
+      "reason": "generic institutional reference, not PII"
+    },
+    {
+      "text": "the Honorable Court",
+      "reason": "generic institutional reference, not PII"
+    },
+    {
+      "text": "28 U.S.C. \u00a7 1332",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "28 U.S.C. \u00a7 1331",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "Rule 12(b)(6)",
+      "reason": "procedural rule citation, not PII"
+    },
+    {
+      "text": "Bell Atlantic Corp. v. Twombly",
+      "reason": "case citation, not PII"
+    },
+    {
+      "text": "Ashcroft v. Iqbal",
+      "reason": "case citation, not PII"
+    },
+    {
+      "text": "550 U.S. 544",
+      "reason": "case citation, not PII"
+    },
+    {
+      "text": "556 U.S. 662",
+      "reason": "case citation, not PII"
+    },
+    {
+      "text": "the United States",
+      "reason": "generic country/jurisdiction reference, not PII"
+    },
+    {
+      "text": "the State of New York",
+      "reason": "generic state/jurisdiction reference, not PII"
+    },
+    {
+      "text": "$75,000",
+      "reason": "generic statutory amount, not PII"
+    },
+    {
+      "text": "September 15, 2023",
+      "reason": "generic filing date, not specific PII"
+    },
+    {
+      "text": "October 30th, 2023",
+      "reason": "generic service date, not specific PII"
+    },
+    {
+      "text": "Louisville & Nashville R.R. Co. v. Mottley",
+      "reason": "case citation, not PII"
+    },
+    {
+      "text": "211 U.S. 149",
+      "reason": "case citation, not PII"
+    }
+  ]
+}

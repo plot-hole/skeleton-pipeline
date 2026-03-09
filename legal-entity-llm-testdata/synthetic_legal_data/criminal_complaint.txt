@@ -1,62 +1,74 @@
-**UNITED STATES DISTRICT COURT**
+**UNITED STATES DISTRICT COURT**  
 **EASTERN DISTRICT OF MICHIGAN**
 
-**UNITED STATES OF AMERICA,**
-                                    Plaintiff,
-v.                                                      Case No. 2024-CR-07832
+**UNITED STATES OF AMERICA**
 
-**MARCUS WELLINGTON HAYES,**
-                                    Defendant.
+v.
+
+**MARCUS ANTHONY DELACROIX**
 
 **CRIMINAL COMPLAINT**
 
-I, Detective Raymond Charles Blackwood, Badge No. 4729, being duly sworn, state that I have reason to believe that on or about the dates between January 15, 2023, and September 8, 2023, in Wayne County, within the Eastern District of Michigan, Marcus Wellington Hayes, SSN 417-88-2936, did knowingly and willfully commit offenses against the United States, to wit:
+**Case No. 2024-CR-01847**
 
-**COUNT ONE**
-Violation of 18 U.S.C. § 1343 (Wire Fraud)
+I, Detective Raymond Charles Kowalski, Badge No. 4729, of the Detroit Metropolitan Police Department, being duly sworn, depose and state:
 
-From January 15, 2023, through September 8, 2023, the defendant Marcus Wellington Hayes did devise and intend to devise a scheme and artifice to defraud, and to obtain money and property by means of false and fraudulent pretenses, representations, and promises, and for the purpose of executing said scheme, did transmit and cause to be transmitted by means of wire communication in interstate commerce, writings, signs, signals, pictures and sounds, contrary to 18 U.S.C. § 1343.
+**INTRODUCTION**
 
-**COUNT TWO**
-Violation of 18 U.S.C. § 1341 (Mail Fraud)
+This complaint is filed by Jennifer Marie Hutchinson, District Attorney for the Eastern District of Michigan, located at 211 West Fort Street, Detroit, MI 48226. The defendant, Marcus Anthony Delacroix, SSN 472-89-3651, residing at 1847 Corktown Avenue, Detroit, MI 48216, telephone (313) 555-7429, is charged with violations of federal wire fraud statutes in connection with a fraudulent investment scheme that operated from January 15, 2023, through September 22, 2023.
 
-During the same time period, Hayes did knowingly devise a scheme to defraud and obtain money by means of false pretenses, and placed materials in the United States mail system for the purpose of executing said fraudulent scheme, in violation of 18 U.S.C. § 1341.
+**STATEMENT OF PROBABLE CAUSE**
 
-**STATEMENT OF FACTS**
+**Background Investigation**
 
-The investigation conducted by this affiant reveals the following facts:
+On October 3, 2023, I was assigned to investigate complaints regarding a fraudulent investment operation allegedly conducted by Delacroix. The primary victim, Catherine Rose Pemberton, residing at 42871 Maple Ridge Drive, Bloomfield Hills, MI 48304, telephone (248) 555-9162, email cpemberton.invest@gmail.com, reported losses totaling $347,850 to our department on September 28, 2023.
 
-Marcus Wellington Hayes, age 42, residing at 1847 Corktown Avenue, Detroit, Michigan 48216, operated a fraudulent investment scheme targeting elderly residents throughout southeastern Michigan. Hayes presented himself as a licensed financial advisor and convinced victims to invest in what he claimed were "high-yield municipal bonds backed by federal guarantees."
+**The Fraudulent Scheme**
 
-The primary victim in this case is Margaret Catherine Thornfield, age 67, of 2904 Maple Ridge Drive, Birmingham, Michigan 48009. Mrs. Thornfield was contacted by Hayes via telephone at (248) 555-0147 on January 15, 2023. During this initial contact, the defendant represented that he was a certified financial planner with over twenty years of experience managing portfolios for retirees.
+Based on my investigation, Delacroix operated under the business name "Detroit Prime Capital Investments" and solicited investments from victims through a combination of cold calls, email communications, and in-person meetings. The defendant represented that he was a licensed investment advisor with twenty years of experience managing portfolios for high-net-worth individuals. These representations were false.
 
-Hayes provided Mrs. Thornfield with fabricated documentation, including falsified prospectuses and fraudulent certificates of deposit. He instructed her to wire transfer funds to a business account he controlled under the name "Premier Municipal Securities LLC." Between January 22, 2023, and August 14, 2023, Thornfield transferred a total of $247,800 to accounts controlled by the defendant.
+Ms. Pemberton was first contacted by the defendant on January 15, 2023, via telephone at her residence. Delacroix told her that he had obtained her contact information through a referral from a mutual acquaintance and that she had been selected for an exclusive investment opportunity. He claimed that his fund specialized in cryptocurrency arbitrage and guaranteed returns of 15-20% quarterly.
 
-The investigation revealed that Hayes used the email address mhayespremier@tempmail.com to communicate with victims and send falsified investment documents. He would contact victims initially by telephone from his personal number (313) 555-0892, then direct them to communicate via email to avoid creating phone records.
+**Wire Communications in Furtherance of the Scheme**
 
-A minor witness, identified only by initials J.T.M., age 15, observed Hayes at the defendant's residence on multiple occasions during the summer of 2023. The minor witness reported seeing Hayes operating multiple computers and observed him discussing "bond payments" and "investor returns" during phone calls. This witness's testimony provided crucial timeline evidence linking Hayes to the fraudulent activities at his Corktown Avenue address.
+During the period from January 15, 2023, through September 22, 2023, Delacroix sent numerous emails to Pemberton from the address mdelacroix.dpc@tempmail.org. In these electronic communications, he provided false account statements, fabricated performance reports, and continued to solicit additional investments. The defendant used interstate wire communications to transmit these fraudulent materials, knowing they contained material misrepresentations.
 
-Detective Blackwood's investigation, initiated on September 12, 2023, following a complaint filed by Margaret Catherine Thornfield, uncovered evidence of Hayes's scheme through bank records, email communications, and witness interviews. Financial records obtained through court-authorized searches revealed that Hayes had diverted victim funds to personal accounts and used the money for gambling, luxury purchases, and personal expenses rather than legitimate investments.
+On February 12, 2023, Pemberton wired $125,000 from her account at First Michigan Bank to an account controlled by Delacroix at Detroit Commerce Bank, account ending in 7429. She made additional wire transfers of $89,200 on April 18, 2023, and $133,650 on July 9, 2023, for a total investment of $347,850.
 
-The scheme unraveled when Mrs. Thornfield attempted to withdraw funds in August 2023 and Hayes provided increasingly evasive responses to her inquiries. She contacted the Michigan Department of Insurance and Financial Services, which determined that neither Hayes nor "Premier Municipal Securities LLC" held valid licenses to offer investment services in Michigan.
+**Discovery of the Fraud**
 
-Hayes was arrested on October 3, 2023, at his residence by members of the FBI Financial Crimes Task Force and Detroit Police Department. During the arrest, agents seized multiple computers, cell phones, and documents related to the fraudulent investment scheme.
+The scheme began to unravel in September 2023, when Pemberton requested a partial withdrawal of her funds to cover unexpected medical expenses. Delacroix initially delayed her request, claiming that funds were temporarily tied up in a large arbitrage transaction. When she persisted, he stopped responding to her calls and emails entirely.
 
-The total amount defrauded from Margaret Catherine Thornfield was $247,800. Investigation continues into additional potential victims who may have been targeted by Hayes during this period.
+Pemberton's concern led her to contact a minor witness, J.T.M., age 15, who had overheard conversations between the defendant and another individual discussing the fictitious nature of the investment accounts. The minor witness was related to an individual who had previously worked with Delacroix and had knowledge of his fraudulent activities. J.T.M. provided crucial information that helped establish the defendant's intent to defraud investors.
 
-This complaint is filed by Patricia Marie Rodriguez, Assistant United States Attorney, United States Attorney's Office, 211 West Fort Street, Suite 2001, Detroit, Michigan 48226, on November 8, 2023.
+**Investigation and Evidence**
 
-The defendant's scheme violated federal wire fraud statutes by using interstate wire communications to perpetrate fraud, and violated mail fraud statutes by utilizing the United States Postal Service to deliver fraudulent materials to victims.
+My investigation revealed that Delacroix had no securities licenses, no legitimate investment business, and no ability to generate the returns he promised. Bank records obtained through subpoena showed that the funds received from Pemberton were not invested as represented but were instead used by the defendant for personal expenses, including payments on his residence at 1847 Corktown Avenue, luxury vehicle purchases, and gambling activities.
 
-Based on the foregoing facts, I respectfully request that a warrant be issued for the arrest of Marcus Wellington Hayes for violations of 18 U.S.C. § 1343 and 18 U.S.C. § 1341.
+Computer forensics analysis of Delacroix's devices revealed the creation of false investment statements using basic spreadsheet software. Email records confirmed that he had sent similar solicitations to at least fifteen other potential victims across multiple states, establishing the interstate nature of his scheme.
 
-_________________________________
-Detective Raymond Charles Blackwood
-Badge No. 4729
-Detroit Police Department
-Financial Crimes Division
+**Arrest and Charges**
 
-Sworn to and subscribed before me this 8th day of November, 2023.
+On November 15, 2023, I arrested Marcus Anthony Delacroix at his residence without incident. At the time of his arrest, he was found in possession of additional fraudulent investment documents and contact lists for prospective victims.
 
-_________________________________
+**STATUTORY VIOLATIONS**
+
+Based on the foregoing facts, I believe that Delacroix violated 18 U.S.C. § 1343 (Wire Fraud) by devising and executing a scheme to defraud victims of money through materially false and fraudulent pretenses, representations, and promises, and by transmitting communications in interstate commerce in furtherance of the scheme.
+
+Additionally, the defendant violated 18 U.S.C. § 1341 (Mail Fraud) through his use of the United States Postal Service to deliver fraudulent investment documents and correspondence to victims as part of the same scheme to defraud.
+
+**CONCLUSION**
+
+Wherefore, I request that a warrant be issued for the arrest of Marcus Anthony Delacroix and that he be held to answer these charges in accordance with law.
+
+This complaint is filed on December 1, 2023.
+
+_______________________________  
+Detective Raymond Charles Kowalski  
+Badge No. 4729  
+Detroit Metropolitan Police Department
+
+Subscribed and sworn to before me this 1st day of December, 2023.
+
+_______________________________  
 United States Magistrate Judge

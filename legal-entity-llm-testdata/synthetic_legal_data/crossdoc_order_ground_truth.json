@@ -1,0 +1,241 @@
+{
+  "scenario_id": "crossdoc_order",
+  "doc_type": "COURT ORDER",
+  "word_count": 752,
+  "entity_count": 33,
+  "unique_canonical_count": 13,
+  "corpus_id": "martinez_v_greenfield",
+  "entities": [
+    {
+      "text": "MARIA ELENA MARTINEZ",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "role reference"
+    },
+    {
+      "text": "GREENFIELD PROPERTIES LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "role reference"
+    },
+    {
+      "text": "2:24-cv-03891-JLW",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2:24-cv-03891-JLW",
+      "notes": "federal case number"
+    },
+    {
+      "text": "March 8, 2025",
+      "token_prefix": "HEARING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2025",
+      "notes": "hearing date"
+    },
+    {
+      "text": "Defendant Greenfield Properties LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant with role"
+    },
+    {
+      "text": "Plaintiff Maria Elena Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff with role"
+    },
+    {
+      "text": "Defendant Greenfield Properties LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant with role"
+    },
+    {
+      "text": "September 14, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 14, 2023",
+      "notes": "incident date"
+    },
+    {
+      "text": "1247 Maple Grove Avenue, Riverside, California 92506",
+      "token_prefix": "PROPERTY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1247 Maple Grove Avenue, Riverside, California 92506",
+      "notes": "property address"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Robert Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert Chen",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "Patricia Knowles",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Knowles",
+      "notes": "defense attorney"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Greenfield Properties",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Angela Torres",
+      "token_prefix": "PROPERTY_MANAGER",
+      "entity_type": "PERSON",
+      "canonical": "Angela Torres",
+      "notes": "property manager"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Greenfield Properties",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "Torres",
+      "token_prefix": "PROPERTY_MANAGER",
+      "entity_type": "PERSON",
+      "canonical": "Angela Torres",
+      "notes": "property manager last name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Dr. James Whitfield",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. James Whitfield",
+      "notes": "expert witness"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Greenfield Properties",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert Chen",
+      "notes": "plaintiff attorney last name"
+    },
+    {
+      "text": "March 8, 2025",
+      "token_prefix": "HEARING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2025",
+      "notes": "hearing date"
+    },
+    {
+      "text": "April 15, 2025",
+      "token_prefix": "CMC_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 15, 2025",
+      "notes": "case management conference date"
+    },
+    {
+      "text": "March 12, 2025",
+      "token_prefix": "ORDER_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 12, 2025",
+      "notes": "order date"
+    },
+    {
+      "text": "Linda R. Watkins",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "Linda R. Watkins",
+      "notes": "presiding judge"
+    },
+    {
+      "text": "THE HONORABLE LINDA R. WATKINS",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "Linda R. Watkins",
+      "notes": "judge with title"
+    }
+  ]
+}

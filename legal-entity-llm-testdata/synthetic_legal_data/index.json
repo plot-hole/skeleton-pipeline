@@ -1,5 +1,13 @@
 {
   "generated_with": "claude-sonnet-4-20250514",
+  "total_documents": 26,
+  "corpora": {
+    "martinez_v_greenfield": [
+      "crossdoc_complaint",
+      "crossdoc_motion",
+      "crossdoc_order"
+    ]
+  },
   "documents": [
     {
       "id": "civil_complaint_rural",
@@ -30,6 +38,139 @@
       "doc_type": "EXPERT WITNESS REPORT",
       "text_file": "expert_witness_report.txt",
       "ground_truth_file": "expert_witness_report_ground_truth.json"
+    },
+    {
+      "id": "motion_to_dismiss",
+      "doc_type": "MOTION TO DISMISS",
+      "text_file": "motion_to_dismiss.txt",
+      "ground_truth_file": "motion_to_dismiss_ground_truth.json"
+    },
+    {
+      "id": "motion_summary_judgment",
+      "doc_type": "MOTION FOR SUMMARY JUDGMENT",
+      "text_file": "motion_summary_judgment.txt",
+      "ground_truth_file": "motion_summary_judgment_ground_truth.json"
+    },
+    {
+      "id": "court_order_ruling",
+      "doc_type": "COURT ORDER",
+      "text_file": "court_order_ruling.txt",
+      "ground_truth_file": "court_order_ruling_ground_truth.json"
+    },
+    {
+      "id": "demand_letter",
+      "doc_type": "DEMAND LETTER",
+      "text_file": "demand_letter.txt",
+      "ground_truth_file": "demand_letter_ground_truth.json"
+    },
+    {
+      "id": "multi_plaintiff_class_action",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "multi_plaintiff_class_action.txt",
+      "ground_truth_file": "multi_plaintiff_class_action_ground_truth.json"
+    },
+    {
+      "id": "dual_role_attorney_expert",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "dual_role_attorney_expert.txt",
+      "ground_truth_file": "dual_role_attorney_expert_ground_truth.json"
+    },
+    {
+      "id": "multi_state_addresses",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "multi_state_addresses.txt",
+      "ground_truth_file": "multi_state_addresses_ground_truth.json"
+    },
+    {
+      "id": "written_dollar_amounts",
+      "doc_type": "SETTLEMENT AGREEMENT",
+      "text_file": "written_dollar_amounts.txt",
+      "ground_truth_file": "written_dollar_amounts_ground_truth.json"
+    },
+    {
+      "id": "federal_bankruptcy_case_numbers",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "federal_bankruptcy_case_numbers.txt",
+      "ground_truth_file": "federal_bankruptcy_case_numbers_ground_truth.json"
+    },
+    {
+      "id": "contact_info_dense",
+      "doc_type": "DEMAND LETTER",
+      "text_file": "contact_info_dense.txt",
+      "ground_truth_file": "contact_info_dense_ground_truth.json"
+    },
+    {
+      "id": "orgs_that_look_like_people",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "orgs_that_look_like_people.txt",
+      "ground_truth_file": "orgs_that_look_like_people_ground_truth.json"
+    },
+    {
+      "id": "people_that_look_like_places",
+      "doc_type": "COURT ORDER",
+      "text_file": "people_that_look_like_places.txt",
+      "ground_truth_file": "people_that_look_like_places_ground_truth.json"
+    },
+    {
+      "id": "ambiguous_dates",
+      "doc_type": "DEMAND LETTER",
+      "text_file": "ambiguous_dates.txt",
+      "ground_truth_file": "ambiguous_dates_ground_truth.json"
+    },
+    {
+      "id": "minor_witness_initials",
+      "doc_type": "CRIMINAL COMPLAINT",
+      "text_file": "minor_witness_initials.txt",
+      "ground_truth_file": "minor_witness_initials_ground_truth.json"
+    },
+    {
+      "id": "adversarial_boilerplate",
+      "doc_type": "MOTION TO DISMISS",
+      "text_file": "adversarial_boilerplate.txt",
+      "ground_truth_file": "adversarial_boilerplate_ground_truth.json",
+      "adversarial": true
+    },
+    {
+      "id": "adversarial_generic_references",
+      "doc_type": "COURT ORDER",
+      "text_file": "adversarial_generic_references.txt",
+      "ground_truth_file": "adversarial_generic_references_ground_truth.json",
+      "adversarial": true
+    },
+    {
+      "id": "adversarial_dollar_and_numbers",
+      "doc_type": "MOTION FOR SUMMARY JUDGMENT",
+      "text_file": "adversarial_dollar_and_numbers.txt",
+      "ground_truth_file": "adversarial_dollar_and_numbers_ground_truth.json",
+      "adversarial": true
+    },
+    {
+      "id": "adversarial_pattern_overlap",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "adversarial_pattern_overlap.txt",
+      "ground_truth_file": "adversarial_pattern_overlap_ground_truth.json",
+      "adversarial": true
+    },
+    {
+      "id": "crossdoc_complaint",
+      "doc_type": "CIVIL COMPLAINT",
+      "text_file": "crossdoc_complaint.txt",
+      "ground_truth_file": "crossdoc_complaint_ground_truth.json",
+      "corpus_id": "martinez_v_greenfield"
+    },
+    {
+      "id": "crossdoc_motion",
+      "doc_type": "MOTION TO DISMISS",
+      "text_file": "crossdoc_motion.txt",
+      "ground_truth_file": "crossdoc_motion_ground_truth.json",
+      "corpus_id": "martinez_v_greenfield"
+    },
+    {
+      "id": "crossdoc_order",
+      "doc_type": "COURT ORDER",
+      "text_file": "crossdoc_order.txt",
+      "ground_truth_file": "crossdoc_order_ground_truth.json",
+      "corpus_id": "martinez_v_greenfield"
     }
   ]
 }

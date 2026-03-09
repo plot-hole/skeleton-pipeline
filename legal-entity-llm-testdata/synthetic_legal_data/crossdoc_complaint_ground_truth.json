@@ -1,0 +1,479 @@
+{
+  "scenario_id": "crossdoc_complaint",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 874,
+  "entity_count": 67,
+  "unique_canonical_count": 27,
+  "corpus_id": "martinez_v_greenfield",
+  "entities": [
+    {
+      "text": "MARIA ELENA MARTINEZ",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff full name caps"
+    },
+    {
+      "text": "2:24-cv-03891-JLW",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2:24-cv-03891-JLW",
+      "notes": "federal case number"
+    },
+    {
+      "text": "GREENFIELD PROPERTIES LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company caps"
+    },
+    {
+      "text": "Maria Elena Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Greenfield Properties LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Maria Elena Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "2847 Sycamore Lane, Edison, New Jersey 08817",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 Sycamore Lane, Edison, New Jersey 08817",
+      "notes": "plaintiff residence address"
+    },
+    {
+      "text": "412-78-3956",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "412-78-3956",
+      "notes": "plaintiff social security number"
+    },
+    {
+      "text": "(732) 548-9021",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(732) 548-9021",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "m.martinez847@gmail.com",
+      "token_prefix": "PLAINTIFF_EMAIL",
+      "entity_type": "ID",
+      "canonical": "m.martinez847@gmail.com",
+      "notes": "plaintiff email address"
+    },
+    {
+      "text": "Greenfield Properties LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "1500 Commerce Drive, Suite 400, Newark, New Jersey 07102",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1500 Commerce Drive, Suite 400, Newark, New Jersey 07102",
+      "notes": "defendant business address"
+    },
+    {
+      "text": "Harold T. Greenfield",
+      "token_prefix": "REGISTERED_AGENT",
+      "entity_type": "PERSON",
+      "canonical": "Harold T. Greenfield",
+      "notes": "defendant registered agent"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "742 Elm Street, Unit 3A, Edison, New Jersey 08817",
+      "token_prefix": "RENTAL_PROPERTY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "742 Elm Street, Unit 3A, Edison, New Jersey 08817",
+      "notes": "rental property address"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "the Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Angela Torres",
+      "token_prefix": "PROPERTY_MANAGER",
+      "entity_type": "PERSON",
+      "canonical": "Angela Torres",
+      "notes": "property manager full name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "September 14, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 14, 2023",
+      "notes": "ceiling collapse incident date"
+    },
+    {
+      "text": "Martinez's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Angela Torres",
+      "token_prefix": "PROPERTY_MANAGER",
+      "entity_type": "PERSON",
+      "canonical": "Angela Torres",
+      "notes": "property manager full name"
+    },
+    {
+      "text": "September 15, 2023",
+      "token_prefix": "INSPECTION_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 15, 2023",
+      "notes": "property manager inspection date"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Torres",
+      "token_prefix": "PROPERTY_MANAGER",
+      "entity_type": "PERSON",
+      "canonical": "Angela Torres",
+      "notes": "property manager last name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Robert Wood Johnson University Hospital",
+      "token_prefix": "HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Robert Wood Johnson University Hospital",
+      "notes": "hospital name"
+    },
+    {
+      "text": "October 3, 2023",
+      "token_prefix": "MEDICAL_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 3, 2023",
+      "notes": "emergency room visit date"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Martinez's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "$8,347",
+      "token_prefix": "MEDICAL_COSTS",
+      "entity_type": "MONEY",
+      "canonical": "$8,347",
+      "notes": "medical expenses amount"
+    },
+    {
+      "text": "the Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "October 15, 2023",
+      "token_prefix": "VACATE_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 15, 2023",
+      "notes": "plaintiff vacate date"
+    },
+    {
+      "text": "$2,200",
+      "token_prefix": "EXCESS_RENT",
+      "entity_type": "MONEY",
+      "canonical": "$2,200",
+      "notes": "monthly excess rent amount"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "February 2024",
+      "token_prefix": "LEASE_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "February 2024",
+      "notes": "lease termination date"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Martinez's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "$75,000",
+      "token_prefix": "DAMAGES_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$75,000",
+      "notes": "damages threshold amount"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Robert Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert Chen",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "ROBERT CHEN",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert Chen",
+      "notes": "plaintiff attorney caps"
+    },
+    {
+      "text": "New Jersey Bar No. 087432",
+      "token_prefix": "ATTORNEY_BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "New Jersey Bar No. 087432",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "CHEN & PATEL LLP",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Chen & Patel LLP",
+      "notes": "plaintiff law firm caps"
+    },
+    {
+      "text": "88 Broad Street, 12th Floor, New York, New York 10004",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "88 Broad Street, 12th Floor, New York, New York 10004",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(212) 555-7890",
+      "token_prefix": "ATTORNEY_PHONE",
+      "entity_type": "ID",
+      "canonical": "(212) 555-7890",
+      "notes": "attorney phone number"
+    },
+    {
+      "text": "rchen@chenpatellaw.com",
+      "token_prefix": "ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "rchen@chenpatellaw.com",
+      "notes": "attorney email address"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "January 18, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 18, 2024",
+      "notes": "complaint filing date"
+    }
+  ]
+}

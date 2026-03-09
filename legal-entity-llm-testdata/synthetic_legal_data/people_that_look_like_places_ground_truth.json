@@ -1,0 +1,506 @@
+{
+  "scenario_id": "people_that_look_like_places",
+  "doc_type": "COURT ORDER",
+  "word_count": 901,
+  "entity_count": 71,
+  "unique_canonical_count": 15,
+  "entities": [
+    {
+      "text": "SAVANNAH CHARLOTTE BROOKS",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Case No. 2024-CV-08471",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CV-08471",
+      "notes": "case number"
+    },
+    {
+      "text": "DALLAS HOUSTON",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant's full name"
+    },
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "HEARING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "hearing date"
+    },
+    {
+      "text": "the Honorable Judge Samuel Washington",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "Samuel Washington",
+      "notes": "presiding judge"
+    },
+    {
+      "text": "9:00 a.m.",
+      "token_prefix": "HEARING_TIME",
+      "entity_type": "DATE",
+      "canonical": "9:00 a.m.",
+      "notes": "hearing time"
+    },
+    {
+      "text": "Virginia Austin, Esq.",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "Plaintiff Savannah Charlotte Brooks",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Defendant Dallas Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "Dr. Georgia Carolina Nash",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Georgia Carolina Nash",
+      "notes": "expert witness"
+    },
+    {
+      "text": "Ms. Savannah Charlotte Brooks",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "1847 Monument Avenue, Richmond, Virginia 23220",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1847 Monument Avenue, Richmond, Virginia 23220",
+      "notes": "plaintiff's address"
+    },
+    {
+      "text": "January 8, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 8, 2024",
+      "notes": "case filing date"
+    },
+    {
+      "text": "Mr. Dallas Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "September 12, 2023",
+      "token_prefix": "CONTRACT_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 12, 2023",
+      "notes": "contract date"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "$47,500",
+      "token_prefix": "CONTRACT_VALUE",
+      "entity_type": "MONEY",
+      "canonical": "$47,500",
+      "notes": "contract value"
+    },
+    {
+      "text": "Virginia Austin",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "February 2, 2024",
+      "token_prefix": "DISCOVERY_DATE",
+      "entity_type": "DATE",
+      "canonical": "February 2, 2024",
+      "notes": "discovery service date"
+    },
+    {
+      "text": "Ms. Austin",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney reference"
+    },
+    {
+      "text": "Dallas Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "Houston's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "March 1, 2024",
+      "token_prefix": "RESPONSE_DEADLINE",
+      "entity_type": "DATE",
+      "canonical": "March 1, 2024",
+      "notes": "discovery response deadline"
+    },
+    {
+      "text": "He",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Attorney Virginia Austin",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney reference"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney pronoun"
+    },
+    {
+      "text": "Ms. Brooks",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff surname"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney pronoun"
+    },
+    {
+      "text": "Houston's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Ms. Austin",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney reference"
+    },
+    {
+      "text": "Dallas Houston's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Houston's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney pronoun"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Mr. Dallas Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "He",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Ms. Savannah Charlotte Brooks",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Dr. Georgia Carolina Nash",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Georgia Carolina Nash",
+      "notes": "expert witness reference"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "She",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Georgia Carolina Nash",
+      "notes": "expert pronoun"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Dallas Houston's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "Ms. Brooks",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Mr. Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "Defendant Dallas Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "Mr. Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "expert witness Dr. Georgia Carolina Nash",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Georgia Carolina Nash",
+      "notes": "expert witness reference"
+    },
+    {
+      "text": "Virginia Austin, Esq.",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Virginia Austin",
+      "notes": "attorney reference"
+    },
+    {
+      "text": "Dallas Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "Houston",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dallas Houston",
+      "notes": "defendant surname"
+    },
+    {
+      "text": "Ms. Savannah Charlotte Brooks",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Savannah Charlotte Brooks",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "The Honorable Judge Samuel Washington",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "Samuel Washington",
+      "notes": "judge reference"
+    },
+    {
+      "text": "18th day of March, 2024",
+      "token_prefix": "ORDER_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 18, 2024",
+      "notes": "order date"
+    }
+  ]
+}

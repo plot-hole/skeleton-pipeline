@@ -1,0 +1,65 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+MELISSA RODRIGUEZ,                    )
+                                     )
+    Plaintiff,                       )    Case No. 2024-CV-08947
+                                     )
+v.                                   )    COURT ORDER ON MOTION
+                                     )    TO COMPEL DISCOVERY
+ZENITH MANUFACTURING                 )
+CORPORATION,                         )
+                                     )
+    Defendant.                       )
+____________________________________)
+
+This matter came before the Court on November 15, 2024, on Plaintiff's Motion to Compel Discovery filed by counsel David R. Chen of Chen & Associates, 1247 Montgomery Street, San Francisco, California 94133. Defendant Zenith Manufacturing Corporation appeared through its attorney Sarah L. Patterson of Morrison, Black & Associates, 890 California Street, Suite 2200, San Francisco, California 94108. Having considered the briefs, exhibits, and oral arguments presented, the Court now rules as follows:
+
+BACKGROUND
+
+Plaintiff Melissa Rodriguez filed this products liability action on March 12, 2024, seeking damages for injuries allegedly sustained from a defective industrial press manufactured by Defendant. Rodriguez claims the machine malfunctioned on January 8, 2023, at her workplace located at 5621 Industrial Boulevard, Oakland, California 94607, causing severe injuries to her left hand and arm.
+
+The instant motion seeks to compel production of documents in four categories: (1) design specifications for Model XL-450 presses manufactured between 2020 and 2023; (2) internal safety testing reports; (3) communications regarding known defects; and (4) financial records showing repair costs and warranty claims.
+
+DISCUSSION
+
+The Court finds that discovery disputes require careful balancing of the parties' legitimate interests under Rule 26(b)(1) of the Federal Rules of Civil Procedure. The Court has considered each category of requested documents separately.
+
+First, regarding design specifications, the Court finds these materials are clearly relevant to Plaintiff's claims and proportional to the case. Defendant argues that releasing such information would compromise trade secrets, but Rodriguez has demonstrated that her engineering expert, Dr. Amanda Foster of Technical Analysis Group, 432 Market Street, San Jose, California 95113, requires these specifications to render her opinion on the alleged defect. The Court notes that appropriate protective order provisions can safeguard proprietary information while allowing necessary discovery.
+
+Second, the Court finds that internal safety testing reports fall squarely within the scope of discoverable materials. Defendant's argument that such reports are protected by attorney-client privilege fails because the materials were created in the ordinary course of business, not in anticipation of litigation. Rule 26(b)(1) permits discovery of any matter relevant to a party's claim or defense, and safety testing directly relates to whether the product was defectively designed or manufactured.
+
+Third, the Court addresses communications regarding known defects. The Court finds that Defendant must produce communications between its engineering department and management concerning any reported problems with the XL-450 series. However, the Court agrees with Defendant that communications with outside counsel Patricia M. Blackwell of Legal Defense Services, 1850 Gateway Boulevard, Concord, California 94520, made after this litigation commenced are protected by attorney-client privilege.
+
+Fourth, regarding financial records, the Court finds that warranty claim data and repair cost documentation are discoverable as they may reveal patterns of defects. However, the Court agrees with Defendant that broader financial information, including overall corporate revenues, exceeds the scope of proportional discovery under these circumstances.
+
+The Court notes that Plaintiff Rodriguez, through her counsel Mr. Chen, has adequately demonstrated good faith efforts to obtain discovery through meet-and-confer discussions. The Court finds that Defendant's responses have been inadequate in several respects, though not entirely without merit.
+
+RULING
+
+Accordingly, the Court GRANTS IN PART and DENIES IN PART Plaintiff's Motion to Compel Discovery as follows:
+
+GRANTED: Defendant shall produce within thirty (30) days:
+1. Complete design specifications for Model XL-450 presses manufactured between January 1, 2020, and December 31, 2023;
+2. All internal safety testing reports conducted on the XL-450 series from 2019 through present;
+3. Communications between engineering and management personnel regarding reported defects or safety concerns with the XL-450 series;
+4. Warranty claim records and repair cost data specific to the XL-450 series.
+
+DENIED: The motion is denied as to:
+1. Communications with outside counsel made after March 12, 2024;
+2. Corporate financial records beyond warranty and repair costs;
+3. Personnel files of individual employees.
+
+The Court emphasizes that all produced materials shall be subject to the protective order entered on September 18, 2024. The Court further orders that any expert depositions, including that of Dr. Foster, shall be completed by January 30, 2025.
+
+The Court finds that sanctions under Rule 37 are not warranted at this time, but cautions that future non-compliance may result in monetary sanctions or other appropriate relief.
+
+The Court retains jurisdiction to resolve any disputes arising from this Order. Counsel for both parties are directed to meet and confer regarding the practical implementation of this Order within seven (7) days.
+
+IT IS SO ORDERED.
+
+Dated: November 20, 2024
+
+                                     /s/ The Honorable Michael R. Thompson
+                                     THE HONORABLE MICHAEL R. THOMPSON
+                                     UNITED STATES DISTRICT JUDGE

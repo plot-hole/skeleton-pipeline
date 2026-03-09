@@ -1,0 +1,639 @@
+{
+  "scenario_id": "federal_bankruptcy_case_numbers",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 974,
+  "entity_count": 90,
+  "unique_canonical_count": 30,
+  "entities": [
+    {
+      "text": "1:23-cv-04821-ABC",
+      "token_prefix": "CASE_NUMBER_FEDERAL_1",
+      "entity_type": "ID",
+      "canonical": "1:23-cv-04821-ABC",
+      "notes": "primary federal case number"
+    },
+    {
+      "text": "23-BK-10458",
+      "token_prefix": "CASE_NUMBER_BANKRUPTCY_1",
+      "entity_type": "ID",
+      "canonical": "23-BK-10458",
+      "notes": "bankruptcy case number"
+    },
+    {
+      "text": "2022-CV-00891",
+      "token_prefix": "CASE_NUMBER_STATE_1",
+      "entity_type": "ID",
+      "canonical": "2022-CV-00891",
+      "notes": "state court case number"
+    },
+    {
+      "text": "AP-2023-0147",
+      "token_prefix": "CASE_NUMBER_ADMIN_1",
+      "entity_type": "ID",
+      "canonical": "AP-2023-0147",
+      "notes": "administrative proceeding number"
+    },
+    {
+      "text": "SEC File No. HO-12345",
+      "token_prefix": "CASE_NUMBER_SEC_1",
+      "entity_type": "ID",
+      "canonical": "SEC File No. HO-12345",
+      "notes": "SEC enforcement reference"
+    },
+    {
+      "text": "Marcus Anthony Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Civil Action No. 1:23-cv-04821-ABC",
+      "token_prefix": "CASE_NUMBER_FEDERAL_1",
+      "entity_type": "ID",
+      "canonical": "1:23-cv-04821-ABC",
+      "notes": "federal case number with label"
+    },
+    {
+      "text": "Marcus Anthony Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff name repeated"
+    },
+    {
+      "text": "485 West 43rd Street, Apartment 12B, New York, NY 10036",
+      "token_prefix": "ADDRESS_PLAINTIFF_1",
+      "entity_type": "ADDRESS",
+      "canonical": "485 West 43rd Street, Apartment 12B, New York, NY 10036",
+      "notes": "plaintiff address"
+    },
+    {
+      "text": "078-45-9821",
+      "token_prefix": "SSN_PLAINTIFF_1",
+      "entity_type": "ID",
+      "canonical": "078-45-9821",
+      "notes": "plaintiff SSN"
+    },
+    {
+      "text": "(212) 555-7394",
+      "token_prefix": "PHONE_PLAINTIFF_1",
+      "entity_type": "ID",
+      "canonical": "(212) 555-7394",
+      "notes": "plaintiff phone"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant corporation repeated"
+    },
+    {
+      "text": "1007 North Orange Street, Suite 200, Wilmington, DE 19801",
+      "token_prefix": "ADDRESS_DEFENDANT_1",
+      "entity_type": "ADDRESS",
+      "canonical": "1007 North Orange Street, Suite 200, Wilmington, DE 19801",
+      "notes": "defendant address"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name only"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Case No. 23-BK-10458",
+      "token_prefix": "CASE_NUMBER_BANKRUPTCY_1",
+      "entity_type": "ID",
+      "canonical": "23-BK-10458",
+      "notes": "bankruptcy case with label"
+    },
+    {
+      "text": "September 15, 2023",
+      "token_prefix": "DATE_BANKRUPTCY_FILING",
+      "entity_type": "DATE",
+      "canonical": "September 15, 2023",
+      "notes": "bankruptcy filing date"
+    },
+    {
+      "text": "23-BK-10458",
+      "token_prefix": "CASE_NUMBER_BANKRUPTCY_1",
+      "entity_type": "ID",
+      "canonical": "23-BK-10458",
+      "notes": "bankruptcy case number repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Case No. 2022-CV-00891",
+      "token_prefix": "CASE_NUMBER_STATE_1",
+      "entity_type": "ID",
+      "canonical": "2022-CV-00891",
+      "notes": "state case with label"
+    },
+    {
+      "text": "Civil Action No. 1:23-cv-04821-ABC",
+      "token_prefix": "CASE_NUMBER_FEDERAL_1",
+      "entity_type": "ID",
+      "canonical": "1:23-cv-04821-ABC",
+      "notes": "federal case repeated"
+    },
+    {
+      "text": "January 2022",
+      "token_prefix": "DATE_CONTACT_START",
+      "entity_type": "DATE",
+      "canonical": "January 2022",
+      "notes": "initial contact date"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant name repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "485 West 43rd Street, Apartment 12B, New York, NY 10036",
+      "token_prefix": "ADDRESS_PLAINTIFF_1",
+      "entity_type": "ADDRESS",
+      "canonical": "485 West 43rd Street, Apartment 12B, New York, NY 10036",
+      "notes": "plaintiff address repeated"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "SEC File No. HO-12345",
+      "token_prefix": "CASE_NUMBER_SEC_1",
+      "entity_type": "ID",
+      "canonical": "SEC File No. HO-12345",
+      "notes": "SEC file number repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant name repeated"
+    },
+    {
+      "text": "$125,000",
+      "token_prefix": "INVESTMENT_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$125,000",
+      "notes": "investment amount"
+    },
+    {
+      "text": "February and August 2022",
+      "token_prefix": "DATE_INVESTMENT_PERIOD",
+      "entity_type": "DATE",
+      "canonical": "February and August 2022",
+      "notes": "investment period"
+    },
+    {
+      "text": "plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "AP-2023-0147",
+      "token_prefix": "CASE_NUMBER_ADMIN_1",
+      "entity_type": "ID",
+      "canonical": "AP-2023-0147",
+      "notes": "admin proceeding repeated"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "2022-CV-00891",
+      "token_prefix": "CASE_NUMBER_STATE_1",
+      "entity_type": "ID",
+      "canonical": "2022-CV-00891",
+      "notes": "state case repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "December 2022",
+      "token_prefix": "DATE_WITHDRAWAL_ATTEMPT",
+      "entity_type": "DATE",
+      "canonical": "December 2022",
+      "notes": "withdrawal attempt date"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant name repeated"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "SEC File No. HO-12345",
+      "token_prefix": "CASE_NUMBER_SEC_1",
+      "entity_type": "ID",
+      "canonical": "SEC File No. HO-12345",
+      "notes": "SEC file repeated"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Rodriguez's",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "2022-CV-00891",
+      "token_prefix": "CASE_NUMBER_STATE_1",
+      "entity_type": "ID",
+      "canonical": "2022-CV-00891",
+      "notes": "state case repeated"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "23-BK-10458",
+      "token_prefix": "CASE_NUMBER_BANKRUPTCY_1",
+      "entity_type": "ID",
+      "canonical": "23-BK-10458",
+      "notes": "bankruptcy case repeated"
+    },
+    {
+      "text": "AP-2023-0147",
+      "token_prefix": "CASE_NUMBER_ADMIN_1",
+      "entity_type": "ID",
+      "canonical": "AP-2023-0147",
+      "notes": "admin proceeding repeated"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant name repeated"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "$125,000",
+      "token_prefix": "INVESTMENT_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$125,000",
+      "notes": "damages amount"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "1:23-cv-04821-ABC",
+      "token_prefix": "CASE_NUMBER_FEDERAL_1",
+      "entity_type": "ID",
+      "canonical": "1:23-cv-04821-ABC",
+      "notes": "federal case repeated"
+    },
+    {
+      "text": "23-BK-10458",
+      "token_prefix": "CASE_NUMBER_BANKRUPTCY_1",
+      "entity_type": "ID",
+      "canonical": "23-BK-10458",
+      "notes": "bankruptcy case repeated"
+    },
+    {
+      "text": "SEC File No. HO-12345",
+      "token_prefix": "CASE_NUMBER_SEC_1",
+      "entity_type": "ID",
+      "canonical": "SEC File No. HO-12345",
+      "notes": "SEC file repeated"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Whitmore Financial Holdings, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Whitmore Financial Holdings, Inc.",
+      "notes": "defendant name repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "AP-2023-0147",
+      "token_prefix": "CASE_NUMBER_ADMIN_1",
+      "entity_type": "ID",
+      "canonical": "AP-2023-0147",
+      "notes": "admin proceeding repeated"
+    },
+    {
+      "text": "23-BK-10458",
+      "token_prefix": "CASE_NUMBER_BANKRUPTCY_1",
+      "entity_type": "ID",
+      "canonical": "23-BK-10458",
+      "notes": "bankruptcy case repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "$125,000",
+      "token_prefix": "INVESTMENT_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$125,000",
+      "notes": "damages amount repeated"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "$125,000",
+      "token_prefix": "INVESTMENT_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$125,000",
+      "notes": "minimum damages"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Jennifer L. Thompson",
+      "token_prefix": "ATTORNEY_PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Thompson",
+      "notes": "plaintiff attorney name"
+    },
+    {
+      "text": "JENNIFER L. THOMPSON, ESQ.",
+      "token_prefix": "ATTORNEY_PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Thompson",
+      "notes": "plaintiff attorney formal name"
+    },
+    {
+      "text": "4829371",
+      "token_prefix": "BAR_NUMBER_PLAINTIFF_ATTORNEY",
+      "entity_type": "ID",
+      "canonical": "4829371",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "Thompson & Associates LLP",
+      "token_prefix": "LAW_FIRM_PLAINTIFF_1",
+      "entity_type": "ORG",
+      "canonical": "Thompson & Associates LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "250 Broadway, 15th Floor, New York, NY 10007",
+      "token_prefix": "ADDRESS_PLAINTIFF_ATTORNEY",
+      "entity_type": "ADDRESS",
+      "canonical": "250 Broadway, 15th Floor, New York, NY 10007",
+      "notes": "plaintiff attorney address"
+    },
+    {
+      "text": "(212) 555-8900",
+      "token_prefix": "PHONE_PLAINTIFF_ATTORNEY",
+      "entity_type": "ID",
+      "canonical": "(212) 555-8900",
+      "notes": "plaintiff attorney phone"
+    },
+    {
+      "text": "jthompson@thompslaw.com",
+      "token_prefix": "EMAIL_PLAINTIFF_ATTORNEY",
+      "entity_type": "ID",
+      "canonical": "jthompson@thompslaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "November 8, 2023",
+      "token_prefix": "DATE_SERVICE_1",
+      "entity_type": "DATE",
+      "canonical": "November 8, 2023",
+      "notes": "service date"
+    },
+    {
+      "text": "Jennifer L. Thompson, Esq.",
+      "token_prefix": "ATTORNEY_PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Thompson",
+      "notes": "attorney name variant"
+    },
+    {
+      "text": "DOUGLAS M. PATTERSON",
+      "token_prefix": "CLERK_OF_COURT_1",
+      "entity_type": "PERSON",
+      "canonical": "Douglas M. Patterson",
+      "notes": "clerk of court name"
+    },
+    {
+      "text": "Maria C. Gonzalez",
+      "token_prefix": "DEPUTY_CLERK_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria C. Gonzalez",
+      "notes": "deputy clerk name"
+    },
+    {
+      "text": "November 8, 2023",
+      "token_prefix": "DATE_FILING_1",
+      "entity_type": "DATE",
+      "canonical": "November 8, 2023",
+      "notes": "filing date"
+    },
+    {
+      "text": "December 15, 2023, 2:00 PM",
+      "token_prefix": "DATE_HEARING_1",
+      "entity_type": "DATE",
+      "canonical": "December 15, 2023, 2:00 PM",
+      "notes": "hearing date and time"
+    },
+    {
+      "text": "ROBERT K. STEINBERG, ESQ.",
+      "token_prefix": "ATTORNEY_DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Robert K. Steinberg",
+      "notes": "defendant attorney name"
+    },
+    {
+      "text": "Steinberg, Wilson & Associates",
+      "token_prefix": "LAW_FIRM_DEFENDANT_1",
+      "entity_type": "ORG",
+      "canonical": "Steinberg, Wilson & Associates",
+      "notes": "defendant law firm"
+    },
+    {
+      "text": "500 Delaware Avenue, Suite 1200, Wilmington, DE 19801",
+      "token_prefix": "ADDRESS_DEFENDANT_ATTORNEY",
+      "entity_type": "ADDRESS",
+      "canonical": "500 Delaware Avenue, Suite 1200, Wilmington, DE 19801",
+      "notes": "defendant attorney address"
+    },
+    {
+      "text": "(302) 555-4100",
+      "token_prefix": "PHONE_DEFENDANT_ATTORNEY",
+      "entity_type": "ID",
+      "canonical": "(302) 555-4100",
+      "notes": "defendant attorney phone"
+    }
+  ]
+}

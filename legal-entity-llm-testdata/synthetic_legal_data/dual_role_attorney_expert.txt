@@ -1,0 +1,107 @@
+**IN THE UNITED STATES DISTRICT COURT**
+**FOR THE DISTRICT OF MASSACHUSETTS**
+
+MERIDIAN CAPITAL VENTURES LLC,  
+By its Managing Member SARAH ELIZABETH HENLEY,
+
+Plaintiff,
+
+v.                                                          Civil Action No. 2024-CV-04782
+
+BERKSHIRE FINANCIAL ADVISORS, INC.,  
+MARCUS JONATHAN RUTHERFORD, individually,  
+and COLONIAL TRUST COMPANY,
+
+Defendants.
+
+**COMPLAINT FOR BREACH OF FIDUCIARY DUTY, NEGLIGENT MISREPRESENTATION, AND VIOLATIONS OF MASSACHUSETTS UNIFORM SECURITIES ACT**
+
+TO THE HONORABLE COURT:
+
+Plaintiff Meridian Capital Ventures LLC, by and through its undersigned counsel, hereby complies this Complaint against Defendants and respectfully alleges as follows:
+
+**PARTIES**
+
+1. Plaintiff Meridian Capital Ventures LLC ("Meridian Capital") is a Massachusetts limited liability company with its principal place of business at 847 Commonwealth Avenue, Boston, MA 02215. Sarah Elizabeth Henley serves as the Managing Member of Meridian Capital and brings this action in both her individual capacity and as the corporate representative of the LLC.
+
+2. Ms. Henley resides at 1205 Marlborough Street, Unit 3B, Boston, MA 02116, and may be reached at (617) 555-0847 or sherley@meridianvc.com.
+
+3. Defendant Berkshire Financial Advisors, Inc. is a Rhode Island corporation engaged in investment advisory services with its principal place of business at 290 Westminster Street, Providence, RI 02903.
+
+4. Defendant Marcus Jonathan Rutherford is an individual residing at 78 Benefit Street, Providence, RI 02904, and serves as Chief Investment Officer of Berkshire Financial Advisors, Inc. Upon information and belief, Mr. Rutherford holds Series 7 and Series 66 securities licenses.
+
+5. Defendant Colonial Trust Company is a Massachusetts trust company with offices at 500 Boylston Street, Boston, MA 02116.
+
+**JURISDICTION AND VENUE**
+
+6. This Court has subject matter jurisdiction pursuant to 28 U.S.C. § 1332 as there is complete diversity of citizenship between the parties and the amount in controversy exceeds $75,000.
+
+7. Venue is proper in this District pursuant to 28 U.S.C. § 1391(b) as a substantial part of the events giving rise to the claims occurred within this judicial district.
+
+**REPRESENTATION AND EXPERT TESTIMONY**
+
+8. Plaintiff is represented by Attorney Margaret Ann Patterson of Patterson & Associates LLP, located at 101 Federal Street, Suite 1900, Boston, MA 02110. Attorney Patterson can be reached at (617) 555-0123 or mpatterson@pattersonlaw.com.
+
+9. In this matter, the expert will provide testimony regarding the applicable standards of care for investment advisors and fiduciary duties owed to clients. Attorney Patterson, who possesses over twenty years of experience in securities litigation and investment advisor malpractice cases, will serve as an expert witness on legal malpractice standards applicable to investment advisory relationships. The expert has been qualified in similar matters in both state and federal courts throughout New England.
+
+10. Ms. Patterson will testify regarding industry standards, regulatory requirements under the Investment Advisers Act of 1940, and the duties owed by investment advisors to their clients under Massachusetts law.
+
+**FACTUAL ALLEGATIONS**
+
+11. In March 2022, the Plaintiff, through its Managing Member Sarah Elizabeth Henley, engaged Berkshire Financial Advisors to manage a portfolio of securities valued at approximately $2.3 million.
+
+12. The Managing Member had extensive discussions with Rutherford regarding Meridian Capital's investment objectives, which focused on capital preservation and moderate growth suitable for a venture capital firm's reserve funds.
+
+13. She specifically instructed that no more than 20% of the portfolio should be allocated to high-risk investments, and that liquidity should be maintained for potential investment opportunities.
+
+14. Defendant Rutherford assured Ms. Henley that he understood these parameters and would manage the portfolio accordingly. The witness later acknowledged in depositions taken in related proceedings that he was fully aware of these restrictions.
+
+15. Between April 2022 and September 2023, Rutherford, acting as Berkshire Financial's agent, repeatedly violated these instructions by allocating over 60% of Meridian Capital's assets to speculative cryptocurrency investments and leveraged derivatives.
+
+16. When the Plaintiff questioned these allocations in July 2023, Defendant Rutherford provided misleading statements about the risk profile of the investments, claiming they were "conservative growth instruments with minimal downside exposure."
+
+17. The witness further represented that the investments were "fully liquid" and could be converted to cash within 24-48 hours if needed.
+
+18. Colonial Trust Company served as custodian for the account and had actual knowledge of the unauthorized high-risk allocations but failed to notify Plaintiff despite contractual obligations to monitor investment activities for compliance with client directives.
+
+19. In October 2023, market volatility caused the speculative positions to lose approximately $1.4 million in value over a three-week period.
+
+20. When Ms. Henley attempted to liquidate positions to cover a time-sensitive investment opportunity, she discovered that the investments could not be readily converted to cash due to market conditions and contractual restrictions that Rutherford had failed to disclose.
+
+21. As a result of Defendants' breaches of fiduciary duty and misrepresentations, Meridian Capital suffered damages in excess of $1.4 million and lost profitable investment opportunities.
+
+**COUNT I - BREACH OF FIDUCIARY DUTY**
+
+22. Plaintiff incorporates by reference all preceding paragraphs.
+
+23. Defendants owed fiduciary duties to Plaintiff, including duties of loyalty, care, and good faith.
+
+24. Defendants breached these duties by making unauthorized high-risk investments contrary to explicit instructions and by failing to provide accurate information about investment risks and liquidity.
+
+25. As a direct and proximate result of these breaches, Plaintiff suffered substantial monetary damages.
+
+**PRAYER FOR RELIEF**
+
+WHEREFORE, Plaintiff respectfully requests that this Court:
+
+A. Award compensatory damages in an amount to be proven at trial, but not less than $1,400,000;
+B. Award punitive damages where permitted by law;
+C. Award reasonable attorneys' fees and costs;
+D. Grant such other relief as the Court deems just and proper.
+
+**DEMAND FOR JURY TRIAL**
+
+Plaintiff hereby demands a trial by jury on all issues so triable.
+
+Respectfully submitted,
+
+/s/ Margaret Ann Patterson  
+Margaret Ann Patterson (BBO# 445789)  
+Patterson & Associates LLP  
+101 Federal Street, Suite 1900  
+Boston, MA 02110  
+Tel: (617) 555-0123  
+Email: mpatterson@pattersonlaw.com  
+Attorney for Plaintiff
+
+Dated: January 15, 2024
