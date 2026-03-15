@@ -1,0 +1,147 @@
+======================================================================
+SYNTHETIC TEST DOCUMENT — MEDIUM-HIGH SENSITIVITY
+LLC OPERATING AGREEMENT
+Generated: 2026-03-07 20:10:30
+FOR PRIVACY ENGINEERING / ENTITY REPLACEMENT TESTING ONLY
+======================================================================
+
+# OPERATING AGREEMENT
+
+# OF
+
+# MERIDIAN COASTAL VENTURES, LLC
+
+# A California Limited Liability Company
+
+---
+
+**THIS OPERATING AGREEMENT** is entered into and effective as of the 15th day of March, 2024, by and among the Members identified herein.
+
+---
+
+## ARTICLE I: FORMATION AND NAME
+
+**1.1 Formation.** The Members hereby form a Limited Liability Company pursuant to the California Revised Uniform Limited Liability Company Act. The Articles of Organization were filed with the California Secretary of State on March 12, 2024, and assigned State Filing Number 202409847521.
+
+**1.2 Name.** The name of the Company shall be MERIDIAN COASTAL VENTURES, LLC.
+
+**1.3 Principal Office.** The principal place of business of the Company shall be located at 4892 Harborview Boulevard, Suite 340, San Diego, California 92101. The Members may change the principal office upon unanimous written consent.
+
+**1.4 Registered Agent.** The Company's registered agent for service of process shall be DOUGLAS RAYMOND WHITFIELD, whose address is 1156 Corporate Center Drive, Suite 200, Sacramento, California 95814. The registered agent may be changed by filing the appropriate documents with the Secretary of State.
+
+**1.5 Federal Tax Identification.** The Company has obtained Employer Identification Number 84-3927156 from the Internal Revenue Service for all federal tax reporting purposes.
+
+---
+
+## ARTICLE II: MEMBERS AND CAPITAL CONTRIBUTIONS
+
+**2.1 Initial Members.** The following individuals are the initial Members of the Company, with their respective ownership interests and capital contributions:
+
+**Member One:**
+Name: PATRICIA ELAINE MORRISON
+Residence: 7234 Windermere Lane, La Jolla, California 92037
+Social Security Number: 548-72-9163
+Ownership Percentage: 45%
+Initial Capital Contribution: $225,000.00
+
+**Member Two:**
+Name: JONATHAN MARCUS DELGADO
+Residence: 2891 Thornberry Circle, Carlsbad, California 92009
+Social Security Number: 612-38-4057
+Ownership Percentage: 35%
+Initial Capital Contribution: $175,000.00
+
+**Member Three:**
+Name: SANDRA LYNN BERKOWITZ
+Residence: 5463 Maple Ridge Court, Encinitas, California 92024
+Social Security Number: 483-91-6724
+Ownership Percentage: 20%
+Initial Capital Contribution: $100,000.00
+
+**2.2 Total Initial Capitalization.** The total initial capital of the Company is Five Hundred Thousand Dollars ($500,000.00).
+
+**2.3 Additional Contributions.** No Member shall be required to make additional capital contributions without unanimous consent of all Members.
+
+---
+
+## ARTICLE III: MANAGEMENT
+
+**3.1 Managing Member.** The Company shall be managed by a designated Managing Member. PATRICIA ELAINE MORRISON is hereby appointed as the initial Managing Member and shall serve in such capacity until resignation, removal, or replacement pursuant to this Agreement.
+
+**3.2 Authority of Managing Member.** The Managing Member shall have full authority to conduct the ordinary business operations of the Company, including but not limited to entering contracts valued at less than $50,000.00, hiring employees, and managing day-to-day operations.
+
+**3.3 Voting Thresholds.** The following voting thresholds shall apply to Company decisions:
+
+- Ordinary business matters: Simple majority (greater than 50%) of ownership interests
+- Admission of new Members: 75% of ownership interests
+- Amendment of this Agreement: 80% of ownership interests
+- Sale of substantially all assets: Unanimous consent (100%)
+- Dissolution of the Company: 80% of ownership interests
+
+---
+
+## ARTICLE IV: ALLOCATIONS AND DISTRIBUTIONS
+
+**4.1 Profit and Loss Allocation.** Net profits and net losses of the Company shall be allocated to the Members in proportion to their respective Ownership Percentages as set forth in Article II.
+
+**4.2 Distribution Schedule.** Distributions of available cash shall be made quarterly, within thirty (30) days following the end of each fiscal quarter, specifically by April 30, July 31, October 31, and January 31. The Managing Member shall determine the amount available for distribution after reserving adequate funds for operations, obligations, and contingencies.
+
+**4.3 Priority of Distributions.** Distributions shall be made in the following order of priority: (a) repayment of Member loans plus accrued interest; (b) return of capital contributions to the extent of positive capital account balances; (c) thereafter to Members in accordance with Ownership Percentages.
+
+---
+
+## ARTICLE V: MEMBER LOANS
+
+**5.1 Existing Member Loan.** JONATHAN MARCUS DELGADO has made a loan to the Company in the principal amount of Seventy-Five Thousand Dollars ($75,000.00), bearing interest at the rate of 6.5% per annum, with a term of thirty-six (36) months commencing March 15, 2024, and maturing March 15, 2027. Principal and interest shall be payable in equal monthly installments of $2,302.45.
+
+**5.2 Future Loans.** Members may make additional loans to the Company upon terms approved by Members holding at least 75% of the ownership interests.
+
+---
+
+## ARTICLE VI: BANKING AND FINANCIAL MATTERS
+
+**6.1 Company Bank Account.** The Company shall maintain its primary operating account at PACIFIC WESTERN COMMUNITY BANK, located at 3200 Financial District Plaza, San Diego, California 92102.
+
+**6.2 Authorized Signatories.** The following Members are authorized signatories on all Company bank accounts: PATRICIA ELAINE MORRISON and JONATHAN MARCUS DELGADO. Withdrawals exceeding $25,000.00 shall require signatures of both authorized signatories.
+
+---
+
+## ARTICLE VII: BUY-SELL PROVISIONS
+
+**7.1 Trigger Events.** The buy-sell provisions of this Article shall be triggered upon the occurrence of any of the following events with respect to a Member: (a) death; (b) permanent disability; (c) voluntary withdrawal with 90 days written notice; (d) bankruptcy filing; (e) divorce where membership interest becomes marital property subject to division; or (f) material breach of this Agreement.
+
+**7.2 Valuation Method.** Upon a triggering event, the fair market value of the departing Member's interest shall be determined by the average of two independent appraisals conducted by certified business appraisers selected by the Company and the departing Member (or their representative). If the two appraisals differ by more than 15%, a third appraiser shall be selected jointly, and the final value shall be the average of all three appraisals.
+
+**7.3 Purchase Terms.** The Company or remaining Members shall have the option to purchase the interest at the appraised value, payable 30% at closing and the balance over sixty (60) months at 5% annual interest.
+
+---
+
+## ARTICLE VIII: DISSOLUTION
+
+**8.1 Events of Dissolution.** The Company shall dissolve upon: (a) vote of Members holding 80% or more of ownership interests; (b) sale of all Company assets; (c) entry of judicial decree of dissolution; or (d) any event making it unlawful to continue business.
+
+---
+
+## ARTICLE IX: GENERAL PROVISIONS
+
+**9.1 Governing Law.** This Agreement shall be governed by the laws of the State of California.
+
+**9.2 Entire Agreement.** This Agreement constitutes the entire agreement among the Members and supersedes all prior understandings.
+
+**IN WITNESS WHEREOF**, the undersigned Members have executed this Operating Agreement as of the date first written above.
+
+---
+
+**MEMBERS:**
+
+_______________________________
+PATRICIA ELAINE MORRISON
+Date: March 15, 2024
+
+_______________________________
+JONATHAN MARCUS DELGADO
+Date: March 15, 2024
+
+_______________________________
+SANDRA LYNN BERKOWITZ
+Date: March 15, 2024

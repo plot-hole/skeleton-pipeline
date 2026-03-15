@@ -1,0 +1,96 @@
+======================================================================
+SYNTHETIC TEST DOCUMENT — HIGH SENSITIVITY
+VEHICLE BILL OF SALE
+Generated: 2026-03-07 20:10:30
+FOR PRIVACY ENGINEERING / ENTITY REPLACEMENT TESTING ONLY
+======================================================================
+
+VEHICLE BILL OF SALE
+
+STATE OF TEXAS
+COUNTY OF TRAVIS
+
+This Bill of Sale is entered into on this 14th day of March, 2024.
+
+SELLER INFORMATION
+
+Name: Raymond Douglas Hutchinson
+Address: 4827 Creekside Manor Drive, Austin, TX 78745
+Telephone: (512) 847-3291
+Driver's License: 18493726 (State of Texas)
+
+BUYER INFORMATION
+
+Name: Melissa Anne Carpenter
+Address: 1156 Windmill Ranch Road, Apartment 204, Round Rock, TX 78664
+Telephone: (512) 693-4158
+Driver's License: 22847165 (State of Texas)
+
+VEHICLE DESCRIPTION
+
+Year: 2021
+Make: Honda
+Model: Accord
+Trim: Sport 2.0T
+Exterior Color: Lunar Silver Metallic
+Vehicle Identification Number (VIN): 1HGCV2F34MA048271
+Odometer Reading: 34,892 miles (actual mileage)
+
+SALE PRICE AND PAYMENT
+
+The Seller agrees to sell and the Buyer agrees to purchase the above-described vehicle for the total sum of Eighteen Thousand Five Hundred Dollars ($18,500.00).
+
+Payment shall be rendered via cashier's check issued by First National Bank of Texas, Check Number 7834921056, dated March 14, 2024.
+
+EXISTING LIEN DISCLOSURE
+
+The vehicle described herein is currently subject to a lien held by:
+
+Lienholder: Capital One Auto Finance
+Address: P.O. Box 660068, Dallas, TX 75266
+Account Number: 4471-8829-3156-7742
+Payoff Amount: $6,847.23
+
+Seller agrees to satisfy the existing lien from proceeds of this sale within five (5) business days and provide Buyer with a lien release document.
+
+TRADE-IN VEHICLE
+
+Buyer shall tender the following vehicle as partial trade-in consideration:
+
+Year: 2016
+Make: Toyota
+Model: Camry
+Vehicle Identification Number (VIN): 4T1BF1FK7GU259384
+Agreed Trade-In Value: $4,200.00
+
+Net amount due from Buyer after trade-in credit: $14,300.00
+
+WARRANTY DISCLAIMER
+
+THIS VEHICLE IS SOLD "AS-IS" AND "WITH ALL FAULTS." THE SELLER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE BUYER ACKNOWLEDGES THAT THE BUYER IS PURCHASING THE VEHICLE IN ITS PRESENT CONDITION AND ASSUMES ALL RISK AS TO ITS QUALITY AND PERFORMANCE.
+
+CERTIFICATION
+
+The Seller certifies that they are the lawful owner of the vehicle, that the title is free and clear of all liens except as disclosed above, and that they have full authority to sell and transfer ownership.
+
+Seller Signature: ___________________________ Date: _______________
+Raymond Douglas Hutchinson
+
+Buyer Signature: ___________________________ Date: _______________
+Melissa Anne Carpenter
+
+NOTARIZATION
+
+State of Texas, County of Travis
+
+On this 14th day of March, 2024, before me personally appeared Raymond Douglas Hutchinson and Melissa Anne Carpenter, known to me to be the persons whose names are subscribed to the foregoing instrument, and acknowledged that they executed the same for the purposes therein contained.
+
+Notary Public: Christina Marie Delgado
+Commission Number: 14829573
+County of Commission: Travis County, Texas
+Commission Expiration Date: September 30, 2026
+
+[NOTARY SEAL]
+
+___________________________
+Notary Public Signature

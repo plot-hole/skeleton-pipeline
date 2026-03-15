@@ -1,0 +1,94 @@
+======================================================================
+SYNTHETIC TEST DOCUMENT — MEDIUM-HIGH SENSITIVITY
+MUTUAL NON-DISCLOSURE AGREEMENT
+Generated: 2026-03-07 20:10:30
+FOR PRIVACY ENGINEERING / ENTITY REPLACEMENT TESTING ONLY
+======================================================================
+
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of March 15, 2024 (the "Effective Date") by and between:
+
+DISCLOSING AND RECEIVING PARTIES
+
+Meridian Analytics Corporation, a Delaware corporation with its principal place of business at 4521 Commerce Park Drive, Suite 800, Alpharetta, Georgia 30009, represented by its Chief Strategy Officer, Victoria Chen-Rasmussen ("Meridian")
+
+AND
+
+Douglas William Pemberton, an individual residing at 1847 Willow Creek Lane, Apartment 3B, Marietta, Georgia 30067, telephone (678) 442-9173, email d.pemberton@techventures-consulting.net ("Consultant")
+
+Collectively referred to as the "Parties" and individually as a "Party."
+
+RECITALS
+
+WHEREAS, Meridian is engaged in the business of developing proprietary predictive analytics software for healthcare revenue cycle management; and
+
+WHEREAS, Consultant possesses expertise in enterprise software integration and data architecture; and
+
+WHEREAS, the Parties wish to explore a potential software development partnership for the integration of Meridian's analytics platform with third-party electronic health record systems (the "Business Purpose"); and
+
+WHEREAS, in connection with the Business Purpose, each Party may disclose certain confidential and proprietary information to the other Party.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the Parties agree as follows:
+
+ARTICLE I: DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all non-public information disclosed by either Party to the other, whether orally, in writing, or by any other means, including but not limited to:
+
+(a) Source code, object code, algorithms, and software architecture documentation related to Meridian's HealthFlow Analytics Platform;
+
+(b) Customer lists, pricing models, and revenue projections, including specifically the contracted rates with Southeastern Regional Health Network;
+
+(c) Technical specifications for API integration protocols and data mapping schemas;
+
+(d) Business strategies, market analysis, and competitive intelligence regarding expansion into the ambulatory surgery center market; and
+
+(e) Employee compensation structures, organizational charts, and talent acquisition plans.
+
+ARTICLE II: OBLIGATIONS OF RECEIVING PARTY
+
+2.1 The Receiving Party shall hold all Confidential Information in strict confidence and shall not disclose such information to any third party without the prior written consent of the Disclosing Party.
+
+2.2 The Receiving Party shall use the Confidential Information solely for the Business Purpose and for no other purpose whatsoever.
+
+2.3 The Receiving Party shall limit access to Confidential Information to those employees, agents, and advisors who have a need to know such information and who are bound by confidentiality obligations no less restrictive than those contained herein.
+
+ARTICLE III: EXCLUSIONS
+
+3.1 Confidential Information shall not include information that: (a) is or becomes publicly available through no fault of the Receiving Party; (b) was rightfully in the Receiving Party's possession prior to disclosure; (c) is independently developed by the Receiving Party without use of Confidential Information; or (d) is rightfully obtained from a third party without restriction.
+
+3.2 Notwithstanding the foregoing, the Receiving Party may disclose Confidential Information if required by law, provided that the Receiving Party gives prompt written notice to the Disclosing Party. Specifically excluded from protection under this Agreement are: the HealthFlow public product documentation, Meridian's published annual reports, and information previously disclosed to Consultant pursuant to the Preliminary Engagement Letter dated January 8, 2024.
+
+ARTICLE IV: TERM AND TERMINATION
+
+4.1 This Agreement shall commence on the Effective Date and shall continue until September 15, 2026, unless earlier terminated by either Party upon thirty (30) days' written notice.
+
+4.2 The obligations of confidentiality shall survive termination for a period of three (3) years.
+
+ARTICLE V: REMEDIES
+
+5.1 The Parties acknowledge that a breach of this Agreement may cause irreparable harm. In addition to equitable relief, the breaching Party shall pay liquidated damages in the amount of Two Hundred Fifty Thousand Dollars ($250,000.00) per occurrence.
+
+ARTICLE VI: GOVERNING LAW
+
+6.1 This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia. Any disputes arising hereunder shall be subject to the exclusive jurisdiction of the state and federal courts located in Fulton County, Georgia.
+
+ARTICLE VII: ENTIRE AGREEMENT
+
+7.1 This Agreement constitutes the entire understanding between the Parties concerning the subject matter hereof and supersedes all prior negotiations and agreements.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+MERIDIAN ANALYTICS CORPORATION
+
+Signature: /s/ Victoria Chen-Rasmussen
+Name: Victoria Chen-Rasmussen
+Title: Chief Strategy Officer
+Date: March 15, 2024
+
+CONSULTANT
+
+Signature: /s/ Douglas W. Pemberton
+Name: Douglas William Pemberton
+Title: Independent Consultant
+Date: March 15, 2024

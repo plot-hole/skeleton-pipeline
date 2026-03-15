@@ -1,0 +1,934 @@
+{
+  "document_id": "57035718-1c6d-4e7c-907a-713153ffbc1d",
+  "tenant_id": "55d3a4ff-868e-44f4-94ef-278c5df607eb",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "0631aa17-468f-40af-9799-89f9f4a83b8c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "CASE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 610,
+      "byte_offset_end": 628,
+      "original_text": "SPM-2024-EV-003891",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8fd4eca8-02db-45d8-992c-88176a003d24",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "LICENSE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3019,
+      "byte_offset_end": 3033,
+      "original_text": "2019-PSR-04412",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "79520966-317d-4a2a-8de2-ea7f914f3d31",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 163,
+      "byte_offset_end": 173,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "911f5e08-9c02-459c-bf45-4b01dc8cc0e8",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 347,
+      "byte_offset_end": 356,
+      "original_text": "THREE-DAY",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d9cdcf6d-7041-416f-a590-b761eafbe832",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 479,
+      "byte_offset_end": 489,
+      "original_text": "Sacramento",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "55a04eba-d741-43db-a668-8bfd9a2fa8ee",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 568,
+      "byte_offset_end": 584,
+      "original_text": "October 23, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fb12905b-66f5-4a05-b484-1a147a359e83",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 654,
+      "byte_offset_end": 678,
+      "original_text": "MARCUS JEROME WASHINGTON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "76035f6c-150d-410f-881d-1324d73481b9",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 683,
+      "byte_offset_end": 706,
+      "original_text": "PATRICIA ANN WASHINGTON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "76f65a54-2ddb-4a8f-a3f6-7941e971e5a1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 740,
+      "byte_offset_end": 744,
+      "original_text": "1847",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "533fd5b9-f9fe-4e25-b832-2def0fd839bc",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 777,
+      "byte_offset_end": 786,
+      "original_text": "Elk Grove",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a73aeb50-d464-4a9d-899a-dc5e67a93349",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1252,
+      "byte_offset_end": 1263,
+      "original_text": "August 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "faf07569-f5eb-4fd7-b16c-8e337b337805",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1267,
+      "byte_offset_end": 1275,
+      "original_text": "2,175.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "49465262-acbb-4ccc-9a7b-4e813ab8bcfc",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1279,
+      "byte_offset_end": 1285,
+      "original_text": "108.75",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "839633d5-116f-4532-a441-22cde2ceac2c",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1289,
+      "byte_offset_end": 1297,
+      "original_text": "2,283.75",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c49fdf17-97d1-49b5-b572-b1e3b8ecf2c9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1302,
+      "byte_offset_end": 1316,
+      "original_text": "September 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "bff6e234-81c1-49a7-88c5-aa0bca2619ce",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1320,
+      "byte_offset_end": 1328,
+      "original_text": "2,175.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5ea0a2e6-f532-487e-b274-e868eb7e6c95",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1332,
+      "byte_offset_end": 1338,
+      "original_text": "108.75",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "23c15f51-406b-4b32-a643-c37742de5be1",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1342,
+      "byte_offset_end": 1350,
+      "original_text": "2,283.75",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "21a783e9-e300-46c0-afba-7dd8c8f49d8a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1355,
+      "byte_offset_end": 1367,
+      "original_text": "October 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "76f603c2-eb3e-4809-8c72-d69cf1af1561",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1371,
+      "byte_offset_end": 1379,
+      "original_text": "2,175.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "50c4b510-590c-4178-991f-fdc8374f3cdc",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1383,
+      "byte_offset_end": 1389,
+      "original_text": "108.75",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "06bc6517-ffa0-48bf-976d-7d2cce11cd93",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1393,
+      "byte_offset_end": 1401,
+      "original_text": "2,283.75",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ad3d7ee8-0f86-440f-8975-a283cf9f4680",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1426,
+      "byte_offset_end": 1434,
+      "original_text": "6,851.25",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6047bd08-7b67-49bb-8108-8aedb98d0f05",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1535,
+      "byte_offset_end": 1548,
+      "original_text": "March 1, 2022",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "176e4f5d-421a-45f8-85db-7c59b561c70f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1588,
+      "byte_offset_end": 1615,
+      "original_text": "the first day of each month",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b227b523-20a6-4902-bfa9-ce14aba4068a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1647,
+      "byte_offset_end": 1680,
+      "original_text": "August 1, 2024, September 1, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ed46ac3e-54d7-4269-b61b-45bd3cfeb469",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1685,
+      "byte_offset_end": 1700,
+      "original_text": "October 1, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c23fa2a7-52d3-4d71-ad5a-bd5cf074c6ae",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1737,
+      "byte_offset_end": 1770,
+      "original_text": "August 6, 2024, September 6, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "884c2660-3ea2-4a07-9a86-4b3e9ed9f2ca",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1776,
+      "byte_offset_end": 1791,
+      "original_text": "October 6, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c6d952e6-0034-4ff5-b7c9-2ae49073357a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1824,
+      "byte_offset_end": 1840,
+      "original_text": "October 28, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "710b91aa-f044-4ae6-95dc-09fe3b6f17f1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1972,
+      "byte_offset_end": 2004,
+      "original_text": "Summit Ridge Property Management",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b233f667-0eda-4e6f-92c1-a0293328fe00",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2006,
+      "byte_offset_end": 2009,
+      "original_text": "LLC",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "560f85e8-2136-4796-8bba-65a78fbc388a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2118,
+      "byte_offset_end": 2136,
+      "original_text": "Denise M. Kowalski",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3850d855-7ac2-4875-87c7-b839f7ac9e3f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2199,
+      "byte_offset_end": 2216,
+      "original_text": "NON-COMPLIANCE:**",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e81c92b6-ac6c-4187-8e60-a7c31ef24fce",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2550,
+      "byte_offset_end": 2573,
+      "original_text": "THORNBERRY & ASSOCIATES",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "543650c7-17c2-4974-aeda-226ff140d113",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2575,
+      "byte_offset_end": 2578,
+      "original_text": "LLP",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8b7bfab4-de7b-4ea9-a144-1c85ed9f20b7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2602,
+      "byte_offset_end": 2614,
+      "original_text": "Capitol Mall",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4204aeaa-b953-4ccb-a2e8-fbc2cdd5bd39",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2627,
+      "byte_offset_end": 2637,
+      "original_text": "Sacramento",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7d50ff03-8910-4def-9350-b4415908cc1a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2639,
+      "byte_offset_end": 2647,
+      "original_text": "CA 95814",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b24ae422-ca47-48e9-ad20-a44d93dc3b84",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2666,
+      "byte_offset_end": 2687,
+      "original_text": "Raymond K. Thornberry",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f60276bc-b416-4f79-ae77-1466c7a8ad93",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2689,
+      "byte_offset_end": 2692,
+      "original_text": "Esq",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "41c6d005-ee73-4cfb-aad0-ef30ca678f7b",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2857,
+      "byte_offset_end": 2867,
+      "original_text": "Sacramento",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0227f031-1a73-4bd4-b8d5-9fd6b58bec56",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2869,
+      "byte_offset_end": 2877,
+      "original_text": "CA 95814",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5fe3b7ed-5a35-4eff-ab1d-43271a2fd312",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2918,
+      "byte_offset_end": 2936,
+      "original_text": "Daniel R. Guerrero",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "51cd5bd5-706b-4b1a-9cb5-2c1cb5cc9e60",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2977,
+      "byte_offset_end": 3000,
+      "original_text": "the State of California",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fa21dae7-9fdd-4561-8cce-24bee253a33d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3111,
+      "byte_offset_end": 3127,
+      "original_text": "October 23, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3b6d4819-cdc9-4700-89eb-566f772ae7b3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3262,
+      "byte_offset_end": 3298,
+      "original_text": "California Civil Code Section 1946.2",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "65c7c787-4d0f-417b-bf30-a666f1dc6370",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3505,
+      "byte_offset_end": 3523,
+      "original_text": "Denise M. Kowalski",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1a020e01-d67e-4cab-b9f2-a9c1a84bb8ab",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 505,
+      "byte_offset_end": 519,
+      "original_text": "(916) 555-0142",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5c4f5cc1-f031-438a-a4b8-7e4b0bf263ad",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 527,
+      "byte_offset_end": 541,
+      "original_text": "(916) 555-0143",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8525c96b-29c0-47ef-a381-fa8c8e3d8250",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2154,
+      "byte_offset_end": 2168,
+      "original_text": "(916) 555-0187",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "604a5a95-aded-47a6-9209-f30b63f26a0a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 440,
+      "byte_offset_end": 478,
+      "original_text": "2847 Corporate Center Drive, Suite 410",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4bf32368-3965-4fc3-bd89-2358d4cca551",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 491,
+      "byte_offset_end": 499,
+      "original_text": "CA 95834",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2fc3bd75-2877-4fe8-aa44-829bc630f193",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 788,
+      "byte_offset_end": 796,
+      "original_text": "CA 95624",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 54,
+    "critical_count": 7,
+    "high_count": 47,
+    "low_count": 0,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

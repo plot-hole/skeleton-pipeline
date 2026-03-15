@@ -1,0 +1,141 @@
+======================================================================
+SYNTHETIC TEST DOCUMENT — MEDIUM-HIGH SENSITIVITY
+INDEPENDENT CONTRACTOR AGREEMENT
+Generated: 2026-03-07 20:10:30
+FOR PRIVACY ENGINEERING / ENTITY REPLACEMENT TESTING ONLY
+======================================================================
+
+**INDEPENDENT CONTRACTOR AGREEMENT**
+
+This Independent Contractor Agreement ("Agreement") is entered into as of **March 15, 2024** ("Effective Date"), by and between:
+
+**CLIENT:**
+Meridian Healthcare Solutions, LLC
+8742 Commerce Park Drive, Suite 340
+Minneapolis, Minnesota 55426
+Attention: **Jennifer K. Thornberry**, Chief Operations Officer
+
+("Client")
+
+AND
+
+**CONTRACTOR:**
+**David Raymond Castellano**
+d/b/a **Castellano Digital Consulting**
+1847 Birchwood Lane
+Edina, Minnesota 55424
+Phone: **(612) 447-8293**
+Email: **dcastellano.consulting@outlook.com**
+Social Security Number: **418-52-7693**
+Employer Identification Number: **41-2987456**
+
+("Contractor")
+
+CLIENT and CONTRACTOR may be referred to individually as a "Party" and collectively as the "Parties."
+
+---
+
+**1. ENGAGEMENT OF SERVICES**
+
+1.1 Client hereby engages Contractor as an independent contractor, and Contractor hereby accepts such engagement, to perform the services described herein for the project known as **"Project Asclepius Digital Transformation Initiative"** (the "Project").
+
+1.2 This Agreement shall commence on **April 1, 2024** ("Start Date") and shall terminate on **September 30, 2024** ("End Date"), unless earlier terminated in accordance with Section 8 of this Agreement.
+
+---
+
+**2. SCOPE OF WORK AND DELIVERABLES**
+
+2.1 Contractor agrees to perform the following services and deliver the following work product:
+
+(a) **Patient Portal UX Redesign Specifications** – Complete user experience analysis and redesign documentation for Client's patient-facing portal interface. **Due Date: May 15, 2024.**
+
+(b) **Electronic Health Records Integration Framework** – Technical architecture document and API specifications for integration with existing EHR systems. **Due Date: June 30, 2024.**
+
+(c) **Staff Training Module Development** – Creation of comprehensive digital training materials, including video tutorials and assessment protocols for administrative staff. **Due Date: August 15, 2024.**
+
+(d) **Final Implementation Report and Recommendations** – Executive summary and detailed findings report with forward-looking recommendations for Phase II development. **Due Date: September 15, 2024.**
+
+2.2 Contractor shall perform all services in a professional and workmanlike manner consistent with industry standards.
+
+---
+
+**3. COMPENSATION AND PAYMENT**
+
+3.1 Client agrees to compensate Contractor at the rate of **One Hundred Seventy-Five Dollars ($175.00) per hour** for services rendered under this Agreement.
+
+3.2 The total contract value shall not exceed **Ninety-Two Thousand Five Hundred Dollars ($92,500.00)** without prior written authorization from Client.
+
+3.3 Contractor shall submit itemized invoices on the **first and fifteenth day of each month** for work completed during the preceding period. Payment shall be remitted via electronic funds transfer to Contractor's designated account within fifteen (15) business days of invoice receipt.
+
+3.4 Upon execution of this Agreement, Client shall pay Contractor a non-refundable retainer in the amount of **Seven Thousand Five Hundred Dollars ($7,500.00)**, to be credited against final invoices.
+
+---
+
+**4. INDEPENDENT CONTRACTOR STATUS**
+
+4.1 Contractor is an independent contractor and not an employee, agent, joint venturer, or partner of Client. Contractor shall be solely responsible for payment of all federal, state, and local income taxes, self-employment taxes, and any other taxes arising from compensation received under this Agreement.
+
+---
+
+**5. CONFIDENTIALITY**
+
+5.1 Contractor acknowledges that during the performance of services related to **Project Asclepius Digital Transformation Initiative**, Contractor may have access to confidential and proprietary information belonging to Client, including but not limited to patient data, business strategies, financial information, and technical specifications.
+
+5.2 Contractor agrees to maintain strict confidentiality of all such information during and after the term of this Agreement, and shall not disclose such information to any third party without Client's prior written consent.
+
+---
+
+**6. NON-COMPETITION**
+
+6.1 During the term of this Agreement and for a period of **eighteen (18) months** following termination, Contractor agrees not to provide substantially similar services to any direct competitor of Client engaged in healthcare technology services within the geographic area comprising **Hennepin County, Ramsey County, and Dakota County, Minnesota**.
+
+---
+
+**7. INSURANCE REQUIREMENTS**
+
+7.1 Contractor shall maintain, at Contractor's sole expense, the following insurance coverage throughout the term of this Agreement:
+
+(a) Commercial General Liability Insurance with limits of not less than **One Million Dollars ($1,000,000.00)** per occurrence and **Two Million Dollars ($2,000,000.00)** aggregate;
+
+(b) Professional Liability (Errors and Omissions) Insurance with limits of not less than **One Million Dollars ($1,000,000.00)** per claim;
+
+(c) Workers' Compensation Insurance as required by applicable law.
+
+7.2 Contractor shall provide certificates of insurance to Client upon request.
+
+---
+
+**8. TERMINATION**
+
+8.1 Either Party may terminate this Agreement for cause upon fourteen (14) days' written notice if the other Party materially breaches any provision hereof and fails to cure such breach within the notice period.
+
+8.2 Client may terminate this Agreement for convenience upon thirty (30) days' written notice, subject to payment for all services satisfactorily rendered through the termination date.
+
+---
+
+**9. GOVERNING LAW AND JURISDICTION**
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of the **State of Minnesota**, without regard to conflict of law principles. Any dispute arising hereunder shall be resolved exclusively in the state or federal courts located in **Hennepin County, Minnesota**.
+
+---
+
+**10. ENTIRE AGREEMENT**
+
+10.1 This Agreement constitutes the entire understanding between the Parties and supersedes all prior negotiations, representations, and agreements relating to the subject matter hereof.
+
+---
+
+**IN WITNESS WHEREOF**, the Parties have executed this Agreement as of the date first written above.
+
+**CLIENT:**
+Meridian Healthcare Solutions, LLC
+
+Signature: _________________________________
+**Jennifer K. Thornberry**, Chief Operations Officer
+Date: _____________________
+
+**CONTRACTOR:**
+
+Signature: _________________________________
+**David Raymond Castellano**
+Date: _____________________

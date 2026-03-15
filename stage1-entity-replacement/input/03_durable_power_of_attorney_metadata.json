@@ -1,0 +1,880 @@
+{
+  "document_id": "de53175a-b974-433b-8a11-009fe4563043",
+  "tenant_id": "414a2ff9-57db-491f-bd68-056d7218f8e5",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "17562fe8-d680-41a3-a3cf-821091391b06",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2043,
+      "byte_offset_end": 2049,
+      "original_text": "**4729",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fd4a42cb-00df-42fb-bf84-f79bfebdd458",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2080,
+      "byte_offset_end": 2086,
+      "original_text": "**8351",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f8f2db4d-3ed7-41d9-a0bb-bba84af53aac",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2285,
+      "byte_offset_end": 2291,
+      "original_text": "**2046",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e508e908-6bfa-487d-873a-0bfa3879824a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2415,
+      "byte_offset_end": 2421,
+      "original_text": "**7893",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d4aaf0b7-c18a-43bf-8a96-fc95047aff93",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "LICENSE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5315,
+      "byte_offset_end": 5329,
+      "original_text": "2021-RE-047382",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "245c6d09-c6e6-4d74-a86a-2fe1554a76ac",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 156,
+      "byte_offset_end": 166,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4461da47-db32-4097-8f5a-3b4c7d6dc3f9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 357,
+      "byte_offset_end": 365,
+      "original_text": "CUYAHOGA",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "95038a12-bbcd-435f-8172-0bff4f4573f8",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 407,
+      "byte_offset_end": 431,
+      "original_text": "MARGARET ELLEN KOWALCZYK",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d7f7a74f-3380-4f1d-bfb4-d9a881f048c2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 438,
+      "byte_offset_end": 452,
+      "original_text": "April 17, 1948",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "79f39b05-4043-4dc0-b1a2-0ec3812de1e7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 481,
+      "byte_offset_end": 495,
+      "original_text": "Briarwood Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "710718fe-092c-42f5-84e5-9f65f9fc76f5",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 497,
+      "byte_offset_end": 510,
+      "original_text": "Parma Heights",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1595fef9-6a9b-43c4-b657-ecfc05744882",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 782,
+      "byte_offset_end": 803,
+      "original_text": "JENNIFER ANN MORRISON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "38114f17-f92a-4474-881d-1cdad7be9728",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 817,
+      "byte_offset_end": 821,
+      "original_text": "1563",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fc0ee6b1-544c-4913-82c5-8bfeea8b4fc9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 840,
+      "byte_offset_end": 848,
+      "original_text": "Westlake",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "44b02882-5563-46ca-9c6e-2867fb4f9c45",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1172,
+      "byte_offset_end": 1195,
+      "original_text": "DAVID MICHAEL KOWALCZYK",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0cbd0850-18fe-4013-960d-5306e3842471",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1228,
+      "byte_offset_end": 1242,
+      "original_text": "North Royalton",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b34da0aa-6893-4f0d-b198-e897acf6b0ed",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1941,
+      "byte_offset_end": 1948,
+      "original_text": "KeyBank",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "19012ed1-9994-4439-aa75-96c121ac780f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1950,
+      "byte_offset_end": 1970,
+      "original_text": "National Association",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "42045c9c-1859-4a7b-a200-0f2dabdbd2ff",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2220,
+      "byte_offset_end": 2236,
+      "original_text": "Fifth Third Bank",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "758e1458-9181-43c9-b5f3-643a9ed48d1d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2332,
+      "byte_offset_end": 2352,
+      "original_text": "Charles Schwab & Co.",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fcbe2456-4af3-445f-89b2-a417b7f52336",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2771,
+      "byte_offset_end": 2784,
+      "original_text": "Parma Heights",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2e2ae8fa-66e1-49f2-abd9-672caadc5ca4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3086,
+      "byte_offset_end": 3114,
+      "original_text": "the Internal Revenue Service",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b6ecb241-e738-425b-bcdd-cf18d3eea85f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3643,
+      "byte_offset_end": 3651,
+      "original_text": "Medicare",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b4c4c1c1-4bd0-4e36-a670-9f7b40a313b9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3653,
+      "byte_offset_end": 3661,
+      "original_text": "Medicaid",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b74cc359-d849-4834-aa4b-4501cf0265a6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3691,
+      "byte_offset_end": 3708,
+      "original_text": "GENERAL AUTHORITY",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ef7de233-7385-441f-a094-1272d32bfbb0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4428,
+      "byte_offset_end": 4450,
+      "original_text": "this 14th day of March",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "da7d41ad-72d7-4137-8f32-dc67cddb5380",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4452,
+      "byte_offset_end": 4456,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4481fdbf-55ca-4d10-a522-052a01618485",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4494,
+      "byte_offset_end": 4518,
+      "original_text": "MARGARET ELLEN KOWALCZYK",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "70e0872a-a92d-4521-9af1-d4920772044b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4713,
+      "byte_offset_end": 4730,
+      "original_text": "THOMAS R. BRENNAN",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "593b5505-eb18-45a9-9542-13ea3617f191",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4751,
+      "byte_offset_end": 4756,
+      "original_text": "Parma",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6bc7f680-6ae6-4e6c-8a1c-a7c5eaef5c3e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4848,
+      "byte_offset_end": 4857,
+      "original_text": "Brunswick",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1941edc1-3851-4da7-a871-47d1a9667c52",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4918,
+      "byte_offset_end": 4926,
+      "original_text": "CUYAHOGA",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e69dc0be-0db3-4376-a4e3-9bf54d5a2ff5",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4931,
+      "byte_offset_end": 4953,
+      "original_text": "this 14th day of March",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "05d1f334-9c91-4bb7-bd91-afa034c0a3d4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4955,
+      "byte_offset_end": 4959,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0f29b8a4-db25-4a5c-a440-41169a6e9f60",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4991,
+      "byte_offset_end": 5015,
+      "original_text": "MARGARET ELLEN KOWALCZYK",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d2910052-d2f6-4499-9e7f-20c7f82f6247",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5206,
+      "byte_offset_end": 5227,
+      "original_text": "PATRICIA M. HENDERSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b273e548-9ca4-4cf9-9f4a-90b91b72abb6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5280,
+      "byte_offset_end": 5295,
+      "original_text": "August 22, 2027",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4a76512d-b1cd-4fea-8ca9-0b57709c830f",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 547,
+      "byte_offset_end": 558,
+      "original_text": "298-54-6173",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0af65bb1-0a92-46ca-ad53-3f75f8bce39a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 879,
+      "byte_offset_end": 893,
+      "original_text": "(440) 892-4127",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d2b0a0ce-0a5f-4853-8a6a-19e442131159",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1209,
+      "byte_offset_end": 1226,
+      "original_text": "894 Edgemont Road",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ba3be183-22df-4b28-b665-34e24536b5d0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2750,
+      "byte_offset_end": 2769,
+      "original_text": "2847 Briarwood Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "daf4cf20-8981-49dc-b8bc-3ccd52953e96",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4734,
+      "byte_offset_end": 4749,
+      "original_text": "4521 State Road",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8c0bb25f-c6a9-40b2-87f9-7daa9f12ab82",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4831,
+      "byte_offset_end": 4846,
+      "original_text": "1287 Pearl Road",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a67479b9-7c8e-46f3-9866-9238c9dc6841",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 512,
+      "byte_offset_end": 522,
+      "original_text": "Ohio 44130",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9111d692-497a-46b0-808c-523e4d0cb182",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 850,
+      "byte_offset_end": 860,
+      "original_text": "Ohio 44145",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6ef6da6b-899d-4140-b5fb-6d1dbf6ee564",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1244,
+      "byte_offset_end": 1254,
+      "original_text": "Ohio 44133",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6fff2d52-2044-4ab2-9317-a454799290dd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2786,
+      "byte_offset_end": 2796,
+      "original_text": "Ohio 44130",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e80f8704-8530-479b-9c30-5a6634452fb6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4758,
+      "byte_offset_end": 4768,
+      "original_text": "Ohio 44134",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3ed267bd-252c-4323-a2f8-1c6cc6b8058d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4859,
+      "byte_offset_end": 4869,
+      "original_text": "Ohio 44212",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "cb8ff9d2-06a0-4b2f-a997-246a4335e3de",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4809,
+      "byte_offset_end": 4827,
+      "original_text": "CAROL S. DIMITRIOU",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7e3d394a-4a25-43b7-ade8-f5ebc9e3bf07",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 4358,
+      "byte_offset_end": 4457,
+      "original_text": "IN WITNESS WHEREOF, I have executed this Durable Power of Attorney on this 14th day of March, 2024.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_OH",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 51,
+    "critical_count": 9,
+    "high_count": 41,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

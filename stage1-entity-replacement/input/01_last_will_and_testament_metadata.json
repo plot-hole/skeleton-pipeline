@@ -1,0 +1,1339 @@
+{
+  "document_id": "fe9369b5-b6e0-4c8e-b536-38971149129e",
+  "tenant_id": "3288c8ab-f996-4cd5-95db-6600c7f94bdc",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "78d4f0a0-f1ce-4d02-9337-56ad0a69b47b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "VIN",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3408,
+      "byte_offset_end": 3425,
+      "original_text": "5TDBZRFH4MS142867",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "96ab44bc-d641-4a1d-8f39-bd57a2c03dbd",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3020,
+      "byte_offset_end": 3030,
+      "original_text": "44-8827561",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "00c1000d-c45c-4a79-a79b-bbab8cb1bad6",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2590,
+      "byte_offset_end": 2594,
+      "original_text": "7834",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fe82ab03-669e-490f-a4c1-cdaf8016a802",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2599,
+      "byte_offset_end": 2603,
+      "original_text": "7841",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3b0ad4b9-37e8-4d29-92f4-5dfd6ec926e1",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "LICENSE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5699,
+      "byte_offset_end": 5705,
+      "original_text": "598714",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c9406ad6-6dde-4333-ac6a-392b41665bd5",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 154,
+      "byte_offset_end": 164,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9eeaae0c-d874-438b-a070-815f0c8efad5",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 363,
+      "byte_offset_end": 388,
+      "original_text": "GERALD RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ec95f4f3-21a4-4b7e-9a6c-87f603d486ad",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 398,
+      "byte_offset_end": 412,
+      "original_text": "March 14, 1952",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "163bd378-2927-4589-8760-d5c54a2f1944",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 450,
+      "byte_offset_end": 460,
+      "original_text": "Scottsdale",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "70e0969f-e95d-4783-b044-5720f73e4950",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 732,
+      "byte_offset_end": 756,
+      "original_text": "DOROTHY ELLEN HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "37d29e9b-b86f-4530-80fb-d0a45e2bbdf4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 782,
+      "byte_offset_end": 799,
+      "original_text": "September 3, 2019",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d01ce029-8c76-45da-883e-eb59e9409286",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 841,
+      "byte_offset_end": 865,
+      "original_text": "MELISSA ANNE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0fdfdd27-b599-45cf-bc52-95e80ae311de",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 867,
+      "byte_offset_end": 891,
+      "original_text": "THOMAS GERALD HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8083adce-7321-4751-89c1-dd04fd62cbd6",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 897,
+      "byte_offset_end": 921,
+      "original_text": "KEVIN RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "38918d2d-0ce0-4ca8-b5f6-4589a9c5a293",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 959,
+      "byte_offset_end": 983,
+      "original_text": "SOPHIA GRACE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f6434e3c-91b3-4a81-b2d7-bc54bb69c6f9",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1108,
+      "byte_offset_end": 1130,
+      "original_text": "WARREN DALE HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "965f73bb-67b8-48ea-9bb8-0e5a049e40f4",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1433,
+      "byte_offset_end": 1457,
+      "original_text": "MELISSA ANNE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f932d2e6-f0db-4942-916b-fef12ed98bb4",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1566,
+      "byte_offset_end": 1590,
+      "original_text": "MELISSA ANNE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c566a9cf-9efb-44e9-a269-abba814884b0",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1653,
+      "byte_offset_end": 1677,
+      "original_text": "THOMAS GERALD HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a802a43e-8554-418e-91e0-5e482c567aae",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2239,
+      "byte_offset_end": 2249,
+      "original_text": "Scottsdale",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "23962a7e-63d5-4b58-98d3-2d7180036b49",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2389,
+      "byte_offset_end": 2396,
+      "original_text": "475,000",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "33d105a7-21aa-4e40-a166-06c3923d5654",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2414,
+      "byte_offset_end": 2438,
+      "original_text": "MELISSA ANNE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "306be613-2444-4505-a2a3-19dbe82290d4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2534,
+      "byte_offset_end": 2562,
+      "original_text": "First Heritage National Bank",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5516184d-2017-49a1-bb29-3d11d069c271",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2674,
+      "byte_offset_end": 2680,
+      "original_text": "87,000",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "649d543c-1c3a-4153-b250-c3100252ff5d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2726,
+      "byte_offset_end": 2750,
+      "original_text": "THOMAS GERALD HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a922d14f-9a9c-46b6-84cd-674518608e5a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2799,
+      "byte_offset_end": 2804,
+      "original_text": "Tempe",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "749bb0f5-8eba-4cf1-9963-2451cc2aaafb",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2886,
+      "byte_offset_end": 2895,
+      "original_text": "Flagstaff",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "acf7bd0d-cb77-41ee-aa20-92ec3de492f1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2979,
+      "byte_offset_end": 3003,
+      "original_text": "Meridian Wealth Advisors",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d3d8e275-cf06-4cd5-a6d5-0af0a0a5ae27",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3107,
+      "byte_offset_end": 3114,
+      "original_text": "212,000",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "806295b8-5e9e-4baf-84a9-5beb46ed9e61",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3176,
+      "byte_offset_end": 3200,
+      "original_text": "MELISSA ANNE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "27483b9a-e1ac-4117-8781-8609ead8cd1a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3236,
+      "byte_offset_end": 3260,
+      "original_text": "THOMAS GERALD HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ec2f7f49-69de-4876-a8e4-1efe54e2be4b",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3483,
+      "byte_offset_end": 3489,
+      "original_text": "38,000",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9f49eb60-9176-475c-8a35-cf3fe78794f5",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3507,
+      "byte_offset_end": 3532,
+      "original_text": "JACKSON THOMAS HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0c453474-1fba-4dfd-ad29-7e5f06b877a9",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3541,
+      "byte_offset_end": 3565,
+      "original_text": "Thomas Gerald Hutchinson",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "31fa42c4-722a-457d-8005-197e43d1f29e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3820,
+      "byte_offset_end": 3844,
+      "original_text": "SOPHIA GRACE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2f887c87-0b97-48fa-8efc-04f73e4086df",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4074,
+      "byte_offset_end": 4098,
+      "original_text": "MELISSA ANNE BRIGHTWATER",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "05609ab7-7eec-4899-bc89-98a965685f9d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4100,
+      "byte_offset_end": 4124,
+      "original_text": "THOMAS GERALD HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "dba1d433-fb87-49c9-b3b8-ca8b8e3a26b1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4509,
+      "byte_offset_end": 4534,
+      "original_text": "this 8th day of February,",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "eaa19922-2e0a-4f09-b27b-9c4fd2de405d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4535,
+      "byte_offset_end": 4539,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "da0652fc-f671-4009-b7e3-c924dd2a72f8",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4556,
+      "byte_offset_end": 4566,
+      "original_text": "Scottsdale",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9964f9e8-75cb-4192-8f54-3c38b03fc7f6",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4757,
+      "byte_offset_end": 4782,
+      "original_text": "GERALD RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "623aec52-83b3-4394-a28d-2a5ca05c8989",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4926,
+      "byte_offset_end": 4948,
+      "original_text": "PATRICIA LYNN VOORHEES",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9f244c03-a28c-4b6f-8eb6-70a06a607294",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4971,
+      "byte_offset_end": 4981,
+      "original_text": "Scottsdale",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2b0cf15c-1e9a-414d-8f07-54a45aa00660",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5052,
+      "byte_offset_end": 5076,
+      "original_text": "ROBERT MICHAEL CASTANEDA",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4fce014a-a14e-4b0c-b589-6b25808e8601",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5111,
+      "byte_offset_end": 5121,
+      "original_text": "Scottsdale",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "85929aa8-5581-48d5-b437-77cc234d3025",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5229,
+      "byte_offset_end": 5237,
+      "original_text": "Maricopa",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "71048ba5-caca-4628-84fe-b76f98cfb1e0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5242,
+      "byte_offset_end": 5272,
+      "original_text": "this 8th day of February, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "206a0819-baf3-4986-aad4-49729f923d4b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5304,
+      "byte_offset_end": 5329,
+      "original_text": "GERALD RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "56a7e3b3-677f-40a6-a3dc-dca082d3c0e2",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5367,
+      "byte_offset_end": 5389,
+      "original_text": "PATRICIA LYNN VOORHEES",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1e5e939b-67bb-4b30-b45f-ef9adaf8e1f2",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5394,
+      "byte_offset_end": 5418,
+      "original_text": "ROBERT MICHAEL CASTANEDA",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2f2b7e56-3b29-4936-a1b0-bb5df83162a1",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5623,
+      "byte_offset_end": 5647,
+      "original_text": "AMANDA CHRISTINE DELGADO",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "42fdcf33-5420-4c4a-9876-5f72686794bd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5729,
+      "byte_offset_end": 5746,
+      "original_text": "November 30, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "97fd4a7f-f9e6-4a43-a58e-6c990f8ecec6",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 512,
+      "byte_offset_end": 523,
+      "original_text": "528-47-6913",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7adca893-9ee2-4b86-8244-a505e9f7f9c7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 426,
+      "byte_offset_end": 448,
+      "original_text": "4782 Copper Ridge Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "93972ccf-33cd-4297-81b0-8628fc60609e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1471,
+      "byte_offset_end": 1492,
+      "original_text": "1156 Sycamore Terrace",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5d303fbe-2343-48e5-a397-15fc149d0501",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2215,
+      "byte_offset_end": 2237,
+      "original_text": "4782 Copper Ridge Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5977cb51-757d-4b47-bc94-9f2d708954e2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2764,
+      "byte_offset_end": 2797,
+      "original_text": "892 Windmill Drive, Apartment 204",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "42cd7d2d-d013-4edc-bff1-3c8d0cbd7743",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2863,
+      "byte_offset_end": 2884,
+      "original_text": "2341 Birchwood Circle",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1031b34d-2a2d-4c54-a3b6-c38a0aabe5a8",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3874,
+      "byte_offset_end": 3895,
+      "original_text": "1156 Sycamore Terrace",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f58ec0ac-4cd7-4188-9524-9a131577f2b4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4949,
+      "byte_offset_end": 4970,
+      "original_text": "3847 Desert Bloom Way",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fa1693d9-d65d-4250-b222-67d70980d189",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5077,
+      "byte_offset_end": 5110,
+      "original_text": "5521 North Hayden Road, Suite 112",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2fcbd93a-0c5d-4cb8-8b25-10b0f9c60e8c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 462,
+      "byte_offset_end": 475,
+      "original_text": "Arizona 85254",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a733edd5-63b6-48ae-baff-6d8b1b17c4cd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1503,
+      "byte_offset_end": 1516,
+      "original_text": "Arizona 85297",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f0c1ce38-bfbf-466d-bd68-ebd567dc258e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2251,
+      "byte_offset_end": 2264,
+      "original_text": "Arizona 85254",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3a1930c7-1ee2-45d1-839b-d43e14721578",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2806,
+      "byte_offset_end": 2819,
+      "original_text": "Arizona 85281",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d27d0e46-fee5-4781-a8df-0ba18b876cbf",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2897,
+      "byte_offset_end": 2910,
+      "original_text": "Arizona 86001",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7237080b-3d23-4622-89f8-34589e07444b",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3906,
+      "byte_offset_end": 3919,
+      "original_text": "Arizona 85297",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e6309d44-3036-4c03-8b70-592cc13bfc8a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4983,
+      "byte_offset_end": 4996,
+      "original_text": "Arizona 85260",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "21bd476b-32d7-4dd4-bd22-ddb8073b8b41",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5123,
+      "byte_offset_end": 5136,
+      "original_text": "Arizona 85250",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8f8d4253-2525-421e-9fc9-7d647492e8cf",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2825,
+      "byte_offset_end": 2849,
+      "original_text": "KEVIN RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6c284bcf-2365-441d-9599-077505c96461",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3296,
+      "byte_offset_end": 3320,
+      "original_text": "KEVIN RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6ef86d7f-432e-4405-a95e-c8db4e066c4e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4130,
+      "byte_offset_end": 4154,
+      "original_text": "KEVIN RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b6de84a0-7e01-48cc-8a97-0bf612dabbfe",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 988,
+      "byte_offset_end": 1013,
+      "original_text": "JACKSON THOMAS HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d6c27b00-4069-4baf-ade4-69ae9eac27d8",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3574,
+      "byte_offset_end": 3599,
+      "original_text": "JACKSON THOMAS HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "036e350c-2a24-4671-86f8-5ee99f95979c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 333,
+      "byte_offset_end": 358,
+      "original_text": "GERALD RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f120d3d3-98c2-4f88-92a4-94623cec5b62",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4627,
+      "byte_offset_end": 4652,
+      "original_text": "GERALD RAYMOND HUTCHINSON",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ec5bd6fa-b03c-4915-8e2a-006b941d690b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4664,
+      "byte_offset_end": 4688,
+      "original_text": "ATTESTATION OF WITNESSES",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "67ca336a-44e2-4497-bacd-355b6f101d0c",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 4443,
+      "byte_offset_end": 4585,
+      "original_text": "IN WITNESS WHEREOF, I have signed this Last Will and Testament on this 8th day of February, 2024, in the city of Scottsdale, State of Arizona.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_AZ",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 78,
+    "critical_count": 36,
+    "high_count": 41,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

@@ -1,0 +1,200 @@
+======================================================================
+SYNTHETIC TEST DOCUMENT — HIGH SENSITIVITY
+RESIDENTIAL LEASE AGREEMENT
+Generated: 2026-03-07 20:10:30
+FOR PRIVACY ENGINEERING / ENTITY REPLACEMENT TESTING ONLY
+======================================================================
+
+RESIDENTIAL LEASE AGREEMENT
+
+This Residential Lease Agreement ("Agreement") is entered into this 15th day of March, 2024, by and between the following parties:
+
+**LANDLORD/PROPERTY OWNER:**
+Margaret Ellen Thornbury
+4892 Willowbrook Lane
+Sacramento, CA 95822
+Telephone: (916) 447-2893
+
+**PROPERTY MANAGEMENT COMPANY:**
+Cornerstone Property Management, LLC
+2100 Capitol Avenue, Suite 340
+Sacramento, CA 95816
+
+**TENANT(S):**
+Primary Tenant: David Michael Rezendes
+Secondary Tenant: Christina Marie Rezendes
+Prior Address: 1847 Mockingbird Circle, Apt. 12B, Fresno, CA 93710
+
+---
+
+**SECTION 1: PREMISES**
+
+1.1 Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, the residential property located at:
+
+**3721 Sycamore Ridge Drive, Unit 207**
+**Elk Grove, CA 95758**
+
+The premises shall be used exclusively as a private residence for the Tenant(s) and approved occupants listed herein.
+
+---
+
+**SECTION 2: LEASE TERM**
+
+2.1 The initial term of this Lease shall commence on April 1, 2024, and shall terminate on March 31, 2025, constituting a period of twelve (12) months.
+
+2.2 Upon expiration of the initial term, this Lease shall automatically convert to a month-to-month tenancy unless either party provides written notice of termination at least thirty (30) days prior to the intended termination date.
+
+---
+
+**SECTION 3: RENT AND SECURITY DEPOSIT**
+
+3.1 **Monthly Rent:** Tenant agrees to pay Landlord the sum of Two Thousand Three Hundred Fifty Dollars ($2,350.00) per month as rent for the premises.
+
+3.2 Rent shall be due and payable on the first (1st) day of each calendar month. A grace period of five (5) days shall be provided, after which a late fee of Seventy-Five Dollars ($75.00) shall be assessed.
+
+3.3 **Security Deposit:** Upon execution of this Agreement, Tenant shall pay a security deposit in the amount of Two Thousand Eight Hundred Dollars ($2,800.00). Said deposit shall be held in accordance with California Civil Code Section 1950.5 and shall be returned, less any lawful deductions, within twenty-one (21) days of Tenant's surrender of the premises.
+
+3.4 **Automatic Payment Authorization:** Tenant has authorized recurring automatic payments from:
+Financial Institution: Pacific Coast Credit Union
+Account ending in: **6847**
+
+---
+
+**SECTION 4: TENANT INFORMATION AND VERIFICATION**
+
+4.1 **Primary Tenant:**
+Full Legal Name: David Michael Rezendes
+Date of Birth: September 14, 1987
+Social Security Number: 542-89-7163
+
+4.2 **Secondary Tenant:**
+Full Legal Name: Christina Marie Rezendes
+Date of Birth: February 3, 1990
+Social Security Number: 618-42-3095
+
+4.3 **Employment and Income Verification:**
+Primary Tenant Employer: Hendrickson Medical Supply, Inc.
+Position: Regional Sales Manager
+Monthly Gross Income: $7,850.00
+
+Secondary Tenant Employer: Folsom Cordova Unified School District
+Position: Elementary School Teacher
+Monthly Gross Income: $4,620.00
+
+---
+
+**SECTION 5: GUARANTOR**
+
+5.1 The following individual agrees to act as Guarantor and assumes joint and several liability for all obligations under this Lease:
+
+Guarantor Name: Robert Francis Rezendes
+Relationship to Tenant: Father
+Address: 8934 Vineyard Terrace, Modesto, CA 95356
+Social Security Number: 549-33-8821
+
+---
+
+**SECTION 6: OCCUPANTS**
+
+6.1 The following individuals are authorized to reside at the premises in addition to the named Tenants:
+
+- Emma, age 8 (minor child)
+- Lucas, age 5 (minor child)
+
+6.2 No additional occupants shall reside at the premises without prior written consent from Landlord.
+
+---
+
+**SECTION 7: EMERGENCY CONTACT**
+
+7.1 Tenant designates the following individual as emergency contact:
+
+Name: Patricia Diane Morrison
+Relationship: Sister of Christina Rezendes
+Telephone: (559) 284-7712
+
+---
+
+**SECTION 8: VEHICLE REGISTRATION AND PARKING**
+
+8.1 Tenant is assigned one (1) covered parking space, designated as Space #207A. The following vehicle is registered to park on the premises:
+
+Year: 2021
+Make: Honda
+Model: CR-V
+Color: Lunar Silver Metallic
+License Plate Number: 8KPR429 (California)
+
+8.2 Any additional vehicles must be registered with Property Management and may be subject to additional parking fees.
+
+---
+
+**SECTION 9: PET ADDENDUM**
+
+9.1 Landlord agrees to permit the following pet on the premises subject to the terms herein:
+
+Pet Name: Murphy
+Species: Dog
+Breed: Golden Retriever
+Weight: 68 pounds
+Color: Golden/Cream
+
+9.2 **Pet Deposit:** A refundable pet deposit of Four Hundred Dollars ($400.00) has been collected, in addition to the security deposit referenced in Section 3.3.
+
+9.3 **Monthly Pet Rent:** An additional Forty-Five Dollars ($45.00) per month shall be added to the base rent for pet privileges.
+
+9.4 Tenant agrees to maintain current vaccination records, clean up after the pet immediately, and prevent excessive noise or disturbance to neighbors.
+
+---
+
+**SECTION 10: UTILITIES AND SERVICES**
+
+10.1 Tenant shall be responsible for payment of all utilities including electricity, gas, water, sewer, trash collection, internet, and cable services.
+
+10.2 Landlord shall be responsible for landscaping maintenance of common areas and exterior pest control services on a quarterly basis.
+
+---
+
+**SECTION 11: MAINTENANCE AND REPAIRS**
+
+11.1 Tenant shall maintain the premises in clean and sanitary condition and shall promptly notify Landlord of any necessary repairs.
+
+11.2 Tenant shall not make any alterations, additions, or improvements to the premises without prior written consent from Landlord.
+
+---
+
+**SECTION 12: RIGHT OF ENTRY**
+
+12.1 Landlord or Landlord's agents may enter the premises for inspection, repairs, or to show the property to prospective tenants or purchasers, provided Landlord gives Tenant at least twenty-four (24) hours advance written notice, except in cases of emergency.
+
+---
+
+**SECTION 13: GOVERNING LAW**
+
+13.1 This Agreement shall be governed by the laws of the State of California. Any disputes arising from this Agreement shall be resolved in the Superior Court of Sacramento County.
+
+---
+
+**SECTION 14: SIGNATURES**
+
+By signing below, all parties acknowledge they have read, understand, and agree to the terms and conditions set forth in this Residential Lease Agreement.
+
+LANDLORD:
+Margaret Ellen Thornbury
+Date: March 15, 2024
+
+TENANT:
+David Michael Rezendes
+Date: March 15, 2024
+
+TENANT:
+Christina Marie Rezendes
+Date: March 15, 2024
+
+GUARANTOR:
+Robert Francis Rezendes
+Date: March 15, 2024
+
+---
+
+*This document contains 9 pages including all addenda. Tenant acknowledges receipt of a complete copy of this executed Agreement.*

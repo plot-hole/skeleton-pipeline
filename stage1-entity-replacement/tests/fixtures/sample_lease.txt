@@ -1,0 +1,30 @@
+RESIDENTIAL LEASE AGREEMENT
+
+This Residential Lease Agreement is entered into as of March 15, 2026, by and between Sarah Mitchell (hereinafter referred to as "Tenant") and David Chen (hereinafter referred to as "Landlord").
+
+RECITALS
+
+WHEREAS, Landlord is the owner of certain real property located at 142 Oak St, Sacramento, CA 95814; and
+
+WHEREAS, Tenant desires to lease the Property for residential purposes;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. TERM. The lease term shall commence on April 1, 2026 and shall terminate on March 31, 2027.
+
+2. RENT. Tenant agrees to pay monthly rent in the amount of $4,200/month, due on the first day of each calendar month.
+
+3. SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of $8,400 as a security deposit.
+
+4. TENANT INFORMATION. Tenant's Social Security Number is 123-45-6789. Tenant's date of birth is 03/15/1988. Tenant is currently employed by Acme Corp with an annual income of $95,000.
+
+5. OCCUPANTS. The following additional occupants will reside at the Property: Emma, age 7, who is the minor child of Tenant. Emma attends a local school.
+
+6. REASONABLE ACCOMMODATION. Tenant has a documented disability and has requested a reasonable accommodation under applicable fair housing laws. Landlord agrees to provide such accommodation.
+
+7. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Tenant: Sarah Mitchell
+Landlord: David Chen

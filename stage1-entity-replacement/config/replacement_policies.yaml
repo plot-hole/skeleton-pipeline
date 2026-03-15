@@ -1,0 +1,160 @@
+# Replacement policy table — maps (category, subcategory) to replacement strategy.
+# Strategies:
+#   TOKEN_REPLACE   — use the co-reference engine's assigned token
+#   STATIC_REPLACE  — replace with a fixed string
+#   GENERALIZE_*    — call the corresponding generalization function
+#   BUCKET_FINANCIAL — bucket the value into a range
+#   PASS_THROUGH    — leave unchanged
+#   HALT            — stop pipeline (privilege indicator)
+
+policies:
+  # --- DIRECT_IDENTIFIER ---
+  - category: DIRECT_IDENTIFIER
+    subcategory: FULL_NAME
+    strategy: TOKEN_REPLACE
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: SSN
+    strategy: STATIC_REPLACE
+    token: "[SSN_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: DRIVERS_LICENSE
+    strategy: STATIC_REPLACE
+    token: "[ID_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: PASSPORT
+    strategy: STATIC_REPLACE
+    token: "[ID_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: EMAIL
+    strategy: STATIC_REPLACE
+    token: "[EMAIL_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: PHONE
+    strategy: STATIC_REPLACE
+    token: "[PHONE_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: PHONE_NUMBER
+    strategy: STATIC_REPLACE
+    token: "[PHONE_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: LICENSE_PLATE
+    strategy: STATIC_REPLACE
+    token: "[LICENSE_PLATE_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: VIN
+    strategy: STATIC_REPLACE
+    token: "[VIN_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: LICENSE_NUMBER
+    strategy: STATIC_REPLACE
+    token: "[LICENSE_NUMBER_REDACTED]"
+
+  - category: DIRECT_IDENTIFIER
+    subcategory: CASE_NUMBER
+    strategy: STATIC_REPLACE
+    token: "[CASE_NUMBER_REDACTED]"
+
+  # DIRECT_IDENTIFIER category-level fallback
+  - category: DIRECT_IDENTIFIER
+    strategy: STATIC_REPLACE
+    token: "[PII_REDACTED]"
+
+  # --- QUASI_IDENTIFIER ---
+  - category: QUASI_IDENTIFIER
+    subcategory: STREET_ADDRESS
+    strategy: STATIC_REPLACE
+    token: "[ADDRESS_REDACTED]"
+
+  - category: QUASI_IDENTIFIER
+    subcategory: ZIP_CODE
+    strategy: STATIC_REPLACE
+    token: "[ZIP_REDACTED]"
+
+  - category: QUASI_IDENTIFIER
+    subcategory: ADDRESS
+    strategy: GENERALIZE_ADDRESS
+
+  - category: QUASI_IDENTIFIER
+    subcategory: DATE_OF_BIRTH
+    strategy: GENERALIZE_DOB
+
+  - category: QUASI_IDENTIFIER
+    subcategory: DATE
+    strategy: GENERALIZE_DATE
+
+  - category: QUASI_IDENTIFIER
+    subcategory: EMPLOYER_NAME
+    strategy: GENERALIZE_EMPLOYER
+
+  # --- FINANCIAL_DATA ---
+  - category: FINANCIAL_DATA
+    subcategory: RENT
+    strategy: BUCKET_FINANCIAL
+    bucket_category: RENT
+
+  - category: FINANCIAL_DATA
+    subcategory: INCOME
+    strategy: BUCKET_FINANCIAL
+    bucket_category: INCOME
+
+  - category: FINANCIAL_DATA
+    subcategory: PURCHASE_PRICE
+    strategy: BUCKET_FINANCIAL
+    bucket_category: PURCHASE_PRICE
+
+  - category: FINANCIAL_DATA
+    subcategory: SETTLEMENT
+    strategy: BUCKET_FINANCIAL
+    bucket_category: SETTLEMENT
+
+  - category: FINANCIAL_DATA
+    subcategory: ACCOUNT_NUMBER
+    strategy: STATIC_REPLACE
+    token: "[ACCOUNT_REDACTED]"
+
+  - category: FINANCIAL_DATA
+    subcategory: EIN
+    strategy: STATIC_REPLACE
+    token: "[EIN_REDACTED]"
+
+  # FINANCIAL_DATA category-level fallback
+  - category: FINANCIAL_DATA
+    strategy: BUCKET_FINANCIAL
+    bucket_category: RENT
+
+  # --- HEALTH_PROTECTED (category-level fallback) ---
+  - category: HEALTH_PROTECTED
+    strategy: STATIC_REPLACE
+    token: "[PROTECTED_STATUS_REDACTED]"
+
+  # --- MINOR_INFORMATION ---
+  - category: MINOR_INFORMATION
+    subcategory: CHILD_NAME
+    strategy: TOKEN_REPLACE
+
+  - category: MINOR_INFORMATION
+    subcategory: CHILD_AGE
+    strategy: STATIC_REPLACE
+    token: "[MINOR_AGE_REDACTED]"
+
+  # MINOR_INFORMATION category-level fallback
+  - category: MINOR_INFORMATION
+    strategy: STATIC_REPLACE
+    token: "[MINOR_INFO_REDACTED]"
+
+  # --- PRIVILEGE_INDICATOR ---
+  - category: PRIVILEGE_INDICATOR
+    strategy: HALT
+
+  # --- BOILERPLATE ---
+  - category: BOILERPLATE
+    strategy: PASS_THROUGH

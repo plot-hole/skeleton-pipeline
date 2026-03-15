@@ -1,0 +1,659 @@
+{
+  "document_id": "8d23704b-58ed-48be-a2c9-dd46168628fb",
+  "tenant_id": "a2362791-4c19-4999-8dff-6ded9c4e3fb7",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "7a1fa3c1-5cb3-455c-a11a-11b749dd0519",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 170,
+      "byte_offset_end": 180,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "622bbdaa-d55e-4552-a7b5-8c0bb0ad1203",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 463,
+      "byte_offset_end": 486,
+      "original_text": "Margaret Louise Brennan",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3150bd86-844c-4482-bc6c-39b130891e81",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 496,
+      "byte_offset_end": 510,
+      "original_text": "April 17, 1951",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fd0a9fc2-1196-47da-a4f1-0fcb56a48432",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 549,
+      "byte_offset_end": 559,
+      "original_text": "Minnetonka",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d50b1a82-0493-4c54-a0ed-8f98e3d66a1c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 898,
+      "byte_offset_end": 919,
+      "original_text": "David Michael Brennan",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f751c637-18c1-4caf-9d20-bed0c3e3d914",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 952,
+      "byte_offset_end": 966,
+      "original_text": "Thornwood Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3bd8250b-ad69-4cc4-92ee-7f6633d0215e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 977,
+      "byte_offset_end": 989,
+      "original_text": "Eden Prairie",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4c9a0990-0fe1-4283-ba56-191356b66556",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1038,
+      "byte_offset_end": 1059,
+      "original_text": "My Primary Healthcare",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "da9f9e43-c89e-4dd8-b48e-cb8e12a6fa7a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1525,
+      "byte_offset_end": 1549,
+      "original_text": "Christine Marie Holloway",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "da3b86e1-02ac-4dbf-b589-4958629de701",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1584,
+      "byte_offset_end": 1601,
+      "original_text": "Riverside Commons",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b96e6671-59d5-4b0a-9a2f-3417992acdce",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1617,
+      "byte_offset_end": 1627,
+      "original_text": "Saint Paul",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8c2f8c7c-7935-433e-9e30-db857ebd085b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1767,
+      "byte_offset_end": 1784,
+      "original_text": "Samuel R. Okonkwo",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "90d62a8c-e5e3-4f68-9295-69e10f86c279",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1986,
+      "byte_offset_end": 2016,
+      "original_text": "Hennepin County Medical Center",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "30e4564a-35e8-4660-8032-635698c8f7f2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4034,
+      "byte_offset_end": 4056,
+      "original_text": "the State of Minnesota",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "809c3004-6720-4437-819f-f49b253b8668",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4342,
+      "byte_offset_end": 4367,
+      "original_text": "this Combined Living Will",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2890d8aa-507d-412f-94ea-20348cb34a23",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4401,
+      "byte_offset_end": 4432,
+      "original_text": "this 8th day of September, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d2fbb1ba-7362-48f9-82ff-b4e9aee0b6a5",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4469,
+      "byte_offset_end": 4492,
+      "original_text": "Margaret Louise Brennan",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "de541113-b895-42ba-83f4-9a97cf4c0ebf",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4693,
+      "byte_offset_end": 4724,
+      "original_text": "Harold Eugene Patterson\nAddress",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "644ee478-ab04-4b33-b5df-115c360f30d0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4749,
+      "byte_offset_end": 4759,
+      "original_text": "Minnetonka",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "43c21c29-f99d-4000-9367-bdcf91c03917",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4795,
+      "byte_offset_end": 4823,
+      "original_text": "Deborah Ann Schuster\nAddress",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8b1e6f09-e768-4a6a-8c0b-6b3c010f056c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4839,
+      "byte_offset_end": 4848,
+      "original_text": "Oak Drive",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b583b6ec-7df8-4b77-966b-6d88c7d31e7c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4850,
+      "byte_offset_end": 4860,
+      "original_text": "Minnetonka",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b8f2a19e-be71-439a-89d4-d31746c4307e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4922,
+      "byte_offset_end": 4928,
+      "original_text": "County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "070d7703-8fce-422b-89ce-b53086ca1d8e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4953,
+      "byte_offset_end": 4974,
+      "original_text": "Patricia J. Lindstrom",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c2af5851-c672-47a2-9e5f-834b2edfbb95",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4994,
+      "byte_offset_end": 5011,
+      "original_text": "September 8, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "112ad3bd-1745-48f3-bea6-baf98d17f302",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5033,
+      "byte_offset_end": 5056,
+      "original_text": "Margaret Louise Brennan",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e5732567-b7eb-4748-9a47-a04e8ec062b1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5228,
+      "byte_offset_end": 5242,
+      "original_text": "March 15, 2027",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6638f05f-e332-431c-8004-1c47bddf9e7f",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 601,
+      "byte_offset_end": 612,
+      "original_text": "412-58-7693",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "709c2a1e-025e-4b34-b950-275b57238c9d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1018,
+      "byte_offset_end": 1032,
+      "original_text": "(952) 847-3216",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f25e5c90-8dc6-430b-9b5a-27684e4bda1d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1656,
+      "byte_offset_end": 1670,
+      "original_text": "(651) 293-4578",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "70448a5b-45cd-48bf-afbf-f9f6ff28c595",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 524,
+      "byte_offset_end": 547,
+      "original_text": "2847 Crescent Oak Drive",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2b4ef29c-130d-419a-aac1-38bfa9a8a2b9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4726,
+      "byte_offset_end": 4747,
+      "original_text": "3201 Birchwood Circle",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "27310900-bd9c-4fbb-baa2-4f0b33607f30",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 561,
+      "byte_offset_end": 576,
+      "original_text": "Minnesota 55345",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0c171886-f680-4017-95bc-6b84e8d42a6f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 991,
+      "byte_offset_end": 1006,
+      "original_text": "Minnesota 55344",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "66d29bb0-af03-43e3-9509-767074ceb654",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1629,
+      "byte_offset_end": 1644,
+      "original_text": "Minnesota 55116",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5387b7a6-71e8-4781-ac2b-c429c6ec76df",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4761,
+      "byte_offset_end": 4776,
+      "original_text": "Minnesota 55345",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "35b502c2-19c4-4937-a7d1-3918e69c807e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4862,
+      "byte_offset_end": 4877,
+      "original_text": "Minnesota 55345",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2b05b25b-eb5c-46ac-a286-10c2562b6c48",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 4306,
+      "byte_offset_end": 4433,
+      "original_text": "IN WITNESS WHEREOF, I have executed this Combined Living Will and Medical Power of Attorney on this 8th day of September, 2024.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 38,
+    "critical_count": 12,
+    "high_count": 25,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

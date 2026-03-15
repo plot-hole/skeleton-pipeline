@@ -1,0 +1,4 @@
+# NLP dependencies for validation module (spaCy second-pass NER)
+# Install with: pip install -r requirements-nlp.txt
+# Then download the model: python -m spacy download en_core_web_lg
+spacy>=3.7,<4.0

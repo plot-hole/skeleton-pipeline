@@ -1,0 +1,1353 @@
+{
+  "document_id": "d448f423-0927-472f-88e8-4a33d86ac1a8",
+  "tenant_id": "227434b2-4d99-4dda-94df-f7f6d00f634d",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "e1c83d16-49b5-415b-a184-a2609ca3ce0e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "LICENSE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 872,
+      "byte_offset_end": 884,
+      "original_text": "202409847521",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d6b930ef-9595-48fe-a564-27f313065759",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "EIN",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1529,
+      "byte_offset_end": 1541,
+      "original_text": "entification",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2a8871d4-5594-4843-bbee-c5a38370d687",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "EIN",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1601,
+      "byte_offset_end": 1611,
+      "original_text": "84-3927156",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1e466b0c-ec0f-4c32-bc38-e6673a961803",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 158,
+      "byte_offset_end": 168,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1f04eb0e-de03-4290-9f93-358013f7c835",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 331,
+      "byte_offset_end": 337,
+      "original_text": "# OF\n\n",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "62a0a98a-99d9-4676-be36-b4450c7abe13",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 339,
+      "byte_offset_end": 364,
+      "original_text": "MERIDIAN COASTAL VENTURES",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "272a5084-c3ac-4e99-93e4-db7ac3f3812e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 366,
+      "byte_offset_end": 369,
+      "original_text": "LLC",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c0d8e5a5-d4e9-4558-84df-a005636eb5e7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 483,
+      "byte_offset_end": 504,
+      "original_text": "the 15th day of March",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "bdb14387-798f-4f89-8413-246d5e7aaab9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 506,
+      "byte_offset_end": 510,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0eca5102-d64b-4919-8780-a369a4875e17",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 641,
+      "byte_offset_end": 666,
+      "original_text": "Limited Liability Company",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c0d684d6-5968-42c8-bf17-f0b4e531f86e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 679,
+      "byte_offset_end": 739,
+      "original_text": "the California Revised Uniform Limited Liability Company Act",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "bdd32620-0cf1-42bd-9afa-a8e16a8c8923",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 741,
+      "byte_offset_end": 769,
+      "original_text": "The Articles of Organization",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9913d3bd-e32b-4f66-9636-fbc67279c3de",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 823,
+      "byte_offset_end": 837,
+      "original_text": "March 12, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5b04cc6f-e751-4c2f-bf2d-10f734d3bf3c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 934,
+      "byte_offset_end": 959,
+      "original_text": "MERIDIAN COASTAL VENTURES",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "51c27051-d9e3-401d-9a64-ab8b5f05bf7f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 961,
+      "byte_offset_end": 964,
+      "original_text": "LLC",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1b8cd442-2eb1-41cc-865c-b79503d4bab8",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1098,
+      "byte_offset_end": 1107,
+      "original_text": "San Diego",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "772534ca-f19a-4485-8eb7-10a5adad935a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1293,
+      "byte_offset_end": 1318,
+      "original_text": "DOUGLAS RAYMOND WHITFIELD",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9af2a5a0-ef51-40b8-93b6-c288488a8a03",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1377,
+      "byte_offset_end": 1387,
+      "original_text": "Sacramento",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d9c4ca99-2cd1-41b7-898c-6257d84f2421",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1617,
+      "byte_offset_end": 1645,
+      "original_text": "the Internal Revenue Service",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f1fa91a2-1a49-45fd-8bce-adfd2604447a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1925,
+      "byte_offset_end": 1949,
+      "original_text": "PATRICIA ELAINE MORRISON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6e953202-5568-4e81-a1d2-30db9c7e8842",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1983,
+      "byte_offset_end": 1991,
+      "original_text": "La Jolla",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5cf6f0bf-e74c-440a-9f6d-3d7c29174042",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2072,
+      "byte_offset_end": 2100,
+      "original_text": "Initial Capital Contribution",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "235c5420-3183-437c-8a99-a061b056b374",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2103,
+      "byte_offset_end": 2113,
+      "original_text": "225,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3dace6af-edf6-4796-bd03-711b2c40d49a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2137,
+      "byte_offset_end": 2160,
+      "original_text": "JONATHAN MARCUS DELGADO",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "019d65e6-e87b-45e3-bbfb-38ff4f61742f",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2177,
+      "byte_offset_end": 2194,
+      "original_text": "Thornberry Circle",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "76464404-1c69-418e-bcf7-2a68bb9245cd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2196,
+      "byte_offset_end": 2204,
+      "original_text": "Carlsbad",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0cc3fb90-1783-4909-8f29-ebf599dea594",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2285,
+      "byte_offset_end": 2313,
+      "original_text": "Initial Capital Contribution",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "faf432da-3ff5-4f8f-ac28-a942338aa51a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2316,
+      "byte_offset_end": 2326,
+      "original_text": "175,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "79e8cd06-52db-46df-9e8b-ae957222ad9c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2352,
+      "byte_offset_end": 2383,
+      "original_text": "SANDRA LYNN BERKOWITZ\nResidence",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e0f26d31-f191-4c98-a1bf-eadadcc6a173",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2409,
+      "byte_offset_end": 2418,
+      "original_text": "Encinitas",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e2536876-7823-481e-a912-a0635147e9bb",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2499,
+      "byte_offset_end": 2527,
+      "original_text": "Initial Capital Contribution",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "df153dba-64b2-4c4b-87f2-ea33fc86a6b9",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2530,
+      "byte_offset_end": 2540,
+      "original_text": "100,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "05159007-5b97-4014-a30a-059a2b99db0d",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2624,
+      "byte_offset_end": 2653,
+      "original_text": "Five Hundred Thousand Dollars",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9f9b4f09-6bb8-494e-b23f-e26225c9def7",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2656,
+      "byte_offset_end": 2666,
+      "original_text": "500,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "01b9d9f4-8e0a-42e9-8d05-f070caa99422",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2936,
+      "byte_offset_end": 2960,
+      "original_text": "PATRICIA ELAINE MORRISON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "dd3f245a-6016-404c-83d1-1e62a2b8ba8c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3123,
+      "byte_offset_end": 3151,
+      "original_text": "Authority of Managing Member",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c1ae14a7-ffe7-46ed-9ba6-e4a12ae9e79a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3319,
+      "byte_offset_end": 3339,
+      "original_text": "less than $50,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4db172ae-1e12-4613-837b-72c39e3943ce",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3866,
+      "byte_offset_end": 3892,
+      "original_text": "Profit and Loss Allocation",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8d61dcea-e9e0-4c39-a277-264a33e6f19d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4179,
+      "byte_offset_end": 4209,
+      "original_text": "the end of each fiscal quarter",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "23566329-a51a-4c40-8ac0-4c8463bd4dcf",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4227,
+      "byte_offset_end": 4244,
+      "original_text": "April 30, July 31",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4b51cb8d-d062-4e3e-b60c-0007943479b7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4246,
+      "byte_offset_end": 4256,
+      "original_text": "October 31",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8478a540-dd38-4e60-a995-b5d06230cad7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4262,
+      "byte_offset_end": 4272,
+      "original_text": "January 31",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d5ae16cf-f351-4714-b9e7-062296ec25e6",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4800,
+      "byte_offset_end": 4823,
+      "original_text": "JONATHAN MARCUS DELGADO",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "56d5a498-e2e3-4a97-adf0-c9754a79f20f",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4914,
+      "byte_offset_end": 4923,
+      "original_text": "75,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "67520677-9e61-4fe5-a538-2b253d6ea6f2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5052,
+      "byte_offset_end": 5066,
+      "original_text": "March 15, 2027",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "65595720-e33f-42ff-8595-6e3b1be1bedb",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5142,
+      "byte_offset_end": 5150,
+      "original_text": "2,302.45",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3eef07ec-a24f-4af1-9087-2c1f0a4a8f10",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5446,
+      "byte_offset_end": 5476,
+      "original_text": "PACIFIC WESTERN COMMUNITY BANK",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3ebdb760-9034-4feb-9481-334e992e1c46",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5494,
+      "byte_offset_end": 5512,
+      "original_text": "Financial District",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6e1ed5db-34fb-40f3-8a0e-e804947aae5c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5520,
+      "byte_offset_end": 5529,
+      "original_text": "San Diego",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c8568396-bc22-4cb3-b12a-ef9341cf58e4",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5661,
+      "byte_offset_end": 5685,
+      "original_text": "PATRICIA ELAINE MORRISON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "eaaa71cb-4365-4df6-8134-58948e6a9008",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5690,
+      "byte_offset_end": 5713,
+      "original_text": "JONATHAN MARCUS DELGADO",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "05be6c11-2855-4666-ab8f-1188c0f03f05",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5738,
+      "byte_offset_end": 5747,
+      "original_text": "25,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f473ce7a-38ad-4e3d-9c9c-d3bf5c121357",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5811,
+      "byte_offset_end": 5825,
+      "original_text": "## ARTICLE VII",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0a866f1b-a4ec-4e63-b2bc-6df21eac4a9d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 7324,
+      "byte_offset_end": 7347,
+      "original_text": "the State of California",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3e4036a6-4583-4fa5-b003-8b34eb1bff4d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 7659,
+      "byte_offset_end": 7683,
+      "original_text": "PATRICIA ELAINE MORRISON",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fcaf36b8-c375-4e2f-9e25-80a502d97f60",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 7690,
+      "byte_offset_end": 7704,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "435a1b2b-4846-4dfb-b74a-6952eb7fb50d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 7738,
+      "byte_offset_end": 7766,
+      "original_text": "JONATHAN MARCUS DELGADO\nDate",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "41bf01b9-057a-4e2a-b8c7-4bfd0a7afc8a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 7768,
+      "byte_offset_end": 7782,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "87b5ce3f-e4ce-4330-8542-472f1c20f12b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 7816,
+      "byte_offset_end": 7838,
+      "original_text": "SANDRA LYNN BERKOWITZ\n",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9d75aef3-5e11-47c8-a0ed-9640c2ef15fa",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 7844,
+      "byte_offset_end": 7858,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "95187825-22e1-48bc-a30b-c07452643057",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2034,
+      "byte_offset_end": 2045,
+      "original_text": "548-72-9163",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5d46243d-ac50-4c6f-8829-5f6e24b267a1",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2247,
+      "byte_offset_end": 2258,
+      "original_text": "612-38-4057",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b543f7e1-586b-4e94-bcdc-0418ebb025ef",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2461,
+      "byte_offset_end": 2472,
+      "original_text": "483-91-6724",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "48168d02-7217-472d-bdd3-3db62092fa29",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1060,
+      "byte_offset_end": 1096,
+      "original_text": "4892 Harborview Boulevard, Suite 340",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b6b9312d-2ec3-47bb-8ee3-84a33fbdd970",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1337,
+      "byte_offset_end": 1375,
+      "original_text": "1156 Corporate Center Drive, Suite 200",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "30172f17-03be-4e1a-8df3-f4376467d7ae",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1961,
+      "byte_offset_end": 1981,
+      "original_text": "7234 Windermere Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1de7cc75-e35c-40ee-b948-15a9a5f58586",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2385,
+      "byte_offset_end": 2407,
+      "original_text": "5463 Maple Ridge Court",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d34ce7f0-b4dc-4049-8a34-cb53cbb82036",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1109,
+      "byte_offset_end": 1125,
+      "original_text": "California 92101",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3c488f11-151d-457a-ab34-6f735353e578",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1389,
+      "byte_offset_end": 1405,
+      "original_text": "California 95814",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3561da77-f1ce-453c-9c7e-5ff069c5de2a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1993,
+      "byte_offset_end": 2009,
+      "original_text": "California 92037",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "98b7ef83-35ef-42de-812f-7fb9d6efe4d6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2206,
+      "byte_offset_end": 2222,
+      "original_text": "California 92009",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b82f390e-61d3-421d-9455-20255da7b265",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2420,
+      "byte_offset_end": 2436,
+      "original_text": "California 92024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fcbdba29-d308-4fc0-b790-cd9c11c805fd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5531,
+      "byte_offset_end": 5547,
+      "original_text": "California 92102",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4c227346-b987-4087-b070-eb213638c7d9",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1950,
+      "byte_offset_end": 1959,
+      "original_text": "Residence",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "56e12049-1eff-4f17-a196-0f8a5b782c93",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2161,
+      "byte_offset_end": 2170,
+      "original_text": "Residence",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "17a12fa7-dde4-4a24-a144-25bb281e3368",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 7684,
+      "byte_offset_end": 7688,
+      "original_text": "Date",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c468b1a1-d743-40c3-ba7e-4ce1ddf32734",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 7838,
+      "byte_offset_end": 7842,
+      "original_text": "Date",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "438112dd-4263-4c6c-837c-29e812d8fa63",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 7276,
+      "byte_offset_end": 7348,
+      "original_text": "This Agreement shall be governed by the laws of the State of California.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "bf8c0416-9b10-4f1c-ba1e-d4727b2a297b",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 7486,
+      "byte_offset_end": 7606,
+      "original_text": "IN WITNESS WHEREOF**, the undersigned Members have executed this Operating Agreement as of the date first written above.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 79,
+    "critical_count": 19,
+    "high_count": 58,
+    "low_count": 2,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

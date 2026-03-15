@@ -1,0 +1,896 @@
+{
+  "document_id": "8be6150f-09bb-4f29-8c5b-e88090ad15d1",
+  "tenant_id": "059e395e-9771-40be-b9f4-888d5d7e0f96",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "c02f4317-d8cf-4c4a-b463-4cb2429d6107",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 166,
+      "byte_offset_end": 176,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9e527d22-9d60-4b56-9ad8-65d958cf5c4a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 349,
+      "byte_offset_end": 385,
+      "original_text": "This Mutual Non-Disclosure Agreement",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "40344814-a159-4262-a9a6-bf0174d99f3f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 422,
+      "byte_offset_end": 436,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ac8e9428-70f2-4639-b8eb-81dbfd337a23",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 511,
+      "byte_offset_end": 541,
+      "original_text": "Meridian Analytics Corporation",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ea970e75-f736-459a-8be9-33ec88fcb560",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 643,
+      "byte_offset_end": 653,
+      "original_text": "Alpharetta",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1c4ef4b8-872c-44c6-9dff-b57cf2564aa4",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 713,
+      "byte_offset_end": 736,
+      "original_text": "Victoria Chen-Rasmussen",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b39a8693-cdc1-4707-b2b7-7de266906e1d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 756,
+      "byte_offset_end": 781,
+      "original_text": "Douglas William Pemberton",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7ee8751e-5226-49eb-a9f4-b4b191026a83",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 809,
+      "byte_offset_end": 813,
+      "original_text": "1847",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "71072699-70ec-4200-96e2-34323716305d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 847,
+      "byte_offset_end": 855,
+      "original_text": "Marietta",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0bfff904-3905-4837-84dc-4a404079f8e8",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 857,
+      "byte_offset_end": 870,
+      "original_text": "Georgia 30067",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1da19138-22f1-43cc-9ab1-be028017b537",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 888,
+      "byte_offset_end": 896,
+      "original_text": "442-9173",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "57ba7090-3997-45f8-9a05-b18323c16091",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1053,
+      "byte_offset_end": 1061,
+      "original_text": "Meridian",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "cc20bf86-6036-405f-84b7-ef7363a03efd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1149,
+      "byte_offset_end": 1184,
+      "original_text": "healthcare revenue cycle management",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "bdb97be4-42df-4ff8-9528-cb24457a06df",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1399,
+      "byte_offset_end": 1407,
+      "original_text": "Meridian",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "db39ea1a-2190-4c56-b9b8-15cacc270b00",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2118,
+      "byte_offset_end": 2128,
+      "original_text": "Meridian's",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "003098d5-9426-4975-862a-ab3164c948ae",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2271,
+      "byte_offset_end": 2307,
+      "original_text": "Southeastern Regional Health Network",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "228232c9-57e6-4927-86d3-16ba7edac0be",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2343,
+      "byte_offset_end": 2346,
+      "original_text": "API",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a47867e8-840d-4485-b9f6-e057572243d0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2675,
+      "byte_offset_end": 2694,
+      "original_text": "The Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "eb295d06-9507-4deb-90fa-dbb66297c1e3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2852,
+      "byte_offset_end": 2872,
+      "original_text": "the Disclosing Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "561f77bc-50a9-4da0-bed7-87669da05353",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2879,
+      "byte_offset_end": 2898,
+      "original_text": "The Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "55acf3aa-5c32-4072-93ee-988d48a52da8",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3012,
+      "byte_offset_end": 3031,
+      "original_text": "The Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "cdfc4605-ddd0-4f8a-a841-0c0b9ee94f2d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3407,
+      "byte_offset_end": 3426,
+      "original_text": "the Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fda1ff1c-98e6-4bd0-bfbc-c41edade60d6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3450,
+      "byte_offset_end": 3471,
+      "original_text": "the Receiving Party's",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "91232dec-c098-4225-9856-88207adb1271",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3538,
+      "byte_offset_end": 3557,
+      "original_text": "the Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5a8cc3ab-d3e3-4014-beca-dd9f445a321f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3705,
+      "byte_offset_end": 3724,
+      "original_text": "the Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "825b4332-bd0b-4d2a-a938-9de77bcf0e06",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3797,
+      "byte_offset_end": 3816,
+      "original_text": "the Receiving Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fbbb4e62-fa30-44c7-a3eb-00a175254c06",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3848,
+      "byte_offset_end": 3868,
+      "original_text": "the Disclosing Party",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "653edf3e-8b9b-4b96-9eea-ac1ad3e8c5fd",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3938,
+      "byte_offset_end": 3948,
+      "original_text": "HealthFlow",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "38190016-d462-4801-b8fb-fea097bdfed6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3979,
+      "byte_offset_end": 3987,
+      "original_text": "Meridian",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7fe60d8d-905d-4fb1-b146-58bcad77c1cc",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4079,
+      "byte_offset_end": 4112,
+      "original_text": "the Preliminary Engagement Letter",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ae046fef-6d3c-4609-afd6-67224a68550f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4119,
+      "byte_offset_end": 4134,
+      "original_text": "January 8, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8bf81463-a48a-4ada-b463-52f9b7000413",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4252,
+      "byte_offset_end": 4270,
+      "original_text": "September 15, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "84b243b9-1918-4596-9f9d-a803f5f0fd89",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4698,
+      "byte_offset_end": 4708,
+      "original_text": "250,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "646e9132-6377-4b59-90ab-a66cd1935db0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4839,
+      "byte_offset_end": 4859,
+      "original_text": "the State of Georgia",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "47e13283-8fce-4508-8375-a3ad24ae0606",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4982,
+      "byte_offset_end": 4995,
+      "original_text": "Fulton County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "281f98d4-9706-4b1c-bc4d-690bf154ac2d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5304,
+      "byte_offset_end": 5334,
+      "original_text": "MERIDIAN ANALYTICS CORPORATION",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d156fa79-1803-455c-9543-980e88ced39f",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5351,
+      "byte_offset_end": 5374,
+      "original_text": "Victoria Chen-Rasmussen",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8e433ed8-21ff-4bb9-ab5e-4f0b3c479d4b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5381,
+      "byte_offset_end": 5404,
+      "original_text": "Victoria Chen-Rasmussen",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "62344f7f-3c30-4ce8-b38e-0fc2fb786808",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5441,
+      "byte_offset_end": 5455,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b582715b-8f29-4ced-a743-76f7f5a0650a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5484,
+      "byte_offset_end": 5504,
+      "original_text": "Douglas W. Pemberton",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "30f1943d-1977-4ea5-aa5f-44e6b4fb89e1",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 5511,
+      "byte_offset_end": 5536,
+      "original_text": "Douglas William Pemberton",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "72ea021c-5603-4e9a-9add-3f01e1567a5c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5573,
+      "byte_offset_end": 5587,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "972c5d07-f8e6-4b4e-b9ae-f2e6cfa5e7ae",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 882,
+      "byte_offset_end": 896,
+      "original_text": "(678) 442-9173",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c4763f68-818f-4a65-9e0c-a23887a9ca19",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "EMAIL",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 904,
+      "byte_offset_end": 943,
+      "original_text": "d.pemberton@techventures-consulting.net",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ba3bae0b-f1c9-4838-813b-34cc6e2674c3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 606,
+      "byte_offset_end": 641,
+      "original_text": "4521 Commerce Park Drive, Suite 800",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "174e46d3-09fe-415e-a4da-9f158a6655fa",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 655,
+      "byte_offset_end": 668,
+      "original_text": "Georgia 30009",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "965c5a55-96c3-4f4a-96d6-66d98dbfd99b",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 4758,
+      "byte_offset_end": 4860,
+      "original_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "ef1ddedd-85a2-4737-b4f6-c1b1a44f3261",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 5206,
+      "byte_offset_end": 5302,
+      "original_text": "IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "ddc83cba-9262-4a46-87dc-4376ef239bf2",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1654,
+      "byte_offset_end": 1779,
+      "original_text": "NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the Parties agree as follows:\n",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "537e0e1a-b9eb-47b5-8750-d7dda4b43d6e",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1044,
+      "byte_offset_end": 1185,
+      "original_text": "WHEREAS, Meridian is engaged in the business of developing proprietary predictive analytics software for healthcare revenue cycle management;",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "8863305f-f4fd-450b-bc2b-7aef71640a91",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1191,
+      "byte_offset_end": 1288,
+      "original_text": "WHEREAS, Consultant possesses expertise in enterprise software integration and data architecture;",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "b8ee18ef-92f5-4cf4-b3ba-b06a53d8eedf",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1294,
+      "byte_offset_end": 1504,
+      "original_text": "WHEREAS, the Parties wish to explore a potential software development partnership for the integration of Meridian's analytics platform with third-party electronic health record systems (the \"Business Purpose\");",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "706d1eea-3a9c-43bf-bbe8-9045fbcf12a3",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1510,
+      "byte_offset_end": 1653,
+      "original_text": "WHEREAS, in connection with the Business Purpose, each Party may disclose certain confidential and proprietary information to the other Party.\n",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_GA",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 53,
+    "critical_count": 6,
+    "high_count": 40,
+    "low_count": 7,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

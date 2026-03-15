@@ -1,0 +1,144 @@
+{
+  "document_id": "nda-001",
+  "tenant_id": "tenant-001",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "cyera-2.1",
+  "elements": [
+    {
+      "element_id": "nda-001",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 111,
+      "byte_offset_end": 120,
+      "original_text": "Lisa Park",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-002",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 793,
+      "byte_offset_end": 802,
+      "original_text": "Lisa Park",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-003",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 158,
+      "byte_offset_end": 170,
+      "original_text": "Brian Torres",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-004",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 820,
+      "byte_offset_end": 832,
+      "original_text": "Brian Torres",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-005",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 78,
+      "byte_offset_end": 94,
+      "original_text": "January 10, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-006",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 414,
+      "byte_offset_end": 430,
+      "original_text": "January 10, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-007",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 464,
+      "byte_offset_end": 481,
+      "original_text": "December 31, 2027",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "nda-008",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 605,
+      "byte_offset_end": 675,
+      "original_text": "This Agreement shall be governed by the laws of the State of New York.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_NY",
+        "applicable_regulations": [
+          "SOC2"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 8,
+    "critical_count": 4,
+    "high_count": 3,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

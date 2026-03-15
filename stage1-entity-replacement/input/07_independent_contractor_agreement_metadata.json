@@ -1,0 +1,894 @@
+{
+  "document_id": "2284af93-401c-4b61-8231-e1aeaad08b9e",
+  "tenant_id": "7f64521a-7df1-4aed-a0b4-daa2d132311d",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "991b4242-ede8-4ef4-b69d-2bb31ad4289a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "EIN",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 953,
+      "byte_offset_end": 963,
+      "original_text": "41-2987456",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "be644deb-c3b6-4631-a7b7-8a90ce4927ca",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 167,
+      "byte_offset_end": 177,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a1601f45-31c8-47d5-922c-e4af1cccc405",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 355,
+      "byte_offset_end": 392,
+      "original_text": "This Independent Contractor Agreement",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "95a23528-1091-4e08-89b7-0b2c58fcd0b2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 431,
+      "byte_offset_end": 445,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "484ae01f-c166-4039-bbd3-f6884246e6d9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 497,
+      "byte_offset_end": 526,
+      "original_text": "Meridian Healthcare Solutions",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "cd60e9af-b7fe-466e-a438-5f03bab7d1ac",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 528,
+      "byte_offset_end": 531,
+      "original_text": "LLC",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f995d7f7-4588-499a-a1d1-f9d057dd3bed",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 568,
+      "byte_offset_end": 579,
+      "original_text": "Minneapolis",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f37041f4-8dbf-4553-a91e-cf70e4a5dfda",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 610,
+      "byte_offset_end": 633,
+      "original_text": "Jennifer K. Thornberry*",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a5aec2f9-cbb1-4d1d-84d8-8bc053d57dc8",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 697,
+      "byte_offset_end": 721,
+      "original_text": "David Raymond Castellano",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "475661c0-3968-4650-b7aa-631c37ae4275",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 784,
+      "byte_offset_end": 789,
+      "original_text": "Edina",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c0bd1c24-1a35-4153-ab8d-995ef55c0c08",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 822,
+      "byte_offset_end": 830,
+      "original_text": "447-8293",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "caebbe2c-874a-4e6b-9837-9e38ebdb1f36",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1305,
+      "byte_offset_end": 1330,
+      "original_text": "Project Asclepius Digital",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "da62efc1-f212-4315-9307-411b8cc9bf2f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1417,
+      "byte_offset_end": 1430,
+      "original_text": "April 1, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fab54990-67b9-41f0-861a-c2c39925e23a",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1473,
+      "byte_offset_end": 1491,
+      "original_text": "September 30, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "bfc3bb1e-4cad-4f63-9183-e5b1b90d13d3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1897,
+      "byte_offset_end": 1909,
+      "original_text": "May 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "acf6a3d2-47de-47c8-8b32-3a13a68a4077",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2010,
+      "byte_offset_end": 2013,
+      "original_text": "API",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e275bc29-1a31-4f01-a6d2-7b424a2cc93e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2059,
+      "byte_offset_end": 2062,
+      "original_text": "EHR",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f7c1b923-864e-4c0c-be9d-b1e05be3fc3f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2084,
+      "byte_offset_end": 2097,
+      "original_text": "June 30, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8921ea7d-7dce-44a6-b7e1-b30010e92b1f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2291,
+      "byte_offset_end": 2306,
+      "original_text": "August 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f43fa94b-af37-4834-8112-7736b77e215e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2493,
+      "byte_offset_end": 2511,
+      "original_text": "September 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7bcd6c30-1f96-4b7b-8b59-62b23fa4ef86",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2769,
+      "byte_offset_end": 2775,
+      "original_text": "175.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "239c8df6-3ee4-4955-8e23-4239f4cc6e0e",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2924,
+      "byte_offset_end": 2933,
+      "original_text": "92,500.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5aa7bc7d-b0d9-490f-997a-53623a6973cb",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3042,
+      "byte_offset_end": 3079,
+      "original_text": "first and fifteenth day of each month",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fab07757-cdc6-4289-b202-69c980ecf372",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3228,
+      "byte_offset_end": 3239,
+      "original_text": "fifteen (15",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "b56ab136-ced9-4259-a5a2-dbadac3aba56",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3425,
+      "byte_offset_end": 3433,
+      "original_text": "7,500.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8d16f17f-31e9-457d-8f4c-2d10d07ba7ca",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4676,
+      "byte_offset_end": 4706,
+      "original_text": "healthcare technology services",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "77a956c7-8a85-4150-86e8-8c242b1c1866",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4747,
+      "byte_offset_end": 4762,
+      "original_text": "Hennepin County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5cc457de-dc94-4e90-a764-a55034b99ded",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4764,
+      "byte_offset_end": 4777,
+      "original_text": "Ramsey County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3678298a-8afa-4cbd-84c3-99f71ce88244",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4783,
+      "byte_offset_end": 4796,
+      "original_text": "Dakota County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "69a20a76-42e8-41c2-b9a1-d5e220ecedf6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4986,
+      "byte_offset_end": 5024,
+      "original_text": "Commercial General Liability Insurance",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "78a18256-55ff-4ce7-9d0c-a39e13f0abc7",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5056,
+      "byte_offset_end": 5075,
+      "original_text": "One Million Dollars",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e99b3047-f818-4fa8-836b-831dbdc73910",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5078,
+      "byte_offset_end": 5090,
+      "original_text": "1,000,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "47937861-0bd7-4b64-8253-fc3d8c391f84",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5115,
+      "byte_offset_end": 5134,
+      "original_text": "Two Million Dollars",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3644105c-c90a-4214-b1ca-7767e85eabf2",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5137,
+      "byte_offset_end": 5149,
+      "original_text": "2,000,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "55dbe21c-395c-4f42-be3a-dbb4ea35563d",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5256,
+      "byte_offset_end": 5275,
+      "original_text": "One Million Dollars",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9bd7a5c4-4815-420d-8741-2ce356df7612",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 5278,
+      "byte_offset_end": 5290,
+      "original_text": "1,000,000.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2dd958df-f73e-48f1-a07e-2d54dc5524f4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6185,
+      "byte_offset_end": 6200,
+      "original_text": "Hennepin County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "88887269-a5e9-4e80-9c4e-e68e29e86017",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6554,
+      "byte_offset_end": 6583,
+      "original_text": "Meridian Healthcare Solutions",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "db204c9b-5500-43b5-8911-ad0f156cbeff",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6585,
+      "byte_offset_end": 6588,
+      "original_text": "LLC",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "17d93a0c-74ff-4562-9b03-2369bc74e331",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 6637,
+      "byte_offset_end": 6660,
+      "original_text": "Jennifer K. Thornberry*",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3e156195-1053-4d9c-87e8-10a7f1c51f55",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 6781,
+      "byte_offset_end": 6805,
+      "original_text": "David Raymond Castellano",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5a34fac0-c471-42f9-8599-613cf383c887",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 905,
+      "byte_offset_end": 916,
+      "original_text": "418-52-7693",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3dd71891-ca45-4a02-a528-7a4230e3cf5e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 816,
+      "byte_offset_end": 830,
+      "original_text": "(612) 447-8293",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2b1806c2-a68f-4aa5-9fc9-f5c3b276f01c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "EMAIL",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 842,
+      "byte_offset_end": 876,
+      "original_text": "dcastellano.consulting@outlook.com",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "22d36c66-5aa0-48f2-94d8-fafafebac4c0",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 532,
+      "byte_offset_end": 567,
+      "original_text": "8742 Commerce Park Drive, Suite 340",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5cbd811e-b0b2-40da-8085-5e9e89261f87",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 764,
+      "byte_offset_end": 783,
+      "original_text": "1847 Birchwood Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "868896f8-adeb-44ef-a5de-aaf6f40a98b6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 581,
+      "byte_offset_end": 596,
+      "original_text": "Minnesota 55426",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0bd58ebf-6f0f-4f90-b5e5-749c6269cb92",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 791,
+      "byte_offset_end": 806,
+      "original_text": "Minnesota 55424",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c5e72b61-0771-461f-bfa8-387aad3bc486",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4798,
+      "byte_offset_end": 4807,
+      "original_text": "Minnesota",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "04982f37-2685-4a76-8980-faec9112a0e9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6202,
+      "byte_offset_end": 6211,
+      "original_text": "Minnesota",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1821212b-7bde-463f-baa7-c0aab39cb778",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 5926,
+      "byte_offset_end": 6080,
+      "original_text": "This Agreement shall be governed by and construed in accordance with the laws of the **State of Minnesota**, without regard to conflict of law principles.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": []
+      }
+    },
+    {
+      "element_id": "e3157cca-098d-4458-ae65-8b74063dd690",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 6442,
+      "byte_offset_end": 6540,
+      "original_text": "IN WITNESS WHEREOF**, the Parties have executed this Agreement as of the date first written above.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_MN",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 52,
+    "critical_count": 5,
+    "high_count": 45,
+    "low_count": 2,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

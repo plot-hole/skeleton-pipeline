@@ -1,0 +1,696 @@
+{
+  "document_id": "478039b5-bba3-49c1-a8cc-63eab92560ee",
+  "tenant_id": "94356acb-772d-4042-bb9f-6eaccdb58ae4",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "53743470-a863-4671-a07d-3c19103011c0",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "VIN",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 939,
+      "byte_offset_end": 956,
+      "original_text": "1HGCV2F34MA048271",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e8aca32b-d68b-456a-bfcf-a5e3bdd21220",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "VIN",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1882,
+      "byte_offset_end": 1899,
+      "original_text": "4T1BF1FK7GU259384",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "12c03318-f4ea-4801-9bb1-65a602d321e1",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1518,
+      "byte_offset_end": 1537,
+      "original_text": "4471-8829-3156-7742",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "63ed45f5-031f-4b74-aafb-bdbb8aba6c01",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "LICENSE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3174,
+      "byte_offset_end": 3182,
+      "original_text": "14829573",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f4e767e3-40bf-40ff-8fe6-024346e798f1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 148,
+      "byte_offset_end": 158,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7530d43b-e0ee-4dd7-a4f1-d4f098a47e21",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 345,
+      "byte_offset_end": 351,
+      "original_text": "TRAVIS",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "72a01139-1875-4707-9967-2459da5f2331",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 390,
+      "byte_offset_end": 412,
+      "original_text": "this 14th day of March",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "56c41905-1f0a-406a-829c-482c76ee5f7d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 414,
+      "byte_offset_end": 418,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7be83117-c0e2-42ef-bb2e-53c181efe004",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 447,
+      "byte_offset_end": 481,
+      "original_text": "Raymond Douglas Hutchinson\nAddress",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "122968ac-207d-409e-ba23-7682453a7973",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 488,
+      "byte_offset_end": 509,
+      "original_text": "Creekside Manor Drive",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "784be780-14e9-4bb8-8170-44dbf97bae35",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 511,
+      "byte_offset_end": 517,
+      "original_text": "Austin",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ef3927d5-3be6-47b5-aee0-b8b88d95bc10",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 572,
+      "byte_offset_end": 580,
+      "original_text": "18493726",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6f6aeecc-6277-43e2-8636-dc9108045fa0",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 624,
+      "byte_offset_end": 654,
+      "original_text": "Melissa Anne Carpenter\nAddress",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "cece313b-7866-4c36-a178-837773162f4c",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 697,
+      "byte_offset_end": 707,
+      "original_text": "Round Rock",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fadeddf2-8355-40d6-b916-b3d16e2c1a54",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "PURCHASE_PRICE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1179,
+      "byte_offset_end": 1188,
+      "original_text": "18,500.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c6a21ba2-3b68-4231-b28e-789a603858ef",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1248,
+      "byte_offset_end": 1276,
+      "original_text": "First National Bank of Texas",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6154b2f6-8876-4315-ad0f-c0eeeb330267",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1309,
+      "byte_offset_end": 1323,
+      "original_text": "March 14, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9ee28a23-03de-475d-9a5f-7e0fc865470c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1468,
+      "byte_offset_end": 1483,
+      "original_text": "P.O. Box 660068",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2f927b35-a586-479b-9512-c0a477eaf759",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1485,
+      "byte_offset_end": 1491,
+      "original_text": "Dallas",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f036216a-f397-4308-8208-84bffbe25bc3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1493,
+      "byte_offset_end": 1501,
+      "original_text": "TX 75266",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0fb4d863-c87d-4d96-bb60-cca60dbee44f",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1554,
+      "byte_offset_end": 1562,
+      "original_text": "6,847.23",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a69a8670-51d9-4ab5-8400-104e57e08776",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1924,
+      "byte_offset_end": 1932,
+      "original_text": "4,200.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "69c22feb-2d6e-4cd4-a3be-926de3f80525",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1984,
+      "byte_offset_end": 1993,
+      "original_text": "14,300.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "13f89e8c-6ce0-415d-bc87-663c376058ba",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2100,
+      "byte_offset_end": 2107,
+      "original_text": "EXPRESS",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ae572ce0-e4cd-49c4-9d9a-312a666ecd67",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2663,
+      "byte_offset_end": 2706,
+      "original_text": "Raymond Douglas Hutchinson\n\nBuyer Signature",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a428ceea-a535-44c9-b469-7b33f27d20d1",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2758,
+      "byte_offset_end": 2796,
+      "original_text": "Melissa Anne Carpenter\n\nNOTARIZATION\n\n",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7e32e9af-8ac3-42a3-bd3a-ffd807b4ee25",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2833,
+      "byte_offset_end": 2855,
+      "original_text": "this 14th day of March",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7182d93c-956d-49ff-b1e1-244549fb5e8b",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2857,
+      "byte_offset_end": 2861,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "516baa0d-c428-4833-bb32-8121af6a7b66",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2893,
+      "byte_offset_end": 2919,
+      "original_text": "Raymond Douglas Hutchinson",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ef4ea32e-cb06-434d-8c2f-6697300f4ce7",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2924,
+      "byte_offset_end": 2946,
+      "original_text": "Melissa Anne Carpenter",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "24b42e8c-6d1f-4372-8ca6-8a037a193e1f",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3131,
+      "byte_offset_end": 3154,
+      "original_text": "Christina Marie Delgado",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5f9174fd-da87-4de7-a0d7-070d42db004f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3205,
+      "byte_offset_end": 3218,
+      "original_text": "Travis County",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1384c490-004e-4574-8bb9-86280dea5c33",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3254,
+      "byte_offset_end": 3272,
+      "original_text": "September 30, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "abd0da73-a1f7-4478-9e00-13356617c075",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 539,
+      "byte_offset_end": 553,
+      "original_text": "(512) 847-3291",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "224fdd22-92a0-44ed-99c1-a63ac79772d0",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 729,
+      "byte_offset_end": 743,
+      "original_text": "(512) 693-4158",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8d04730b-4485-419e-a5e1-02d2d186fc99",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 656,
+      "byte_offset_end": 695,
+      "original_text": "1156 Windmill Ranch Road, Apartment 204",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f6dfa6e1-8e03-4e17-96e5-c28b912f2bda",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 519,
+      "byte_offset_end": 527,
+      "original_text": "TX 78745",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9a0e83da-cbfe-4361-aaaf-948320c39d1f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 709,
+      "byte_offset_end": 717,
+      "original_text": "TX 78664",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "dce05b20-35db-46af-bb83-b1807660188e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2822,
+      "byte_offset_end": 2828,
+      "original_text": "Travis",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f2e8fdea-7378-4119-a1dd-a72d8e6ec0b5",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1459,
+      "byte_offset_end": 1466,
+      "original_text": "Address",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_TX",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 40,
+    "critical_count": 12,
+    "high_count": 28,
+    "low_count": 0,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

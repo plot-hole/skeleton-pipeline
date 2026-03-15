@@ -1,0 +1,1254 @@
+{
+  "document_id": "07be1ccc-8dd6-44cb-b2fe-0fa545e9a24d",
+  "tenant_id": "6d953e52-24a6-4015-abed-6c2e9234361d",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "simulated-spacy-1.0",
+  "elements": [
+    {
+      "element_id": "4c16027b-9610-4faa-b3f7-1ac9b46a5002",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "ACCOUNT_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2565,
+      "byte_offset_end": 2571,
+      "original_text": "**6847",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7be1206a-d781-41b7-99a0-3176038f93d6",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 155,
+      "byte_offset_end": 165,
+      "original_text": "2026-03-07",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c8e4bf7f-c319-4ccc-8167-9b022d41e79b",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 397,
+      "byte_offset_end": 419,
+      "original_text": "this 15th day of March",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "69736d39-0ebf-45f0-b1ba-64a9c91ef22d",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 421,
+      "byte_offset_end": 425,
+      "original_text": "2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "761823ee-616c-45e4-83a6-297101ac0ea2",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 495,
+      "byte_offset_end": 519,
+      "original_text": "Margaret Ellen Thornbury",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "41a4aadc-d1ac-4aeb-b166-316b2c948910",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 542,
+      "byte_offset_end": 552,
+      "original_text": "Sacramento",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5535ba1e-3c6d-4386-aae0-aa12003d0e22",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 623,
+      "byte_offset_end": 654,
+      "original_text": "Cornerstone Property Management",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f67adf56-b54b-4f9f-8059-2cb2cb8ab684",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 656,
+      "byte_offset_end": 659,
+      "original_text": "LLC",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "10959f10-283b-44c5-bb02-74a536adc57f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 691,
+      "byte_offset_end": 701,
+      "original_text": "Sacramento",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "adfb0b49-44b2-45d5-8b16-dfb3c7909a0b",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 703,
+      "byte_offset_end": 711,
+      "original_text": "CA 95816",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "21bc5970-638c-4c1e-943e-a7a62edac93c",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 744,
+      "byte_offset_end": 766,
+      "original_text": "David Michael Rezendes",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e754aedf-712d-42f2-a30c-51ccd0f2c92e",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 785,
+      "byte_offset_end": 809,
+      "original_text": "Christina Marie Rezendes",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "221d8eb9-33ed-4f0f-bf7f-4d6c73f2a5e9",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 830,
+      "byte_offset_end": 848,
+      "original_text": "Mockingbird Circle",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "49c7b14b-e9cd-4e3a-8906-0340a29e5c09",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 860,
+      "byte_offset_end": 866,
+      "original_text": "Fresno",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e33c9c3f-6a8a-4ce2-970f-acca91651038",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1031,
+      "byte_offset_end": 1051,
+      "original_text": "Sycamore Ridge Drive",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "cc51e20b-162a-45e8-95b1-04730c6d65bf",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1066,
+      "byte_offset_end": 1075,
+      "original_text": "Elk Grove",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "bb13fe7e-5ccf-4e16-abf7-1476d1db1d0e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1077,
+      "byte_offset_end": 1087,
+      "original_text": "CA 95758**",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d96d66a5-1c5f-459c-9823-f38277993d24",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1159,
+      "byte_offset_end": 1167,
+      "original_text": "Tenant(s",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "af8699a1-8ec4-4f2c-911d-3e2e5241c469",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1293,
+      "byte_offset_end": 1306,
+      "original_text": "April 1, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d9d28604-f6eb-4b80-9d8a-23e3f3992585",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1331,
+      "byte_offset_end": 1345,
+      "original_text": "March 31, 2025",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8a2c6f9c-e8a3-413e-a3f8-252b91f22cac",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1478,
+      "byte_offset_end": 1492,
+      "original_text": "month-to-month",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "acacac61-f33e-46f9-843c-10172ff6b40a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1780,
+      "byte_offset_end": 1788,
+      "original_text": "2,350.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6124d970-3aa2-40f5-9f0c-3b6d5938b2d2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1864,
+      "byte_offset_end": 1906,
+      "original_text": "the first (1st) day of each calendar month",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "fb597a13-a33c-4929-9d72-1158f381a9f4",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1985,
+      "byte_offset_end": 2005,
+      "original_text": "Seventy-Five Dollars",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4a61d904-d428-4fbb-a190-03c4dc57ebb4",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2008,
+      "byte_offset_end": 2013,
+      "original_text": "75.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0cc158db-6c9f-4562-a72a-cae7f6fb3a0a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2185,
+      "byte_offset_end": 2193,
+      "original_text": "2,800.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6b60a315-e02f-4f60-ab97-963d263064a3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2242,
+      "byte_offset_end": 2278,
+      "original_text": "California Civil Code Section 1950.5",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0e6b9f6b-d4bc-4335-be19-69811495a116",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2496,
+      "byte_offset_end": 2545,
+      "original_text": "Financial Institution: Pacific Coast Credit Union",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4622bd04-78c1-4bb2-bcd2-984b41fd909a",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2673,
+      "byte_offset_end": 2695,
+      "original_text": "David Michael Rezendes",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "05cc4384-3dbc-40a1-a90b-0b3f9d158d3e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2711,
+      "byte_offset_end": 2729,
+      "original_text": "September 14, 1987",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c200648f-e60f-44b8-82cb-b544885a8506",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2810,
+      "byte_offset_end": 2834,
+      "original_text": "Christina Marie Rezendes",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "55b32d43-18a4-4963-80e9-337da2e1acca",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2850,
+      "byte_offset_end": 2866,
+      "original_text": "February 3, 1990",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d387960b-3b60-4b47-8f67-252556fc4f1e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 2973,
+      "byte_offset_end": 3005,
+      "original_text": "Hendrickson Medical Supply, Inc.",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ac41e9b2-623d-4b8a-9438-324ed2cf1378",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "INCOME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3062,
+      "byte_offset_end": 3070,
+      "original_text": "7,850.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "c6ba7af3-0149-4365-879e-fab0b7bf3b80",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "INCOME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3197,
+      "byte_offset_end": 3205,
+      "original_text": "4,620.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8ad3917e-0578-4fff-8173-8b5d29f7dfa7",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3389,
+      "byte_offset_end": 3425,
+      "original_text": "Robert Francis Rezendes\nRelationship",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "ebf507be-8e56-418e-9a96-1236fd7f3d42",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3476,
+      "byte_offset_end": 3483,
+      "original_text": "Modesto",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a2d09873-098d-400a-be02-8d5056d8fd96",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3485,
+      "byte_offset_end": 3493,
+      "original_text": "CA 95356",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "6ed50693-ea01-4a06-9726-27e16db1fc69",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3676,
+      "byte_offset_end": 3681,
+      "original_text": "age 8",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9e76d992-f683-4af8-9243-ec323635e2b9",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3705,
+      "byte_offset_end": 3710,
+      "original_text": "age 5",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3bb76322-8300-4bc2-bf0f-9356c6c7e82f",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3944,
+      "byte_offset_end": 3967,
+      "original_text": "Patricia Diane Morrison",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a57f21ab-6fb9-4edf-b13f-25fbb7658a21",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3992,
+      "byte_offset_end": 4010,
+      "original_text": "Christina Rezendes",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7992521b-4b07-4343-a585-a8ea3ca98740",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4167,
+      "byte_offset_end": 4172,
+      "original_text": "207A.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1650c189-93a3-4060-a22c-cdafa4ecb0aa",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4395,
+      "byte_offset_end": 4414,
+      "original_text": "Property Management",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "933ad00a-92c8-40d9-a88b-28b5f28b4ae3",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 4601,
+      "byte_offset_end": 4607,
+      "original_text": "Murphy",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "e933ea62-00b3-458e-8823-49384dd18b52",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4733,
+      "byte_offset_end": 4753,
+      "original_text": "Four Hundred Dollars",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4b8b78d3-aecf-4bf2-981a-29705b73055e",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4756,
+      "byte_offset_end": 4762,
+      "original_text": "400.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "85d4cc48-71d6-4a15-be18-cbcb33f42f1a",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4888,
+      "byte_offset_end": 4906,
+      "original_text": "Forty-Five Dollars",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "7125abb3-9b76-4038-b872-e1d3b1267972",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4909,
+      "byte_offset_end": 4914,
+      "original_text": "45.00",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5cf566c7-597e-4353-870e-7cd248e27c54",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6169,
+      "byte_offset_end": 6192,
+      "original_text": "the State of California",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "57acfeea-6c91-4e2d-ad3f-1f907da6ac78",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6256,
+      "byte_offset_end": 6295,
+      "original_text": "the Superior Court of Sacramento County",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5b7d5b43-4eed-4411-b4c2-ccbb992c17e1",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6452,
+      "byte_offset_end": 6484,
+      "original_text": "this Residential Lease Agreement",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "af3acf34-3688-4f7c-817d-6db9fcc6aa52",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 6497,
+      "byte_offset_end": 6521,
+      "original_text": "Margaret Ellen Thornbury",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "05bcfb61-3f7c-43bf-8358-8ef1a3ef3daf",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6528,
+      "byte_offset_end": 6542,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a122ad68-63b9-4bdd-9bee-9dfe671436bf",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 6552,
+      "byte_offset_end": 6575,
+      "original_text": "David Michael Rezendes\n",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a89b9251-45f9-4ce2-ab7f-c7acbdfa2482",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6581,
+      "byte_offset_end": 6595,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2d51b009-ea13-48b2-b745-2811d5c41851",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 6605,
+      "byte_offset_end": 6630,
+      "original_text": "Christina Marie Rezendes\n",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0583d4d8-0ef0-444f-b797-b3c597438169",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6636,
+      "byte_offset_end": 6650,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "5408b783-6352-4a9c-9846-dd96c0bba861",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 6663,
+      "byte_offset_end": 6687,
+      "original_text": "Robert Francis Rezendes\n",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "64b653f6-a825-43ab-896e-02b2c932376f",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 6693,
+      "byte_offset_end": 6707,
+      "original_text": "March 15, 2024",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a507e596-9e00-4c3d-b548-fdc60530728b",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2754,
+      "byte_offset_end": 2765,
+      "original_text": "542-89-7163",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "4b3c2a5f-4af0-4495-b3cf-9eace3367af4",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 2891,
+      "byte_offset_end": 2902,
+      "original_text": "618-42-3095",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "2cba9a04-586f-4553-a869-62868b740a6d",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3518,
+      "byte_offset_end": 3529,
+      "original_text": "549-33-8821",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "1496f6cc-8842-4d20-902e-bed578ad4f24",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 574,
+      "byte_offset_end": 588,
+      "original_text": "(916) 447-2893",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "0df89e2e-9c2b-485c-aeae-dc2956a79b49",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "PHONE_NUMBER",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4022,
+      "byte_offset_end": 4036,
+      "original_text": "(559) 284-7712",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "a99464be-eb95-4ccd-8e70-588244b60bcc",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "LICENSE_PLATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 4321,
+      "byte_offset_end": 4328,
+      "original_text": "8KPR429",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3c33225b-aa7a-47c9-bb1e-3a3896691ba3",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 520,
+      "byte_offset_end": 541,
+      "original_text": "4892 Willowbrook Lane",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "3fbca910-e821-4746-b859-e6a330afa23e",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 660,
+      "byte_offset_end": 690,
+      "original_text": "2100 Capitol Avenue, Suite 340",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "f93dc70e-28e7-47a3-a71b-07125e0c49ff",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "STREET_ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 3453,
+      "byte_offset_end": 3474,
+      "original_text": "8934 Vineyard Terrace",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "966de4c6-28b4-42f0-a811-837c25903df2",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 554,
+      "byte_offset_end": 562,
+      "original_text": "CA 95822",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "d4d02f53-799b-4e7b-99fb-1d74761fb5f7",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ZIP_CODE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 868,
+      "byte_offset_end": 876,
+      "original_text": "CA 93710",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "9174d1fb-b5bb-4795-842d-da92559b6fa1",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 3968,
+      "byte_offset_end": 3980,
+      "original_text": "Relationship",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "8ea995ed-d14a-474c-89fc-9be86582314d",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 6121,
+      "byte_offset_end": 6193,
+      "original_text": "This Agreement shall be governed by the laws of the State of California.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": []
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 73,
+    "critical_count": 19,
+    "high_count": 53,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": false
+  }
+}

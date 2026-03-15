@@ -1,0 +1,340 @@
+{
+  "document_id": "lease-001",
+  "tenant_id": "tenant-001",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "cyera-2.1",
+  "elements": [
+    {
+      "element_id": "el-001",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 115,
+      "byte_offset_end": 129,
+      "original_text": "Sarah Mitchell",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-002",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1599,
+      "byte_offset_end": 1613,
+      "original_text": "Sarah Mitchell",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-003",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 172,
+      "byte_offset_end": 182,
+      "original_text": "David Chen",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-004",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1624,
+      "byte_offset_end": 1634,
+      "original_text": "David Chen",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-005",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 302,
+      "byte_offset_end": 334,
+      "original_text": "142 Oak St, Sacramento, CA 95814",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-006",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 84,
+      "byte_offset_end": 98,
+      "original_text": "March 15, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-007",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 562,
+      "byte_offset_end": 575,
+      "original_text": "April 1, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-008",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 599,
+      "byte_offset_end": 613,
+      "original_text": "March 31, 2027",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-009",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 676,
+      "byte_offset_end": 688,
+      "original_text": "$4,200/month",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-010",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 803,
+      "byte_offset_end": 809,
+      "original_text": "$8,400",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-011",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "INCOME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 1010,
+      "byte_offset_end": 1017,
+      "original_text": "$95,000",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-012",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "SSN",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 892,
+      "byte_offset_end": 903,
+      "original_text": "123-45-6789",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-013",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 931,
+      "byte_offset_end": 941,
+      "original_text": "03/15/1988",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-014",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 975,
+      "byte_offset_end": 984,
+      "original_text": "Acme Corp",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ],
+        "industry": "TECH"
+      }
+    },
+    {
+      "element_id": "el-015",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1098,
+      "byte_offset_end": 1102,
+      "original_text": "Emma",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-016",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1145,
+      "byte_offset_end": 1149,
+      "original_text": "Emma",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-017",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_AGE",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1104,
+      "byte_offset_end": 1109,
+      "original_text": "age 7",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-018",
+      "category": "HEALTH_PROTECTED",
+      "subcategory": "MEDICAL_CONDITION",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1204,
+      "byte_offset_end": 1238,
+      "original_text": "Tenant has a documented disability",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    },
+    {
+      "element_id": "el-019",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1386,
+      "byte_offset_end": 1491,
+      "original_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA",
+          "SOC2"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 19,
+    "critical_count": 9,
+    "high_count": 9,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": true
+  }
+}

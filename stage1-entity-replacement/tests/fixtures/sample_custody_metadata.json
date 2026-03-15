@@ -1,0 +1,354 @@
+{
+  "document_id": "custody-001",
+  "tenant_id": "tenant-001",
+  "classification_timestamp": "2026-03-07T12:00:00Z",
+  "classifier_version": "cyera-2.1",
+  "elements": [
+    {
+      "element_id": "cust-001",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 91,
+      "byte_offset_end": 105,
+      "original_text": "Maria Gonzalez",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-002",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1253,
+      "byte_offset_end": 1267,
+      "original_text": "Maria Gonzalez",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-003",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 133,
+      "byte_offset_end": 146,
+      "original_text": "Robert Nguyen",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-004",
+      "category": "DIRECT_IDENTIFIER",
+      "subcategory": "FULL_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1276,
+      "byte_offset_end": 1289,
+      "original_text": "Robert Nguyen",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-005",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 271,
+      "byte_offset_end": 276,
+      "original_text": "Sofia",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-006",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 719,
+      "byte_offset_end": 724,
+      "original_text": "Sofia",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-007",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1037,
+      "byte_offset_end": 1042,
+      "original_text": "Sofia",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-008",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 302,
+      "byte_offset_end": 307,
+      "original_text": "Lucas",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-009",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 729,
+      "byte_offset_end": 734,
+      "original_text": "Lucas",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-010",
+      "category": "MINOR_INFORMATION",
+      "subcategory": "CHILD_NAME",
+      "sensitivity": "CRITICAL",
+      "byte_offset_start": 1047,
+      "byte_offset_end": 1052,
+      "original_text": "Lucas",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-011",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 357,
+      "byte_offset_end": 392,
+      "original_text": "500 Pine Ave, Los Angeles, CA 90001",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-012",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "ADDRESS",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 415,
+      "byte_offset_end": 446,
+      "original_text": "78 Maple Dr, Pasadena, CA 91101",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-013",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 286,
+      "byte_offset_end": 296,
+      "original_text": "06/12/2018",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-014",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE_OF_BIRTH",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 317,
+      "byte_offset_end": 327,
+      "original_text": "11/03/2020",
+      "context": {
+        "data_subject_role": "MINOR_DEPENDENT",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-015",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 480,
+      "byte_offset_end": 497,
+      "original_text": "Global Health Inc",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ],
+        "industry": "HEALTHCARE"
+      }
+    },
+    {
+      "element_id": "cust-016",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "EMPLOYER_NAME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 558,
+      "byte_offset_end": 577,
+      "original_text": "Pacific Engineering",
+      "context": {
+        "data_subject_role": "EMPLOYER",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ],
+        "industry": "ENGINEERING"
+      }
+    },
+    {
+      "element_id": "cust-017",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "INCOME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 523,
+      "byte_offset_end": 530,
+      "original_text": "$82,000",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-018",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "INCOME",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 603,
+      "byte_offset_end": 610,
+      "original_text": "$97,500",
+      "context": {
+        "data_subject_role": "PARTY_SECONDARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-019",
+      "category": "FINANCIAL_DATA",
+      "subcategory": "RENT",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 942,
+      "byte_offset_end": 954,
+      "original_text": "$2,800/month",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-020",
+      "category": "QUASI_IDENTIFIER",
+      "subcategory": "DATE",
+      "sensitivity": "HIGH",
+      "byte_offset_start": 65,
+      "byte_offset_end": 81,
+      "original_text": "February 5, 2026",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    },
+    {
+      "element_id": "cust-021",
+      "category": "BOILERPLATE",
+      "subcategory": "LEGAL_CLAUSE",
+      "sensitivity": "LOW",
+      "byte_offset_start": 1073,
+      "byte_offset_end": 1145,
+      "original_text": "This Agreement shall be governed by the laws of the State of California.",
+      "context": {
+        "data_subject_role": "PARTY_PRIMARY",
+        "jurisdiction": "US_CA",
+        "applicable_regulations": [
+          "CCPA"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_elements": 21,
+    "critical_count": 10,
+    "high_count": 10,
+    "low_count": 1,
+    "privilege_flag": false,
+    "minor_data_present": true
+  }
+}

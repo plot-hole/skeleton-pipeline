@@ -1,0 +1,23 @@
+# Generalization rules — bucketing thresholds and format strings.
+
+financial_buckets:
+  RENT:
+    bucket_size: 1000
+    format: "RENT_{lower}_{upper}"
+  INCOME:
+    bucket_size: 1000
+    format: "INCOME_{lower}_{upper}"
+  PURCHASE_PRICE:
+    bucket_size: 50000
+    format: "PRICE_{lower_k}K_{upper_k}K"
+  SETTLEMENT:
+    bucket_size: 25000
+    format: "SETTLEMENT_{lower_k}K_{upper_k}K"
+
+age_range:
+  bucket_size: 5
+
+metro_population_threshold: 100000
+
+# Proximity threshold (in bytes) for relationship detection.
+relationship_proximity_threshold: 500
