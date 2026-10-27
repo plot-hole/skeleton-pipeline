@@ -1,0 +1,113 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF PENNSYLVANIA
+
+REBECCA THOMPSON,
+                                        Plaintiff,
+v.                                      Civil Action No. 2023-CV-08947
+
+JOHNSON & JOHNSON, a New Jersey
+corporation, MORGAN STANLEY, a Delaware
+corporation, BAKER HUGHES, a Delaware
+corporation, and MICHAEL RODRIGUEZ,
+individually,
+                                        Defendants.
+
+COMPLAINT FOR DAMAGES
+
+TO THE HONORABLE COURT:
+
+Plaintiff Rebecca Thompson, by and through her attorneys Williams & Connolly LLP, respectfully submits this Complaint against Defendants and alleges as follows:
+
+PARTIES
+
+1. Plaintiff Rebecca Thompson is an individual residing at 1847 Chestnut Street, Philadelphia, PA 19103. Thompson can be reached at (215) 555-0192 or rebecca.thompson@email.com. Her Social Security Number is 123-45-6789.
+
+2. Defendant Johnson & Johnson is a New Jersey corporation with its principal place of business at 1 Johnson & Johnson Plaza, New Brunswick, New Jersey 08933. Johnson & Johnson is engaged in the manufacture, marketing, and distribution of consumer health products.
+
+3. Defendant Morgan Stanley is a Delaware corporation with its principal place of business at 1585 Broadway, New York, New York 10036. Morgan Stanley provided financial consulting services related to the product development at issue in this litigation.
+
+4. Defendant Baker Hughes is a Delaware corporation with its principal place of business at 17021 Aldine Westfield Road, Houston, Texas 77073. Baker Hughes manufactured key components used in the defective product.
+
+5. Defendant Michael Rodriguez is an individual who, at all relevant times, served as Vice President of Product Safety at Johnson & Johnson. Rodriguez's corporate email address is m.rodriguez@jnj.com, and he maintains an office at Johnson & Johnson's headquarters.
+
+6. At all relevant times, Thompson was employed as a senior accountant by Marshall & Associates Inc., located at 2200 Market Street, Philadelphia, PA 19103.
+
+JURISDICTION AND VENUE
+
+7. This Court has subject matter jurisdiction pursuant to 28 U.S.C. § 1332, as there is complete diversity of citizenship between the parties and the amount in controversy exceeds $75,000.
+
+8. Venue is proper in this District pursuant to 28 U.S.C. § 1391(b) because a substantial part of the events giving rise to the claim occurred in this judicial district.
+
+FACTUAL ALLEGATIONS
+
+9. On March 15, 2023, Thompson purchased a Model X-450 Safety Monitoring Device manufactured by Johnson & Johnson from a retail store in Philadelphia, Pennsylvania.
+
+10. The device contained electronic components manufactured by Baker Hughes and was developed with financial consulting services provided by Morgan Stanley.
+
+11. Rodriguez, in his capacity as Vice President of Product Safety, was directly responsible for overseeing the safety testing and approval process for the Model X-450 device.
+
+12. On April 2, 2023, while Thompson was using the device as intended at her residence, the unit suddenly overheated and exploded, causing severe burns to her left hand and arm.
+
+13. The explosion occurred due to a defective lithium battery component manufactured by Baker Hughes, which Rodriguez and Johnson & Johnson failed to properly test despite knowing of similar incidents with comparable devices.
+
+14. As a direct and proximate result of the incident, Thompson sustained second and third-degree burns requiring immediate emergency medical treatment at Thomas Jefferson University Hospital.
+
+15. Thompson's medical expenses to date total $47,832, and she continues to require ongoing physical therapy and reconstructive surgery.
+
+16. The injury has prevented Thompson from performing her duties at Marshall & Associates Inc., resulting in lost wages of approximately $15,200.
+
+17. Thompson has suffered and continues to suffer severe physical pain, emotional distress, and permanent scarring as a result of Defendants' negligent conduct.
+
+COUNT I - STRICT PRODUCTS LIABILITY
+
+18. Thompson incorporates by reference all preceding paragraphs.
+
+19. The Model X-450 device was defective and unreasonably dangerous when it left Defendants' control.
+
+20. Johnson & Johnson, Baker Hughes, and Rodriguez are strictly liable for Thompson's injuries and damages.
+
+COUNT II - NEGLIGENCE
+
+21. Thompson incorporates by reference all preceding paragraphs.
+
+22. Defendants owed Thompson a duty to exercise reasonable care in designing, manufacturing, testing, and marketing the device.
+
+23. Rodriguez breached his duty by failing to implement adequate safety protocols, and Morgan Stanley was negligent in its financial analysis that prioritized cost reduction over safety measures.
+
+24. Said negligence was the proximate cause of Thompson's injuries.
+
+COUNT III - BREACH OF WARRANTY
+
+25. Thompson incorporates by reference all preceding paragraphs.
+
+26. Johnson & Johnson impliedly warranted that the device was fit for its intended purpose and free from defects.
+
+27. The device breached these warranties, causing Thompson's damages.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Rebecca Thompson respectfully requests this Court award her:
+
+A. Compensatory damages in excess of $75,000;
+B. Punitive damages against all Defendants;
+C. Pre- and post-judgment interest;
+D. Costs and reasonable attorneys' fees; and
+E. Such other relief as this Court deems just and proper.
+
+JURY DEMAND
+
+Thompson demands trial by jury on all issues so triable.
+
+Respectfully submitted,
+
+/s/ David Williams
+David Williams, Esq. (PA Bar No. 67890)
+WILLIAMS & CONNOLLY LLP
+725 Twelfth Street, N.W.
+Washington, DC 20005
+(202) 434-5000
+dwilliams@wc.com
+
+Attorney for Plaintiff
+
+Dated: June 8, 2023

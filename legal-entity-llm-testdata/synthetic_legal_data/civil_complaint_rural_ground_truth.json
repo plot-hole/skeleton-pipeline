@@ -1,0 +1,471 @@
+{
+  "scenario_id": "civil_complaint_rural",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 964,
+  "entity_count": 66,
+  "unique_canonical_count": 24,
+  "entities": [
+    {
+      "text": "Walter Eugene Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Case No. 2023-CV-08947",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08947",
+      "notes": "court case number"
+    },
+    {
+      "text": "Ronald Mitchell Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "individual defendant full name"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Bradley K. Thornton",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Bradley K. Thornton",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "Jennifer L. Murphy",
+      "token_prefix": "PLAINTIFF_ATTORNEY_2",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Murphy",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "Thornton & Associates, LLC",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Thornton & Associates, LLC",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "Walter Eugene Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "4872 Township Road 315, Baltic, Ohio 43804",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4872 Township Road 315, Baltic, Ohio 43804",
+      "notes": "plaintiff address"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "1847 Industrial Boulevard, Toledo, Ohio 43615",
+      "token_prefix": "DEFENDANT_COMPANY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1847 Industrial Boulevard, Toledo, Ohio 43615",
+      "notes": "defendant company address"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Ronald Mitchell Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "individual defendant full name"
+    },
+    {
+      "text": "9234 Maple Grove Drive, Akron, Ohio 44313",
+      "token_prefix": "DEFENDANT_1_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "9234 Maple Grove Drive, Akron, Ohio 44313",
+      "notes": "individual defendant address"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "March 17, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 17, 2023",
+      "notes": "accident date"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Santos's",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Santos's",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Cleveland Clinic Akron General Hospital",
+      "token_prefix": "HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Cleveland Clinic Akron General Hospital",
+      "notes": "medical facility"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Dr. Marcus Alexander Kowalski",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Alexander Kowalski",
+      "notes": "expert witness doctor"
+    },
+    {
+      "text": "Cleveland Clinic Akron General Hospital",
+      "token_prefix": "HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Cleveland Clinic Akron General Hospital",
+      "notes": "medical facility"
+    },
+    {
+      "text": "Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "$247,000",
+      "token_prefix": "MEDICAL_COSTS",
+      "entity_type": "MONEY",
+      "canonical": "$247,000",
+      "notes": "medical expenses amount"
+    },
+    {
+      "text": "Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "$89,000",
+      "token_prefix": "LOST_INCOME",
+      "entity_type": "MONEY",
+      "canonical": "$89,000",
+      "notes": "annual lost income"
+    },
+    {
+      "text": "plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Dr. Kowalski's",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Alexander Kowalski",
+      "notes": "expert witness possessive"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Santos's",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Midwest Freight Logistics, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Midwest Freight Logistics, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Santos",
+      "token_prefix": "DEFENDANT_1",
+      "entity_type": "PERSON",
+      "canonical": "Ronald Mitchell Santos",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "Walter Eugene Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Walter Eugene Harrison",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "$850,000",
+      "token_prefix": "DAMAGES_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$850,000",
+      "notes": "total damages sought"
+    },
+    {
+      "text": "Bradley K. Thornton",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Bradley K. Thornton",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "Bradley K. Thornton (0087234)",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Bradley K. Thornton",
+      "notes": "plaintiff attorney with bar number"
+    },
+    {
+      "text": "Jennifer L. Murphy (0094567)",
+      "token_prefix": "PLAINTIFF_ATTORNEY_2",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Murphy",
+      "notes": "plaintiff attorney with bar number"
+    },
+    {
+      "text": "THORNTON & ASSOCIATES, LLC",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Thornton & Associates, LLC",
+      "notes": "plaintiff law firm caps"
+    },
+    {
+      "text": "2156 Market Street, Suite 400, Canton, Ohio 44702",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2156 Market Street, Suite 400, Canton, Ohio 44702",
+      "notes": "plaintiff law firm address"
+    },
+    {
+      "text": "(330) 555-7891",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(330) 555-7891",
+      "notes": "plaintiff law firm phone"
+    },
+    {
+      "text": "bthornton@thorntonlaw.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1_EMAIL",
+      "entity_type": "ID",
+      "canonical": "bthornton@thorntonlaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "jmurphy@thorntonlaw.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY_2_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jmurphy@thorntonlaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "June 15, 2023",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "June 15, 2023",
+      "notes": "document filing date"
+    },
+    {
+      "text": "Margaret R. Hoffman, Esq.",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Margaret R. Hoffman, Esq.",
+      "notes": "defense attorney"
+    },
+    {
+      "text": "HOFFMAN DEFENSE GROUP",
+      "token_prefix": "DEFENSE_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "HOFFMAN DEFENSE GROUP",
+      "notes": "defense law firm"
+    },
+    {
+      "text": "8834 Corporate Circle, Suite 220, Cleveland, Ohio 44145",
+      "token_prefix": "DEFENSE_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "8834 Corporate Circle, Suite 220, Cleveland, Ohio 44145",
+      "notes": "defense law firm address"
+    },
+    {
+      "text": "Bradley K. Thornton",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Bradley K. Thornton",
+      "notes": "plaintiff attorney"
+    }
+  ]
+}

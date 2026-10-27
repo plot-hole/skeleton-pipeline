@@ -1,0 +1,84 @@
+**UNITED STATES DISTRICT COURT**
+**SOUTHERN DISTRICT OF NEW YORK**
+
+**MARIA ELENA MARTINEZ,**
+
+Plaintiff,
+
+v.                                                    Case No. 2:24-cv-03891-JLW
+
+**GREENFIELD PROPERTIES LLC,**
+
+Defendant.
+
+---
+
+**DEFENDANT'S MOTION TO DISMISS PURSUANT TO**
+**FEDERAL RULES OF CIVIL PROCEDURE 12(b)(1) AND 12(b)(6)**
+
+TO THE HONORABLE COURT:
+
+Defendant Greenfield Properties LLC ("Greenfield" or "Defendant"), by and through its undersigned counsel, respectfully moves this Court pursuant to Federal Rules of Civil Procedure 12(b)(1) and 12(b)(6) to dismiss the Complaint filed by Plaintiff Maria Elena Martinez ("Martinez" or "Plaintiff") for failure to state a claim upon which relief can be granted and for lack of subject matter jurisdiction.
+
+**INTRODUCTION**
+
+This motion arises from Plaintiff's claims regarding an alleged incident on September 14, 2023, at property managed by Defendant. Martinez seeks damages based on theories that fail as a matter of law and are not supported by sufficient factual allegations. The Complaint fails to establish federal jurisdiction and does not state viable claims under the applicable legal standards.
+
+**STATEMENT OF FACTS**
+
+According to the Complaint, Martinez alleges she suffered injuries at a residential property where Defendant served as property manager. The incident allegedly involved Angela Torres, who was acting in her capacity as property manager for Greenfield. Plaintiff's attorney Robert Chen has filed claims seeking monetary damages, but the factual allegations are insufficient to support the legal theories advanced.
+
+The Complaint alleges that on the incident date, Martinez encountered conditions at the property that she claims were negligently maintained. However, the factual allegations are conclusory and fail to establish the essential elements of her claims. Furthermore, the Complaint fails to demonstrate this Court's subject matter jurisdiction over the dispute.
+
+**ARGUMENT**
+
+**I. THE COURT LACKS SUBJECT MATTER JURISDICTION UNDER RULE 12(b)(1)**
+
+Federal Rule of Civil Procedure 12(b)(1) permits dismissal for lack of subject matter jurisdiction. Martinez has failed to establish any basis for federal jurisdiction in this matter. The Complaint does not allege diversity of citizenship between the parties, nor does it identify any federal question that would confer jurisdiction upon this Court.
+
+Plaintiff appears to be a resident of the same state as Defendant, precluding diversity jurisdiction under 28 U.S.C. § 1332. The claims alleged are purely state law matters involving premises liability and negligence. No federal statute, constitutional provision, or treaty creates a cause of action for the conduct alleged in the Complaint.
+
+**II. THE COMPLAINT FAILS TO STATE A CLAIM UNDER RULE 12(b)(6)**
+
+Under Federal Rule of Civil Procedure 12(b)(6), a complaint must contain "a short and plain statement of the claim showing that the pleader is entitled to relief." The Supreme Court has established that a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face.
+
+A. **Negligence Claims Are Insufficiently Pleaded**
+
+Martinez's negligence claims fail to meet the basic pleading requirements. The Complaint contains only conclusory allegations without sufficient factual support. Plaintiff has not adequately alleged the essential elements of duty, breach, causation, and damages with the specificity required under current pleading standards.
+
+The allegations regarding the September 14, 2023 incident are vague and conclusory. Martinez fails to identify specific acts or omissions that constitute negligence, instead relying on bare legal conclusions. The Complaint does not establish what duty Greenfield owed to Plaintiff or how that duty was allegedly breached.
+
+B. **Premises Liability Claims Lack Merit**
+
+To the extent Martinez asserts premises liability claims, she has failed to allege facts supporting the required elements. The Complaint does not establish Defendant's knowledge of any alleged dangerous condition or that any such condition was unreasonably dangerous.
+
+Expert testimony will likely be required to establish the standard of care and any alleged breach thereof. Defense expert Dr. James Whitfield, an environmental consultant with extensive experience in property management standards, has reviewed the available information and preliminarily concluded that industry standards were met.
+
+**III. FAILURE TO COMPLY WITH PLEADING REQUIREMENTS**
+
+The Complaint fails to provide fair notice of the claims against Greenfield. The factual allegations are so general and conclusory that Defendant cannot reasonably prepare a defense. This violates fundamental due process requirements and the notice pleading standards established by the Federal Rules.
+
+**CONCLUSION**
+
+For the foregoing reasons, Defendant Greenfield Properties LLC respectfully requests that this Court grant its Motion to Dismiss pursuant to Rules 12(b)(1) and 12(b)(6). The Complaint should be dismissed with prejudice as Plaintiff cannot cure the fundamental jurisdictional and pleading defects identified herein.
+
+Alternatively, if the Court finds dismissal with prejudice inappropriate, Defendant requests dismissal without prejudice to allow Plaintiff an opportunity to file an amended complaint that addresses the deficiencies outlined above, provided such amendment occurs within the time limits established by the Federal Rules and applicable case law.
+
+Respectfully submitted,
+
+/s/ Patricia Knowles
+PATRICIA KNOWLES
+Attorney for Defendant
+Knowles & Rivera LLP
+200 Park Avenue, Suite 3100
+New York, New York 10166
+Phone: (212) 555-0147
+Email: pknowles@knowlesrivera.com
+Bar No. 8734521
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of the foregoing Motion to Dismiss was served upon all parties of record via the Court's CM/ECF system on December 3, 2024.
+
+/s/ Patricia Knowles
+PATRICIA KNOWLES

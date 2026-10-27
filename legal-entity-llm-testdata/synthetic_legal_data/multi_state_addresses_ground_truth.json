@@ -1,0 +1,597 @@
+{
+  "scenario_id": "multi_state_addresses",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 859,
+  "entity_count": 84,
+  "unique_canonical_count": 31,
+  "entities": [
+    {
+      "text": "Marcus Theodore Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "2847 Rimrock Drive, Billings, Montana 59102-3456",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 Rimrock Drive, Billings, Montana 59102-3456",
+      "notes": "plaintiff home address"
+    },
+    {
+      "text": "(406) 555-9832",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(406) 555-9832",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "mwellington@montananet.com",
+      "token_prefix": "PLAINTIFF_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mwellington@montananet.com",
+      "notes": "plaintiff email"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "2024-CV-08847",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CV-08847",
+      "notes": "federal case number"
+    },
+    {
+      "text": "1455 Market Street, Suite 2200, San Francisco, California 94103-1398",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1455 Market Street, Suite 2200, San Francisco, California 94103-1398",
+      "notes": "defendant business address"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "employment date"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "incident date"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "March 22, 2023",
+      "token_prefix": "TERMINATION_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 22, 2023",
+      "notes": "termination date"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Carmen Isabella Rodriguez",
+      "token_prefix": "WITNESS_1",
+      "entity_type": "PERSON",
+      "canonical": "Carmen Isabella Rodriguez",
+      "notes": "witness 1 full name"
+    },
+    {
+      "text": "8924 Ocean Drive, Miami, Florida 33139",
+      "token_prefix": "WITNESS_1_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "8924 Ocean Drive, Miami, Florida 33139",
+      "notes": "witness 1 address"
+    },
+    {
+      "text": "(305) 555-7421",
+      "token_prefix": "WITNESS_1_PHONE",
+      "entity_type": "ID",
+      "canonical": "(305) 555-7421",
+      "notes": "witness 1 phone"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "March 16, 2023",
+      "token_prefix": "MEETING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 16, 2023",
+      "notes": "meeting date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "WITNESS_1",
+      "entity_type": "PERSON",
+      "canonical": "Carmen Isabella Rodriguez",
+      "notes": "witness 1 surname"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Dr. Benjamin Thomas Hartwell",
+      "token_prefix": "WITNESS_2",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Benjamin Thomas Hartwell",
+      "notes": "witness 2 full name"
+    },
+    {
+      "text": "1567 South Congress Avenue, Austin, Texas 78704-2891",
+      "token_prefix": "WITNESS_2_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1567 South Congress Avenue, Austin, Texas 78704-2891",
+      "notes": "witness 2 address"
+    },
+    {
+      "text": "bhartwell@texastech.edu",
+      "token_prefix": "WITNESS_2_EMAIL",
+      "entity_type": "ID",
+      "canonical": "bhartwell@texastech.edu",
+      "notes": "witness 2 email"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Hartwell",
+      "token_prefix": "WITNESS_2",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Benjamin Thomas Hartwell",
+      "notes": "witness 2 surname"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "March 2023",
+      "token_prefix": "PROFITS_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 2023",
+      "notes": "profit calculation start date"
+    },
+    {
+      "text": "$2,850,000",
+      "token_prefix": "DAMAGES_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$2,850,000",
+      "notes": "estimated profits amount"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "$2,850,000",
+      "token_prefix": "DAMAGES_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$2,850,000",
+      "notes": "conversion damages amount"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "$485,000",
+      "token_prefix": "DAMAGES_AMOUNT_2",
+      "entity_type": "MONEY",
+      "canonical": "$485,000",
+      "notes": "wrongful termination damages"
+    },
+    {
+      "text": "Marcus Theodore Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "$3,335,000",
+      "token_prefix": "DAMAGES_TOTAL",
+      "entity_type": "MONEY",
+      "canonical": "$3,335,000",
+      "notes": "total damages requested"
+    },
+    {
+      "text": "Zenith Dynamics Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Zenith Dynamics Corporation",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Theodore Wellington",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Jennifer Marie Castellanos",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Castellanos",
+      "notes": "plaintiff attorney name"
+    },
+    {
+      "text": "NY-847291",
+      "token_prefix": "ATTORNEY_BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "NY-847291",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "CASTELLANOS & PARTNERS LLP",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "CASTELLANOS & PARTNERS LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "875 Third Avenue, 14th Floor, New York, New York 10022-6225",
+      "token_prefix": "PLAINTIFF_ATTORNEY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "875 Third Avenue, 14th Floor, New York, New York 10022-6225",
+      "notes": "plaintiff attorney address"
+    },
+    {
+      "text": "(212) 555-4967",
+      "token_prefix": "PLAINTIFF_ATTORNEY_PHONE",
+      "entity_type": "ID",
+      "canonical": "(212) 555-4967",
+      "notes": "plaintiff attorney phone"
+    },
+    {
+      "text": "jcastellanos@cplaw.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jcastellanos@cplaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "Michael David Chen",
+      "token_prefix": "DEFENDANT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Michael David Chen",
+      "notes": "defendant attorney name"
+    },
+    {
+      "text": "PACIFIC LEGAL GROUP",
+      "token_prefix": "DEFENDANT_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "PACIFIC LEGAL GROUP",
+      "notes": "defendant law firm"
+    },
+    {
+      "text": "9300 Wilshire Boulevard, Suite 1750, Beverly Hills, California 90212-3204",
+      "token_prefix": "DEFENDANT_ATTORNEY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "9300 Wilshire Boulevard, Suite 1750, Beverly Hills, California 90212-3204",
+      "notes": "defendant attorney address"
+    },
+    {
+      "text": "(323) 555-8834",
+      "token_prefix": "DEFENDANT_ATTORNEY_PHONE",
+      "entity_type": "ID",
+      "canonical": "(323) 555-8834",
+      "notes": "defendant attorney phone"
+    },
+    {
+      "text": "September 18th, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 18, 2024",
+      "notes": "document filing date"
+    },
+    {
+      "text": "Jennifer Marie Castellanos",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Castellanos",
+      "notes": "plaintiff attorney name"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "scenario_id": "criminal_complaint",
+  "doc_type": "CRIMINAL COMPLAINT",
+  "word_count": 818,
+  "entity_count": 42,
+  "unique_canonical_count": 30,
+  "entities": [
+    {
+      "text": "Marcus Anthony Delacroix",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Delacroix",
+      "notes": "defendant full name"
+    },
+    {
+      "text": "2024-CR-01847",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CR-01847",
+      "notes": "criminal case number"
+    },
+    {
+      "text": "Detective Raymond Charles Kowalski",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Kowalski",
+      "notes": "investigating detective full name"
+    },
+    {
+      "text": "4729",
+      "token_prefix": "BADGE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "4729",
+      "notes": "detective badge number"
+    },
+    {
+      "text": "Jennifer Marie Hutchinson",
+      "token_prefix": "DISTRICT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Hutchinson",
+      "notes": "district attorney full name"
+    },
+    {
+      "text": "211 West Fort Street, Detroit, MI 48226",
+      "token_prefix": "DA_OFFICE_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "211 West Fort Street, Detroit, MI 48226",
+      "notes": "district attorney office address"
+    },
+    {
+      "text": "Delacroix",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Delacroix",
+      "notes": "defendant last name"
+    },
+    {
+      "text": "472-89-3651",
+      "token_prefix": "DEFENDANT_SSN",
+      "entity_type": "ID",
+      "canonical": "472-89-3651",
+      "notes": "defendant social security number"
+    },
+    {
+      "text": "1847 Corktown Avenue, Detroit, MI 48216",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1847 Corktown Avenue, Detroit, MI 48216",
+      "notes": "defendant residence address"
+    },
+    {
+      "text": "(313) 555-7429",
+      "token_prefix": "DEFENDANT_PHONE",
+      "entity_type": "ID",
+      "canonical": "(313) 555-7429",
+      "notes": "defendant phone number"
+    },
+    {
+      "text": "January 15, 2023",
+      "token_prefix": "INCIDENT_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2023",
+      "notes": "scheme start date"
+    },
+    {
+      "text": "September 22, 2023",
+      "token_prefix": "INCIDENT_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 22, 2023",
+      "notes": "scheme end date"
+    },
+    {
+      "text": "October 3, 2023",
+      "token_prefix": "INVESTIGATION_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 3, 2023",
+      "notes": "investigation assignment date"
+    },
+    {
+      "text": "Catherine Rose Pemberton",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Catherine Rose Pemberton",
+      "notes": "victim full name"
+    },
+    {
+      "text": "42871 Maple Ridge Drive, Bloomfield Hills, MI 48304",
+      "token_prefix": "VICTIM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "42871 Maple Ridge Drive, Bloomfield Hills, MI 48304",
+      "notes": "victim residence address"
+    },
+    {
+      "text": "(248) 555-9162",
+      "token_prefix": "VICTIM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(248) 555-9162",
+      "notes": "victim phone number"
+    },
+    {
+      "text": "cpemberton.invest@gmail.com",
+      "token_prefix": "VICTIM_EMAIL",
+      "entity_type": "ID",
+      "canonical": "cpemberton.invest@gmail.com",
+      "notes": "victim email address"
+    },
+    {
+      "text": "$347,850",
+      "token_prefix": "TOTAL_LOSS_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$347,850",
+      "notes": "total amount defrauded"
+    },
+    {
+      "text": "September 28, 2023",
+      "token_prefix": "REPORT_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 28, 2023",
+      "notes": "date victim reported crime"
+    },
+    {
+      "text": "the defendant",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Delacroix",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Delacroix",
+      "notes": "defendant pronoun"
+    },
+    {
+      "text": "Ms. Pemberton",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Catherine Rose Pemberton",
+      "notes": "victim formal reference"
+    },
+    {
+      "text": "her",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Catherine Rose Pemberton",
+      "notes": "victim pronoun"
+    },
+    {
+      "text": "mdelacroix.dpc@tempmail.org",
+      "token_prefix": "SCHEME_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mdelacroix.dpc@tempmail.org",
+      "notes": "email used in fraudulent scheme"
+    },
+    {
+      "text": "Pemberton",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Catherine Rose Pemberton",
+      "notes": "victim last name"
+    },
+    {
+      "text": "February 12, 2023",
+      "token_prefix": "FIRST_WIRE_DATE",
+      "entity_type": "DATE",
+      "canonical": "February 12, 2023",
+      "notes": "first wire transfer date"
+    },
+    {
+      "text": "$125,000",
+      "token_prefix": "FIRST_WIRE_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$125,000",
+      "notes": "first wire transfer amount"
+    },
+    {
+      "text": "$89,200",
+      "token_prefix": "SECOND_WIRE_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$89,200",
+      "notes": "second wire transfer amount"
+    },
+    {
+      "text": "April 18, 2023",
+      "token_prefix": "SECOND_WIRE_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 18, 2023",
+      "notes": "second wire transfer date"
+    },
+    {
+      "text": "$133,650",
+      "token_prefix": "THIRD_WIRE_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$133,650",
+      "notes": "third wire transfer amount"
+    },
+    {
+      "text": "July 9, 2023",
+      "token_prefix": "THIRD_WIRE_DATE",
+      "entity_type": "DATE",
+      "canonical": "July 9, 2023",
+      "notes": "third wire transfer date"
+    },
+    {
+      "text": "she",
+      "token_prefix": "VICTIM",
+      "entity_type": "PERSON",
+      "canonical": "Catherine Rose Pemberton",
+      "notes": "victim pronoun"
+    },
+    {
+      "text": "J.T.M.",
+      "token_prefix": "MINOR_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "J.T.M.",
+      "notes": "minor witness initials"
+    },
+    {
+      "text": "the minor witness",
+      "token_prefix": "MINOR_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "J.T.M.",
+      "notes": "minor witness role reference"
+    },
+    {
+      "text": "My",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Kowalski",
+      "notes": "detective possessive pronoun"
+    },
+    {
+      "text": "I",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Kowalski",
+      "notes": "detective first person pronoun"
+    },
+    {
+      "text": "November 15, 2023",
+      "token_prefix": "ARREST_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 15, 2023",
+      "notes": "defendant arrest date"
+    },
+    {
+      "text": "his",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Anthony Delacroix",
+      "notes": "defendant possessive pronoun"
+    },
+    {
+      "text": "18 U.S.C. \u00a7 1343",
+      "token_prefix": "WIRE_FRAUD_STATUTE",
+      "entity_type": "ID",
+      "canonical": "18 U.S.C. \u00a7 1343",
+      "notes": "wire fraud statute citation"
+    },
+    {
+      "text": "18 U.S.C. \u00a7 1341",
+      "token_prefix": "MAIL_FRAUD_STATUTE",
+      "entity_type": "ID",
+      "canonical": "18 U.S.C. \u00a7 1341",
+      "notes": "mail fraud statute citation"
+    },
+    {
+      "text": "December 1, 2023",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 1, 2023",
+      "notes": "complaint filing date"
+    },
+    {
+      "text": "Kowalski",
+      "token_prefix": "INVESTIGATING_DETECTIVE",
+      "entity_type": "PERSON",
+      "canonical": "Detective Raymond Charles Kowalski",
+      "notes": "detective last name"
+    }
+  ]
+}

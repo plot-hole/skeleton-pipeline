@@ -1,0 +1,520 @@
+{
+  "scenario_id": "deposition_transcript",
+  "doc_type": "DEPOSITION TRANSCRIPT",
+  "word_count": 835,
+  "entity_count": 73,
+  "unique_canonical_count": 16,
+  "entities": [
+    {
+      "text": "Case No. 2023-CV-04792",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Case No. 2023-CV-04792",
+      "notes": "federal case number"
+    },
+    {
+      "text": "November 14, 2023",
+      "token_prefix": "DEPOSITION_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 14, 2023",
+      "notes": "deposition date"
+    },
+    {
+      "text": "Sarah M. Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Sarah M. Chen",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "Michael R. Davidson",
+      "token_prefix": "DEFENDANT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Michael R. Davidson",
+      "notes": "defendant's attorney"
+    },
+    {
+      "text": "Judge Elizabeth Thornton",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "Judge Elizabeth Thornton",
+      "notes": "presiding judge"
+    },
+    {
+      "text": "PATRICIA HELEN RODRIGUEZ",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Helen Rodriguez",
+      "notes": "fact witness"
+    },
+    {
+      "text": "Patricia Helen Rodriguez",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Helen Rodriguez",
+      "notes": "fact witness"
+    },
+    {
+      "text": "2847 North Halsted Street, Chicago, Illinois 60657",
+      "token_prefix": "WITNESS_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 North Halsted Street, Chicago, Illinois 60657",
+      "notes": "witness home address"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Helen Rodriguez",
+      "notes": "fact witness"
+    },
+    {
+      "text": "(312) 555-9823",
+      "token_prefix": "WITNESS_PHONE",
+      "entity_type": "ID",
+      "canonical": "(312) 555-9823",
+      "notes": "witness phone number"
+    },
+    {
+      "text": "p.rodriguez@northsidetech.com",
+      "token_prefix": "WITNESS_EMAIL",
+      "entity_type": "ID",
+      "canonical": "p.rodriguez@northsidetech.com",
+      "notes": "witness email"
+    },
+    {
+      "text": "Thomas Bradley Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca Marie Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "March 15, 2022",
+      "token_prefix": "CONTRACT_EXECUTION_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2022",
+      "notes": "contract signing date"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "their",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Exhibit A",
+      "token_prefix": "EXHIBIT_A",
+      "entity_type": "ID",
+      "canonical": "Exhibit A",
+      "notes": "legal exhibit"
+    },
+    {
+      "text": "$2,847,500",
+      "token_prefix": "CONTRACT_VALUE",
+      "entity_type": "MONEY",
+      "canonical": "$2,847,500",
+      "notes": "disputed contract amount"
+    },
+    {
+      "text": "August 22, 2022",
+      "token_prefix": "BREACH_DATE",
+      "entity_type": "DATE",
+      "canonical": "August 22, 2022",
+      "notes": "contract breach date"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Helen Rodriguez",
+      "notes": "fact witness"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Exhibit C-2",
+      "token_prefix": "EXHIBIT_C2",
+      "entity_type": "ID",
+      "canonical": "Exhibit C-2",
+      "notes": "legal exhibit"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "she",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "her",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "their",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Ms. Santos'",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "She",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Ms. Santos",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Mr. Hutchinson",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "she",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "her",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "Thomas",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "Rebecca",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Bradley Hutchinson",
+      "notes": "plaintiff CEO"
+    },
+    {
+      "text": "her",
+      "token_prefix": "DEFENDANT_COO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Santos",
+      "notes": "defendant COO"
+    }
+  ]
+}

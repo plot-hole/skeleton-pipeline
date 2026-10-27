@@ -1,0 +1,401 @@
+{
+  "scenario_id": "court_order_ruling",
+  "doc_type": "COURT ORDER",
+  "word_count": 794,
+  "entity_count": 56,
+  "unique_canonical_count": 25,
+  "entities": [
+    {
+      "text": "MELISSA RODRIGUEZ",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Case No. 2024-CV-08947",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Case No. 2024-CV-08947",
+      "notes": "federal case number"
+    },
+    {
+      "text": "ZENITH MANUFACTURING CORPORATION",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "November 15, 2024",
+      "token_prefix": "HEARING_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 15, 2024",
+      "notes": "hearing date"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "possessive reference to plaintiff"
+    },
+    {
+      "text": "David R. Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "David R. Chen",
+      "notes": "plaintiff's attorney name"
+    },
+    {
+      "text": "Chen & Associates",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Chen & Associates",
+      "notes": "plaintiff's law firm"
+    },
+    {
+      "text": "1247 Montgomery Street, San Francisco, California 94133",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1247 Montgomery Street, San Francisco, California 94133",
+      "notes": "plaintiff attorney office address"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Zenith Manufacturing Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "defendant company name"
+    },
+    {
+      "text": "Sarah L. Patterson",
+      "token_prefix": "DEFENDANT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Sarah L. Patterson",
+      "notes": "defendant's attorney name"
+    },
+    {
+      "text": "Morrison, Black & Associates",
+      "token_prefix": "DEFENDANT_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Morrison, Black & Associates",
+      "notes": "defendant's law firm"
+    },
+    {
+      "text": "890 California Street, Suite 2200, San Francisco, California 94108",
+      "token_prefix": "DEFENDANT_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "890 California Street, Suite 2200, San Francisco, California 94108",
+      "notes": "defendant attorney office address"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "reference to plaintiff"
+    },
+    {
+      "text": "Melissa Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "March 12, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 12, 2024",
+      "notes": "case filing date"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "plaintiff surname"
+    },
+    {
+      "text": "January 8, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 8, 2023",
+      "notes": "alleged incident date"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "pronoun referring to plaintiff"
+    },
+    {
+      "text": "5621 Industrial Boulevard, Oakland, California 94607",
+      "token_prefix": "WORKPLACE_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "5621 Industrial Boulevard, Oakland, California 94607",
+      "notes": "plaintiff's workplace address"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "pronoun referring to plaintiff"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "possessive reference to plaintiff"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "plaintiff surname"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "pronoun referring to plaintiff"
+    },
+    {
+      "text": "Dr. Amanda Foster",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Amanda Foster",
+      "notes": "expert witness name"
+    },
+    {
+      "text": "Technical Analysis Group",
+      "token_prefix": "EXPERT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Technical Analysis Group",
+      "notes": "expert witness company"
+    },
+    {
+      "text": "432 Market Street, San Jose, California 95113",
+      "token_prefix": "EXPERT_COMPANY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "432 Market Street, San Jose, California 95113",
+      "notes": "expert witness company address"
+    },
+    {
+      "text": "her",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Amanda Foster",
+      "notes": "pronoun referring to expert witness"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "possessive reference to defendant"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "its",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "pronoun referring to defendant"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Patricia M. Blackwell",
+      "token_prefix": "DEFENSE_COUNSEL",
+      "entity_type": "PERSON",
+      "canonical": "Patricia M. Blackwell",
+      "notes": "defense counsel name"
+    },
+    {
+      "text": "Legal Defense Services",
+      "token_prefix": "DEFENSE_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Legal Defense Services",
+      "notes": "defense law firm name"
+    },
+    {
+      "text": "1850 Gateway Boulevard, Concord, California 94520",
+      "token_prefix": "DEFENSE_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1850 Gateway Boulevard, Concord, California 94520",
+      "notes": "defense law firm address"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "reference to plaintiff"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "plaintiff surname"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "pronoun referring to plaintiff"
+    },
+    {
+      "text": "Mr. Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "David R. Chen",
+      "notes": "plaintiff attorney surname with title"
+    },
+    {
+      "text": "Defendant's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "possessive reference to defendant"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MELISSA RODRIGUEZ",
+      "notes": "possessive reference to plaintiff"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "ZENITH MANUFACTURING CORPORATION",
+      "notes": "reference to defendant company"
+    },
+    {
+      "text": "January 1, 2020",
+      "token_prefix": "DISCOVERY_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 1, 2020",
+      "notes": "discovery period start date"
+    },
+    {
+      "text": "December 31, 2023",
+      "token_prefix": "DISCOVERY_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 31, 2023",
+      "notes": "discovery period end date"
+    },
+    {
+      "text": "March 12, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 12, 2024",
+      "notes": "case filing date reference"
+    },
+    {
+      "text": "September 18, 2024",
+      "token_prefix": "PROTECTIVE_ORDER_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 18, 2024",
+      "notes": "protective order date"
+    },
+    {
+      "text": "Dr. Foster",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Amanda Foster",
+      "notes": "expert witness surname with title"
+    },
+    {
+      "text": "January 30, 2025",
+      "token_prefix": "DEPOSITION_DEADLINE",
+      "entity_type": "DATE",
+      "canonical": "January 30, 2025",
+      "notes": "deposition completion deadline"
+    },
+    {
+      "text": "November 20, 2024",
+      "token_prefix": "ORDER_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 20, 2024",
+      "notes": "court order date"
+    },
+    {
+      "text": "THE HONORABLE MICHAEL R. THOMPSON",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "THE HONORABLE MICHAEL R. THOMPSON",
+      "notes": "presiding judge full name"
+    },
+    {
+      "text": "THE HONORABLE MICHAEL R. THOMPSON",
+      "token_prefix": "JUDGE",
+      "entity_type": "PERSON",
+      "canonical": "THE HONORABLE MICHAEL R. THOMPSON",
+      "notes": "presiding judge full name repeated"
+    }
+  ]
+}

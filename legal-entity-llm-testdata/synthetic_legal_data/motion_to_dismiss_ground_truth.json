@@ -1,0 +1,324 @@
+{
+  "scenario_id": "motion_to_dismiss",
+  "doc_type": "MOTION TO DISMISS",
+  "word_count": 853,
+  "entity_count": 45,
+  "unique_canonical_count": 22,
+  "entities": [
+    {
+      "text": "DEREK HARRISON",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Case No. 2024-CV-08471",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2024-CV-08471",
+      "notes": "case number"
+    },
+    {
+      "text": "NEXSTREAM TECHNOLOGIES CORP.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "NexStream Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Derek Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "complaint filing date"
+    },
+    {
+      "text": "NexStream Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Mr. Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff title reference"
+    },
+    {
+      "text": "4821 Northwest Pine Street, Portland, Oregon 97210",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4821 Northwest Pine Street, Portland, Oregon 97210",
+      "notes": "plaintiff address"
+    },
+    {
+      "text": "NexStream",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "NexStream Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Margaret Chen",
+      "token_prefix": "REGISTERED_AGENT",
+      "entity_type": "PERSON",
+      "canonical": "Margaret Chen",
+      "notes": "registered agent name"
+    },
+    {
+      "text": "1209 Orange Street, Wilmington, Delaware 19801",
+      "token_prefix": "REGISTERED_AGENT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1209 Orange Street, Wilmington, Delaware 19801",
+      "notes": "registered agent address"
+    },
+    {
+      "text": "3400 Corporate Center Drive, Suite 200, Wilmington, Delaware 19803",
+      "token_prefix": "DEFENDANT_PRINCIPAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "3400 Corporate Center Drive, Suite 200, Wilmington, Delaware 19803",
+      "notes": "defendant principal address"
+    },
+    {
+      "text": "Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "NexStream",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "Mr. Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff title reference"
+    },
+    {
+      "text": "NexStream",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "NexStream",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant short name"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "$75,000",
+      "token_prefix": "PAYMENT_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$75,000",
+      "notes": "alleged payment amount"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "December 1, 2023",
+      "token_prefix": "COMPLETION_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 1, 2023",
+      "notes": "alleged completion date"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "February 2024",
+      "token_prefix": "PAYMENT_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "February 2024",
+      "notes": "payment continuation date"
+    },
+    {
+      "text": "Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "December 1, 2023",
+      "token_prefix": "COMPLETION_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 1, 2023",
+      "notes": "alleged completion date"
+    },
+    {
+      "text": "Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "complaint filing date"
+    },
+    {
+      "text": "NexStream's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant possessive"
+    },
+    {
+      "text": "NexStream Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "NexStream Technologies Corp.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Derek Harrison",
+      "notes": "plaintiff possessive role"
+    },
+    {
+      "text": "Victoria L. Brennan",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Victoria L. Brennan",
+      "notes": "defense attorney name"
+    },
+    {
+      "text": "OSB #147892",
+      "token_prefix": "DEFENSE_ATTORNEY_BAR",
+      "entity_type": "ID",
+      "canonical": "OSB #147892",
+      "notes": "defense attorney bar number"
+    },
+    {
+      "text": "BRENNAN & ASSOCIATES LAW FIRM",
+      "token_prefix": "DEFENSE_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "BRENNAN & ASSOCIATES LAW FIRM",
+      "notes": "defense law firm"
+    },
+    {
+      "text": "2150 Fourth Avenue, Suite 1800, Seattle, Washington 98121",
+      "token_prefix": "DEFENSE_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2150 Fourth Avenue, Suite 1800, Seattle, Washington 98121",
+      "notes": "defense firm address"
+    },
+    {
+      "text": "(206) 555-7234",
+      "token_prefix": "DEFENSE_ATTORNEY_PHONE",
+      "entity_type": "ID",
+      "canonical": "(206) 555-7234",
+      "notes": "defense attorney phone"
+    },
+    {
+      "text": "vbrennnan@brennanlaw.com",
+      "token_prefix": "DEFENSE_ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "vbrennnan@brennanlaw.com",
+      "notes": "defense attorney email"
+    },
+    {
+      "text": "April 8, 2024",
+      "token_prefix": "SERVICE_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 8, 2024",
+      "notes": "service date"
+    },
+    {
+      "text": "Thomas R. Mitchell",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Thomas R. Mitchell",
+      "notes": "plaintiff attorney name"
+    },
+    {
+      "text": "OSB #098654",
+      "token_prefix": "PLAINTIFF_ATTORNEY_BAR",
+      "entity_type": "ID",
+      "canonical": "OSB #098654",
+      "notes": "plaintiff attorney bar number"
+    },
+    {
+      "text": "MITCHELL LEGAL GROUP",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "MITCHELL LEGAL GROUP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "815 Southwest Morrison Street, Suite 300, Portland, Oregon 97205",
+      "token_prefix": "PLAINTIFF_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "815 Southwest Morrison Street, Suite 300, Portland, Oregon 97205",
+      "notes": "plaintiff firm address"
+    },
+    {
+      "text": "Victoria L. Brennan",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Victoria L. Brennan",
+      "notes": "defense attorney name"
+    }
+  ]
+}

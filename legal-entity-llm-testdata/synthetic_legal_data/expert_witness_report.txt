@@ -1,0 +1,56 @@
+**EXPERT WITNESS REPORT**
+
+**Case No.:** 2023-CV-08742
+**Court:** District Court of Harris County, Texas
+**Plaintiff:** Rebecca Marie Harrison
+**Defendant:** Dr. Marcus Jonathan Whitfield, MD
+
+---
+
+**EXPERT WITNESS REPORT OF DR. ELENA VASQUEZ, MD**
+
+I, Dr. Elena Vasquez, MD, have been retained by counsel for the plaintiff in the above-referenced matter to provide expert medical opinion regarding the standard of care provided to Rebecca Marie Harrison during her cardiac procedure performed on March 15, 2023.
+
+**QUALIFICATIONS AND BACKGROUND**
+
+I am a board-certified cardiologist with over eighteen years of experience in interventional cardiology. I am currently the Director of Cardiac Services at Meadowbrook Regional Medical Center, located at 4250 Cypress Creek Parkway, Spring, Texas 77388. My email address is e.vasquez@meadowbrookmed.org. I received my medical degree from Baylor College of Medicine in 2005 and completed my cardiology fellowship at Texas Heart Institute. I have performed over 3,000 cardiac catheterization procedures and have testified as an expert witness in similar cases on twelve previous occasions.
+
+**MATERIALS REVIEWED**
+
+I have reviewed the complete medical records of Ms. Harrison from Memorial Healthcare System, located at 1400 Binz Street, Houston, Texas 77004. Specifically, I examined records from March 14, 2023, and March 16, 2023, encompassing the pre-operative assessment, surgical procedure notes, and post-operative care documentation. The patient's date of birth is July 22, 1967, her Social Security number is 412-88-9362, medical record number is MHS-7749821, and her home phone number is (281) 555-4792.
+
+**CASE SUMMARY**
+
+Rebecca Marie Harrison underwent a percutaneous coronary intervention (PCI) with stent placement performed by defendant Dr. Marcus Jonathan Whitfield on March 15, 2023. The procedure was intended to address a 75% stenosis in the left anterior descending artery. According to the medical records, the patient experienced complications during the procedure, resulting in coronary artery dissection and subsequent myocardial infarction.
+
+**STANDARD OF CARE ANALYSIS**
+
+Based on my review of the medical documentation and current medical literature, it is my opinion that Dr. Whitfield's treatment of Ms. Harrison fell below the accepted standard of care in several critical areas:
+
+**1. Pre-procedural Assessment:** The defendant failed to adequately assess the patient's coronary anatomy using appropriate imaging modalities. The records indicate that Rebecca Marie Harrison had complex vessel tortuosity that should have been identified and addressed in the procedural planning. A more thorough pre-procedural evaluation would have revealed the high-risk nature of her coronary anatomy.
+
+**2. Procedural Technique:** During the catheterization, Dr. Whitfield used excessive force when advancing the guidewire, despite clear resistance noted in the procedure notes. The standard of care requires careful, measured advancement with immediate cessation upon meeting resistance. His failure to heed these warning signs directly contributed to the coronary dissection that occurred.
+
+**3. Post-procedural Management:** Following the recognized complication, the defendant delayed appropriate intervention for approximately 45 minutes. During this critical period, she should have received immediate administration of Metoprolol and emergency consultation with cardiac surgery. This delay resulted in extension of the myocardial injury and contributed to the patient's prolonged recovery.
+
+**CAUSATION**
+
+In my professional opinion, the deviations from the standard of care directly caused Ms. Harrison's injuries. The coronary artery dissection was a direct result of improper technique during guidewire placement. The extended delay in recognition and treatment of this complication caused additional myocardial damage that could have been prevented with appropriate immediate intervention.
+
+**DAMAGES AND COSTS**
+
+The medical records indicate that Rebecca Marie Harrison required emergency cardiac surgery with a total hospital cost of $187,450. She subsequently required additional cardiac rehabilitation costing $23,800 and ongoing cardiological care. The patient has experienced significant physical limitations and will require lifelong monitoring for cardiac function. As referenced in Exhibit C-12, her ejection fraction has been permanently reduced from 60% to 35%, representing substantial cardiac impairment.
+
+**CONCLUSION**
+
+Based on my expertise and review of all available medical documentation, it is my opinion within a reasonable degree of medical certainty that Dr. Marcus Jonathan Whitfield's treatment of the plaintiff fell below the accepted standard of care for interventional cardiology. His actions were the proximate cause of her injuries, complications, and ongoing medical needs. The damages sustained by Ms. Harrison were preventable with appropriate adherence to established medical standards.
+
+This report is rendered on November 8, 2023, and I am prepared to testify to these opinions at trial.
+
+Respectfully submitted,
+
+Elena Vasquez, MD
+Director of Cardiac Services
+Meadowbrook Regional Medical Center
+4250 Cypress Creek Parkway
+Spring, Texas 77388

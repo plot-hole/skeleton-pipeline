@@ -1,0 +1,527 @@
+{
+  "scenario_id": "demand_letter",
+  "doc_type": "DEMAND LETTER",
+  "word_count": 784,
+  "entity_count": 74,
+  "unique_canonical_count": 31,
+  "entities": [
+    {
+      "text": "RICHARDSON & ASSOCIATES, LLC",
+      "token_prefix": "LAW_FIRM_1",
+      "entity_type": "ORG",
+      "canonical": "RICHARDSON & ASSOCIATES, LLC",
+      "notes": "plaintiff's law firm"
+    },
+    {
+      "text": "1847 Curtis Street, Suite 420\nDenver, Colorado 80202",
+      "token_prefix": "ADDRESS_1",
+      "entity_type": "ADDRESS",
+      "canonical": "1847 Curtis Street, Suite 420, Denver, Colorado 80202",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(303) 555-7892",
+      "token_prefix": "PHONE_1",
+      "entity_type": "ID",
+      "canonical": "(303) 555-7892",
+      "notes": "law firm phone"
+    },
+    {
+      "text": "(303) 555-7893",
+      "token_prefix": "FAX_1",
+      "entity_type": "ID",
+      "canonical": "(303) 555-7893",
+      "notes": "law firm fax"
+    },
+    {
+      "text": "Margaret L. Richardson",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret L. Richardson",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "47291",
+      "token_prefix": "BAR_NUMBER_1",
+      "entity_type": "ID",
+      "canonical": "47291",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "mrichardson@richardsonlaw.com",
+      "token_prefix": "EMAIL_1",
+      "entity_type": "ID",
+      "canonical": "mrichardson@richardsonlaw.com",
+      "notes": "attorney email"
+    },
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "DEMAND_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "demand letter date"
+    },
+    {
+      "text": "Jennifer K. Whitmore",
+      "token_prefix": "RISK_MANAGER_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer K. Whitmore",
+      "notes": "defendant risk manager"
+    },
+    {
+      "text": "Ms. Whitmore",
+      "token_prefix": "RISK_MANAGER_1",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer K. Whitmore",
+      "notes": "defendant risk manager"
+    },
+    {
+      "text": "Mountain Vista Property Management Corp.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "2156 Speer Boulevard, 8th Floor\nDenver, Colorado 80205",
+      "token_prefix": "ADDRESS_2",
+      "entity_type": "ADDRESS",
+      "canonical": "2156 Speer Boulevard, 8th Floor, Denver, Colorado 80205",
+      "notes": "defendant company address"
+    },
+    {
+      "text": "(303) 555-4167",
+      "token_prefix": "PHONE_2",
+      "entity_type": "ID",
+      "canonical": "(303) 555-4167",
+      "notes": "risk manager phone"
+    },
+    {
+      "text": "j.whitmore@mountainvista.com",
+      "token_prefix": "EMAIL_2",
+      "entity_type": "ID",
+      "canonical": "j.whitmore@mountainvista.com",
+      "notes": "risk manager email"
+    },
+    {
+      "text": "David Andrew Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "October 12, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 12, 2023",
+      "notes": "incident date"
+    },
+    {
+      "text": "MV-2023-10847",
+      "token_prefix": "CLAIM_NUMBER_1",
+      "entity_type": "ID",
+      "canonical": "MV-2023-10847",
+      "notes": "insurance claim number"
+    },
+    {
+      "text": "Mr. Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Westfield Shopping Plaza",
+      "token_prefix": "LOCATION_1",
+      "entity_type": "ORG",
+      "canonical": "Westfield Shopping Plaza",
+      "notes": "incident location"
+    },
+    {
+      "text": "4820 Broadway Street, Boulder, Colorado 80304",
+      "token_prefix": "ADDRESS_3",
+      "entity_type": "ADDRESS",
+      "canonical": "4820 Broadway Street, Boulder, Colorado 80304",
+      "notes": "incident location address"
+    },
+    {
+      "text": "your company",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Our client",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "925 Maple Grove Lane, Boulder, Colorado 80301",
+      "token_prefix": "ADDRESS_4",
+      "entity_type": "ADDRESS",
+      "canonical": "925 Maple Grove Lane, Boulder, Colorado 80301",
+      "notes": "plaintiff home address"
+    },
+    {
+      "text": "(720) 555-3249",
+      "token_prefix": "PHONE_3",
+      "entity_type": "ID",
+      "canonical": "(720) 555-3249",
+      "notes": "plaintiff phone"
+    },
+    {
+      "text": "September 18, 1989",
+      "token_prefix": "DOB_1",
+      "entity_type": "DATE",
+      "canonical": "September 18, 1989",
+      "notes": "plaintiff date of birth"
+    },
+    {
+      "text": "The plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Mr. Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Boulder Community Hospital",
+      "token_prefix": "HOSPITAL_1",
+      "entity_type": "ORG",
+      "canonical": "Boulder Community Hospital",
+      "notes": "treatment facility"
+    },
+    {
+      "text": "him",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "The plaintiff's",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "His",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Dr. Sarah Martinez",
+      "token_prefix": "DOCTOR_1",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Sarah Martinez",
+      "notes": "treating physician"
+    },
+    {
+      "text": "Boulder Orthopedic Associates",
+      "token_prefix": "MEDICAL_PRACTICE_1",
+      "entity_type": "ORG",
+      "canonical": "Boulder Orthopedic Associates",
+      "notes": "medical practice"
+    },
+    {
+      "text": "Dr. Robert Chen",
+      "token_prefix": "DOCTOR_2",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Robert Chen",
+      "notes": "treating physician"
+    },
+    {
+      "text": "Front Range Pain Management",
+      "token_prefix": "MEDICAL_PRACTICE_2",
+      "entity_type": "ORG",
+      "canonical": "Front Range Pain Management",
+      "notes": "medical practice"
+    },
+    {
+      "text": "Mr. Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "December 8, 2023",
+      "token_prefix": "SURGERY_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 8, 2023",
+      "notes": "surgery date"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "our client's",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Forty-Seven Thousand Three Hundred Twenty-Two Dollars and 18/100 ($47,322.18)",
+      "token_prefix": "MEDICAL_EXPENSES_1",
+      "entity_type": "MONEY",
+      "canonical": "Forty-Seven Thousand Three Hundred Twenty-Two Dollars and 18/100 ($47,322.18)",
+      "notes": "medical expenses amount"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Alpine Building Solutions",
+      "token_prefix": "EMPLOYER_1",
+      "entity_type": "ORG",
+      "canonical": "Alpine Building Solutions",
+      "notes": "plaintiff's employer"
+    },
+    {
+      "text": "His",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Mr. Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "The plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "who",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Mountain Vista Property Management Corp.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "our client's",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Your company",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Mr. Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "your",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Mountain Vista Property Management Corp.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Mr. Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "Two Hundred Fifty Thousand Dollars ($250,000.00)",
+      "token_prefix": "SETTLEMENT_DEMAND_1",
+      "entity_type": "MONEY",
+      "canonical": "Two Hundred Fifty Thousand Dollars ($250,000.00)",
+      "notes": "settlement demand amount"
+    },
+    {
+      "text": "April 30, 2024",
+      "token_prefix": "DEADLINE_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 30, 2024",
+      "notes": "settlement deadline"
+    },
+    {
+      "text": "you",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "your company",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "your company",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "our client's",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "your",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Mountain Vista Property Management Corp.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Margaret L. Richardson, Esq.",
+      "token_prefix": "ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Margaret L. Richardson",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "David Andrew Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    },
+    {
+      "text": "David Andrew Castellanos",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "David Andrew Castellanos",
+      "notes": "plaintiff/client"
+    }
+  ]
+}

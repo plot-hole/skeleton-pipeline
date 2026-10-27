@@ -1,0 +1,359 @@
+{
+  "scenario_id": "expert_witness_report",
+  "doc_type": "EXPERT WITNESS REPORT",
+  "word_count": 723,
+  "entity_count": 50,
+  "unique_canonical_count": 21,
+  "entities": [
+    {
+      "text": "2023-CV-08742",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08742",
+      "notes": "case number identifier"
+    },
+    {
+      "text": "Rebecca Marie Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Dr. Marcus Jonathan Whitfield, MD",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor full name"
+    },
+    {
+      "text": "Dr. Elena Vasquez, MD",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Elena Vasquez, MD",
+      "notes": "expert witness full name"
+    },
+    {
+      "text": "Rebecca Marie Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "surgery/incident date"
+    },
+    {
+      "text": "Dr. Elena Vasquez",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Elena Vasquez, MD",
+      "notes": "expert witness name"
+    },
+    {
+      "text": "Meadowbrook Regional Medical Center",
+      "token_prefix": "EXPERT_HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Meadowbrook Regional Medical Center",
+      "notes": "expert's hospital affiliation"
+    },
+    {
+      "text": "4250 Cypress Creek Parkway, Spring, Texas 77388",
+      "token_prefix": "EXPERT_HOSPITAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4250 Cypress Creek Parkway, Spring, Texas 77388",
+      "notes": "expert's hospital address"
+    },
+    {
+      "text": "e.vasquez@meadowbrookmed.org",
+      "token_prefix": "EXPERT_EMAIL",
+      "entity_type": "ID",
+      "canonical": "e.vasquez@meadowbrookmed.org",
+      "notes": "expert witness email"
+    },
+    {
+      "text": "Ms. Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Memorial Healthcare System",
+      "token_prefix": "TREATMENT_HOSPITAL",
+      "entity_type": "ORG",
+      "canonical": "Memorial Healthcare System",
+      "notes": "treating hospital"
+    },
+    {
+      "text": "1400 Binz Street, Houston, Texas 77004",
+      "token_prefix": "TREATMENT_HOSPITAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1400 Binz Street, Houston, Texas 77004",
+      "notes": "treating hospital address"
+    },
+    {
+      "text": "March 14, 2023",
+      "token_prefix": "REVIEW_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "March 14, 2023",
+      "notes": "medical record date"
+    },
+    {
+      "text": "March 16, 2023",
+      "token_prefix": "REVIEW_DATE_2",
+      "entity_type": "DATE",
+      "canonical": "March 16, 2023",
+      "notes": "medical record date"
+    },
+    {
+      "text": "patient's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "July 22, 1967",
+      "token_prefix": "PLAINTIFF_DOB",
+      "entity_type": "DATE",
+      "canonical": "July 22, 1967",
+      "notes": "plaintiff date of birth"
+    },
+    {
+      "text": "412-88-9362",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "412-88-9362",
+      "notes": "plaintiff SSN"
+    },
+    {
+      "text": "MHS-7749821",
+      "token_prefix": "PLAINTIFF_MRN",
+      "entity_type": "ID",
+      "canonical": "MHS-7749821",
+      "notes": "plaintiff medical record number"
+    },
+    {
+      "text": "(281) 555-4792",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(281) 555-4792",
+      "notes": "plaintiff home phone"
+    },
+    {
+      "text": "Rebecca Marie Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Dr. Marcus Jonathan Whitfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor name"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "surgery/incident date"
+    },
+    {
+      "text": "patient",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Dr. Whitfield's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor reference"
+    },
+    {
+      "text": "Ms. Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Rebecca Marie Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Dr. Whitfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor reference"
+    },
+    {
+      "text": "His",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor pronoun"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Metoprolol",
+      "token_prefix": "DRUG_NAME",
+      "entity_type": "ID",
+      "canonical": "Metoprolol",
+      "notes": "medication name"
+    },
+    {
+      "text": "patient's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Ms. Harrison's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Rebecca Marie Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "$187,450",
+      "token_prefix": "MEDICAL_COST_1",
+      "entity_type": "MONEY",
+      "canonical": "$187,450",
+      "notes": "hospital cost amount"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "$23,800",
+      "token_prefix": "MEDICAL_COST_2",
+      "entity_type": "MONEY",
+      "canonical": "$23,800",
+      "notes": "rehabilitation cost amount"
+    },
+    {
+      "text": "patient",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Exhibit C-12",
+      "token_prefix": "EXHIBIT_REF",
+      "entity_type": "ID",
+      "canonical": "Exhibit C-12",
+      "notes": "exhibit reference"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Dr. Marcus Jonathan Whitfield's",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor reference"
+    },
+    {
+      "text": "plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "His",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Marcus Jonathan Whitfield, MD",
+      "notes": "defendant doctor pronoun"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Ms. Harrison",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Marie Harrison",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "November 8, 2023",
+      "token_prefix": "REPORT_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 8, 2023",
+      "notes": "expert report date"
+    },
+    {
+      "text": "Elena Vasquez, MD",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Elena Vasquez, MD",
+      "notes": "expert witness signature name"
+    },
+    {
+      "text": "4250 Cypress Creek Parkway",
+      "token_prefix": "EXPERT_HOSPITAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4250 Cypress Creek Parkway, Spring, Texas 77388",
+      "notes": "expert's hospital address"
+    },
+    {
+      "text": "Spring, Texas 77388",
+      "token_prefix": "EXPERT_HOSPITAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4250 Cypress Creek Parkway, Spring, Texas 77388",
+      "notes": "expert's hospital address"
+    }
+  ]
+}

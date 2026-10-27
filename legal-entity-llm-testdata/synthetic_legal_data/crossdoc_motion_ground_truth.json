@@ -1,0 +1,367 @@
+{
+  "scenario_id": "crossdoc_motion",
+  "doc_type": "MOTION TO DISMISS",
+  "word_count": 846,
+  "entity_count": 51,
+  "unique_canonical_count": 14,
+  "corpus_id": "martinez_v_greenfield",
+  "entities": [
+    {
+      "text": "MARIA ELENA MARTINEZ",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "2:24-cv-03891-JLW",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2:24-cv-03891-JLW",
+      "notes": "case number"
+    },
+    {
+      "text": "GREENFIELD PROPERTIES LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Greenfield Properties LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Greenfield",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company short form"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Maria Elena Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "September 14, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 14, 2023",
+      "notes": "incident date"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Angela Torres",
+      "token_prefix": "PROPERTY_MANAGER",
+      "entity_type": "PERSON",
+      "canonical": "Angela Torres",
+      "notes": "property manager"
+    },
+    {
+      "text": "Greenfield",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company short form"
+    },
+    {
+      "text": "Robert Chen",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert Chen",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "September 14, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 14, 2023",
+      "notes": "incident date"
+    },
+    {
+      "text": "Greenfield",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company short form"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Greenfield",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company short form"
+    },
+    {
+      "text": "Martinez's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff possessive"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Martinez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Dr. James Whitfield",
+      "token_prefix": "EXPERT_WITNESS",
+      "entity_type": "PERSON",
+      "canonical": "Dr. James Whitfield",
+      "notes": "expert witness"
+    },
+    {
+      "text": "Greenfield",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company short form"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Greenfield Properties LLC",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Greenfield Properties LLC",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Martinez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Patricia Knowles",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Knowles",
+      "notes": "defense attorney"
+    },
+    {
+      "text": "PATRICIA KNOWLES",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Knowles",
+      "notes": "defense attorney caps"
+    },
+    {
+      "text": "Knowles & Rivera LLP",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Knowles & Rivera LLP",
+      "notes": "defense law firm"
+    },
+    {
+      "text": "200 Park Avenue, Suite 3100",
+      "token_prefix": "ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "200 Park Avenue, Suite 3100, New York, New York 10166",
+      "notes": "law firm address"
+    },
+    {
+      "text": "New York, New York 10166",
+      "token_prefix": "ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "200 Park Avenue, Suite 3100, New York, New York 10166",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(212) 555-0147",
+      "token_prefix": "PHONE",
+      "entity_type": "ID",
+      "canonical": "(212) 555-0147",
+      "notes": "phone number"
+    },
+    {
+      "text": "pknowles@knowlesrivera.com",
+      "token_prefix": "EMAIL",
+      "entity_type": "ID",
+      "canonical": "pknowles@knowlesrivera.com",
+      "notes": "email address"
+    },
+    {
+      "text": "8734521",
+      "token_prefix": "BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "8734521",
+      "notes": "bar number"
+    },
+    {
+      "text": "December 3, 2024",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 3, 2024",
+      "notes": "filing date"
+    },
+    {
+      "text": "PATRICIA KNOWLES",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Patricia Knowles",
+      "notes": "defense attorney caps"
+    }
+  ]
+}

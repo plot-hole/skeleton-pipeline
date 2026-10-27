@@ -1,0 +1,100 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+MARCUS THEODORE WELLINGTON,
+
+                                    Plaintiff,
+
+v.                                                          Case No. 2024-CV-08847
+
+ZENITH DYNAMICS CORPORATION,
+
+                                    Defendant.
+
+CIVIL COMPLAINT
+
+TO THE HONORABLE COURT:
+
+Plaintiff Marcus Theodore Wellington, by and through his attorneys, hereby submits this Complaint against Defendant Zenith Dynamics Corporation and respectfully alleges as follows:
+
+PARTIES AND JURISDICTION
+
+1. Plaintiff Marcus Theodore Wellington is an individual residing at 2847 Rimrock Drive, Billings, Montana 59102-3456. Wellington can be reached at (406) 555-9832 or mwellington@montananet.com. He is a citizen of Montana.
+
+2. Defendant Zenith Dynamics Corporation is a Delaware corporation with its principal place of business located at 1455 Market Street, Suite 2200, San Francisco, California 94103-1398. Zenith Dynamics Corporation maintains its corporate headquarters at this San Francisco address and conducts substantial business operations throughout California.
+
+3. This Court has diversity jurisdiction pursuant to 28 U.S.C. § 1332 because the parties are citizens of different states and the amount in controversy exceeds $75,000, exclusive of interest and costs.
+
+4. Venue is proper in this District pursuant to 28 U.S.C. § 1391(b)(2) because a substantial part of the events giving rise to the claim occurred in this judicial district.
+
+FACTUAL ALLEGATIONS
+
+5. On March 15, 2023, Wellington was employed as a senior software engineer by Zenith Dynamics Corporation at their San Francisco facility. His employment began in January 2019 and he maintained an exemplary performance record throughout his tenure.
+
+6. On the incident date of March 15, 2023, Wellington discovered that Zenith Dynamics Corporation had been systematically misappropriating proprietary software algorithms that he had developed independently. These algorithms, which Wellington created using his personal equipment and time outside of work hours, were being incorporated into the defendant's commercial products without authorization or compensation.
+
+7. When Wellington confronted his supervisors about this unauthorized use of his intellectual property, Zenith Dynamics Corporation retaliated against him by terminating his employment on March 22, 2023. The company cited "performance issues" as justification, despite Wellington's consistent positive evaluations.
+
+8. Two witnesses can attest to the events surrounding Wellington's discovery and subsequent termination. Carmen Isabella Rodriguez, residing at 8924 Ocean Drive, Miami, Florida 33139, phone number (305) 555-7421, was present during Wellington's meeting with management on March 16, 2023. Rodriguez witnessed the defendant's representatives acknowledge their use of Wellington's proprietary code while dismissing his ownership claims.
+
+9. Additionally, Dr. Benjamin Thomas Hartwell, located at 1567 South Congress Avenue, Austin, Texas 78704-2891, email bhartwell@texastech.edu, served as Wellington's technical consultant and can verify the originality and independent development of the disputed algorithms. Hartwell reviewed Wellington's development logs and can confirm that he created the software outside the scope of his employment with Zenith Dynamics Corporation.
+
+10. Following his termination, Wellington suffered significant financial hardship and damage to his professional reputation. He has been unable to secure comparable employment in his field due to negative references provided by Zenith Dynamics Corporation to prospective employers.
+
+11. The algorithms that the defendant misappropriated have generated substantial revenue for Zenith Dynamics Corporation. Based on publicly available financial reports and industry analysis, Wellington estimates that his proprietary software has contributed to at least $2,850,000 in additional profits for the company since March 2023.
+
+COUNT I - CONVERSION
+
+12. Wellington realleges and incorporates by reference all preceding paragraphs.
+
+13. The proprietary algorithms developed by Wellington constitute his personal property, created through his own time, effort, and resources outside the scope of his employment.
+
+14. Zenith Dynamics Corporation intentionally exercised dominion and control over Wellington's proprietary algorithms without his consent, depriving him of their use and benefit.
+
+15. As a direct and proximate result of defendant's conversion of his intellectual property, Wellington has suffered damages in the amount of no less than $2,850,000.
+
+COUNT II - WRONGFUL TERMINATION IN VIOLATION OF PUBLIC POLICY
+
+16. Wellington realleges and incorporates by reference all preceding paragraphs.
+
+17. Wellington's termination violated California's public policy protecting employees who assert their legal rights to intellectual property ownership.
+
+18. Zenith Dynamics Corporation terminated Wellington in retaliation for his legitimate claims regarding ownership of his independently developed software algorithms.
+
+19. As a result of this wrongful termination, he has suffered lost wages, benefits, and career advancement opportunities totaling approximately $485,000.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Marcus Theodore Wellington respectfully requests that this Court:
+
+A. Award him compensatory damages in the amount of $3,335,000 for conversion and wrongful termination;
+B. Grant injunctive relief requiring Zenith Dynamics Corporation to cease using his proprietary algorithms;
+C. Award punitive damages in an amount to be determined at trial;
+D. Grant such other relief as the Court deems just and proper.
+
+Respectfully submitted,
+
+/s/ Jennifer Marie Castellanos
+Jennifer Marie Castellanos, Esq.
+State Bar No. NY-847291
+CASTELLANOS & PARTNERS LLP
+875 Third Avenue, 14th Floor
+New York, New York 10022-6225
+Telephone: (212) 555-4967
+Email: jcastellanos@cplaw.com
+Attorney for Plaintiff
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true and correct copy of the foregoing Civil Complaint was served upon counsel for defendant:
+
+Michael David Chen, Esq.
+PACIFIC LEGAL GROUP
+9300 Wilshire Boulevard, Suite 1750
+Beverly Hills, California 90212-3204
+Telephone: (323) 555-8834
+
+by electronic filing through the Court's CM/ECF system on this 18th day of September, 2024.
+
+/s/ Jennifer Marie Castellanos
+Jennifer Marie Castellanos, Esq.

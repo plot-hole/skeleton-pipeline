@@ -1,0 +1,380 @@
+{
+  "scenario_id": "minor_witness_initials",
+  "doc_type": "CRIMINAL COMPLAINT",
+  "word_count": 765,
+  "entity_count": 53,
+  "unique_canonical_count": 20,
+  "entities": [
+    {
+      "text": "27-CR-24-8952",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "27-CR-24-8952",
+      "notes": "criminal case number"
+    },
+    {
+      "text": "Marcus Allen Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant full name"
+    },
+    {
+      "text": "Detective Sarah Michelle Rodriguez",
+      "token_prefix": "INVESTIGATING_OFFICER",
+      "entity_type": "PERSON",
+      "canonical": "Detective Sarah Michelle Rodriguez",
+      "notes": "investigating officer full name"
+    },
+    {
+      "text": "Badge No. 4721",
+      "token_prefix": "BADGE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Badge No. 4721",
+      "notes": "officer badge number"
+    },
+    {
+      "text": "3000 Minnehaha Avenue, Minneapolis, MN 55406",
+      "token_prefix": "PRECINCT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "3000 Minnehaha Avenue, Minneapolis, MN 55406",
+      "notes": "police precinct address"
+    },
+    {
+      "text": "January 15, 2024",
+      "token_prefix": "ARREST_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "arrest date"
+    },
+    {
+      "text": "847 Sherburne Avenue, St. Paul, MN 55104",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "847 Sherburne Avenue, St. Paul, MN 55104",
+      "notes": "defendant address"
+    },
+    {
+      "text": "CI-1",
+      "token_prefix": "CONFIDENTIAL_INFORMANT",
+      "entity_type": "ID",
+      "canonical": "CI-1",
+      "notes": "confidential informant identifier"
+    },
+    {
+      "text": "A.B.C.",
+      "token_prefix": "MINOR_VICTIM_1",
+      "entity_type": "ID",
+      "canonical": "A.B.C.",
+      "notes": "minor victim initials"
+    },
+    {
+      "text": "D.E.F.",
+      "token_prefix": "MINOR_VICTIM_2",
+      "entity_type": "ID",
+      "canonical": "D.E.F.",
+      "notes": "minor victim initials"
+    },
+    {
+      "text": "Marcus Allen Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant full name second mention"
+    },
+    {
+      "text": "03/22/1985",
+      "token_prefix": "DEFENDANT_DOB",
+      "entity_type": "DATE",
+      "canonical": "03/22/1985",
+      "notes": "defendant date of birth"
+    },
+    {
+      "text": "847 Sherburne Avenue, St. Paul, MN 55104",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "847 Sherburne Avenue, St. Paul, MN 55104",
+      "notes": "defendant address second mention"
+    },
+    {
+      "text": "Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant last name only"
+    },
+    {
+      "text": "Marcus Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant first and last name"
+    },
+    {
+      "text": "A.B.C.",
+      "token_prefix": "MINOR_VICTIM_1",
+      "entity_type": "ID",
+      "canonical": "A.B.C.",
+      "notes": "minor victim initials second mention"
+    },
+    {
+      "text": "D.E.F.",
+      "token_prefix": "MINOR_VICTIM_2",
+      "entity_type": "ID",
+      "canonical": "D.E.F.",
+      "notes": "minor victim initials second mention"
+    },
+    {
+      "text": "CI-1",
+      "token_prefix": "CONFIDENTIAL_INFORMANT",
+      "entity_type": "ID",
+      "canonical": "CI-1",
+      "notes": "confidential informant second mention"
+    },
+    {
+      "text": "January 12, 2024",
+      "token_prefix": "INCIDENT_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 12, 2024",
+      "notes": "incident period start date"
+    },
+    {
+      "text": "January 15, 2024",
+      "token_prefix": "INCIDENT_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "incident period end date"
+    },
+    {
+      "text": "A.B.C.",
+      "token_prefix": "MINOR_VICTIM_1",
+      "entity_type": "ID",
+      "canonical": "A.B.C.",
+      "notes": "minor victim initials third mention"
+    },
+    {
+      "text": "D.E.F.",
+      "token_prefix": "MINOR_VICTIM_2",
+      "entity_type": "ID",
+      "canonical": "D.E.F.",
+      "notes": "minor victim initials third mention"
+    },
+    {
+      "text": "Detective Rodriguez",
+      "token_prefix": "INVESTIGATING_OFFICER",
+      "entity_type": "PERSON",
+      "canonical": "Detective Sarah Michelle Rodriguez",
+      "notes": "investigating officer title and last name"
+    },
+    {
+      "text": "defendant",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "January 14, 2024",
+      "token_prefix": "SPECIFIC_INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 14, 2024",
+      "notes": "specific incident date"
+    },
+    {
+      "text": "A.B.C.",
+      "token_prefix": "MINOR_VICTIM_1",
+      "entity_type": "ID",
+      "canonical": "A.B.C.",
+      "notes": "minor victim initials fourth mention"
+    },
+    {
+      "text": "D.E.F.",
+      "token_prefix": "MINOR_VICTIM_2",
+      "entity_type": "ID",
+      "canonical": "D.E.F.",
+      "notes": "minor victim initials fourth mention"
+    },
+    {
+      "text": "she",
+      "token_prefix": "MINOR_VICTIM_1",
+      "entity_type": "PERSON",
+      "canonical": "A.B.C.",
+      "notes": "older child pronoun reference"
+    },
+    {
+      "text": "D.E.F.",
+      "token_prefix": "MINOR_VICTIM_2",
+      "entity_type": "ID",
+      "canonical": "D.E.F.",
+      "notes": "minor victim initials fifth mention"
+    },
+    {
+      "text": "Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant last name second mention"
+    },
+    {
+      "text": "(651) 447-8923",
+      "token_prefix": "DEFENDANT_PHONE",
+      "entity_type": "ID",
+      "canonical": "(651) 447-8923",
+      "notes": "defendant phone number"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant pronoun reference"
+    },
+    {
+      "text": "Jennifer Marie Kostecki",
+      "token_prefix": "GUARDIAN_AD_LITEM",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Kostecki",
+      "notes": "guardian ad litem full name"
+    },
+    {
+      "text": "Minnesota Bar No. 0394728",
+      "token_prefix": "BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Minnesota Bar No. 0394728",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "1200 Nicollet Mall, Suite 2800, Minneapolis, MN 55403",
+      "token_prefix": "GUARDIAN_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1200 Nicollet Mall, Suite 2800, Minneapolis, MN 55403",
+      "notes": "guardian ad litem address"
+    },
+    {
+      "text": "A.B.C.",
+      "token_prefix": "MINOR_VICTIM_1",
+      "entity_type": "ID",
+      "canonical": "A.B.C.",
+      "notes": "minor victim initials sixth mention"
+    },
+    {
+      "text": "D.E.F.",
+      "token_prefix": "MINOR_VICTIM_2",
+      "entity_type": "ID",
+      "canonical": "D.E.F.",
+      "notes": "minor victim initials sixth mention"
+    },
+    {
+      "text": "Ms. Kostecki",
+      "token_prefix": "GUARDIAN_AD_LITEM",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Kostecki",
+      "notes": "guardian title and last name"
+    },
+    {
+      "text": "defendant",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant role reference second mention"
+    },
+    {
+      "text": "January 12, 2024",
+      "token_prefix": "INCIDENT_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 12, 2024",
+      "notes": "incident period start date second mention"
+    },
+    {
+      "text": "January 15, 2024",
+      "token_prefix": "INCIDENT_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "incident period end date second mention"
+    },
+    {
+      "text": "Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant last name third mention"
+    },
+    {
+      "text": "January 15, 2024",
+      "token_prefix": "ARREST_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "arrest date second mention"
+    },
+    {
+      "text": "Michael James Patterson",
+      "token_prefix": "PROSECUTOR",
+      "entity_type": "PERSON",
+      "canonical": "Michael James Patterson",
+      "notes": "prosecutor full name"
+    },
+    {
+      "text": "300 South Sixth Street, Minneapolis, MN 55487",
+      "token_prefix": "PROSECUTOR_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "300 South Sixth Street, Minneapolis, MN 55487",
+      "notes": "prosecutor office address"
+    },
+    {
+      "text": "defendant",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant role reference third mention"
+    },
+    {
+      "text": "His",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant possessive pronoun"
+    },
+    {
+      "text": "Marcus Allen Thornfield",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant full name final mention"
+    },
+    {
+      "text": "he",
+      "token_prefix": "DEFENDANT",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Allen Thornfield",
+      "notes": "defendant pronoun second reference"
+    },
+    {
+      "text": "16th day of January, 2024",
+      "token_prefix": "COMPLAINT_DATE",
+      "entity_type": "DATE",
+      "canonical": "16th day of January, 2024",
+      "notes": "complaint filing date"
+    },
+    {
+      "text": "Detective Sarah Michelle Rodriguez",
+      "token_prefix": "INVESTIGATING_OFFICER",
+      "entity_type": "PERSON",
+      "canonical": "Detective Sarah Michelle Rodriguez",
+      "notes": "investigating officer signature line"
+    },
+    {
+      "text": "Badge No. 4721",
+      "token_prefix": "BADGE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Badge No. 4721",
+      "notes": "badge number signature line"
+    },
+    {
+      "text": "she",
+      "token_prefix": "INVESTIGATING_OFFICER",
+      "entity_type": "PERSON",
+      "canonical": "Detective Sarah Michelle Rodriguez",
+      "notes": "officer pronoun reference in notarization"
+    }
+  ]
+}

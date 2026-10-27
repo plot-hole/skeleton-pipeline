@@ -1,0 +1,364 @@
+{
+  "scenario_id": "adversarial_dollar_and_numbers",
+  "doc_type": "MOTION FOR SUMMARY JUDGMENT",
+  "word_count": 790,
+  "entity_count": 40,
+  "unique_canonical_count": 12,
+  "adversarial": true,
+  "entities": [
+    {
+      "text": "MARCUS WELLINGTON HAYES",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Case No. 2023-CV-04827",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Case No. 2023-CV-04827",
+      "notes": "federal case number"
+    },
+    {
+      "text": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "MARCUS WELLINGTON HAYES",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff's full name repeated"
+    },
+    {
+      "text": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "notes": "defendant corporation repeated"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "case filing date"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "$2,450,000",
+      "token_prefix": "TOTAL_DAMAGES",
+      "entity_type": "MONEY",
+      "canonical": "$2,450,000",
+      "notes": "total damages sought by plaintiff"
+    },
+    {
+      "text": "$187,500",
+      "token_prefix": "LOST_WAGES",
+      "entity_type": "MONEY",
+      "canonical": "$187,500",
+      "notes": "plaintiff's lost wages claim"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Pinnacle Technology Solutions",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "notes": "defendant company short form"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "the plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "Hayes's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff possessive reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff possessive reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Hayes",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "the plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "Hayes's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff possessive reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "The plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "PINNACLE TECHNOLOGY SOLUTIONS, INC.",
+      "notes": "defendant corporation repeated"
+    },
+    {
+      "text": "Plaintiff MARCUS WELLINGTON HAYES",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS WELLINGTON HAYES",
+      "notes": "plaintiff full name with title"
+    },
+    {
+      "text": "JENNIFER L. MORRISON",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "JENNIFER L. MORRISON",
+      "notes": "defense attorney name"
+    },
+    {
+      "text": "CROMWELL & ASSOCIATES LLP",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "CROMWELL & ASSOCIATES LLP",
+      "notes": "defense law firm"
+    },
+    {
+      "text": "1850 Gateway Boulevard, Suite 400\nSan Francisco, CA 94102",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1850 Gateway Boulevard, Suite 400, San Francisco, CA 94102",
+      "notes": "defense law firm address"
+    },
+    {
+      "text": "(415) 555-2847",
+      "token_prefix": "ATTORNEY_PHONE",
+      "entity_type": "ID",
+      "canonical": "(415) 555-2847",
+      "notes": "defense attorney phone number"
+    },
+    {
+      "text": "jmorrison@cromwelllaw.com",
+      "token_prefix": "ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jmorrison@cromwelllaw.com",
+      "notes": "defense attorney email"
+    },
+    {
+      "text": "June 8, 2023",
+      "token_prefix": "SERVICE_DATE",
+      "entity_type": "DATE",
+      "canonical": "June 8, 2023",
+      "notes": "certificate of service date"
+    },
+    {
+      "text": "JENNIFER L. MORRISON",
+      "token_prefix": "DEFENSE_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "JENNIFER L. MORRISON",
+      "notes": "defense attorney name repeated"
+    }
+  ],
+  "negative_examples": [
+    {
+      "text": "the Court",
+      "reason": "generic institutional reference"
+    },
+    {
+      "text": "Rule 56(a)",
+      "reason": "procedural rule citation, not PII"
+    },
+    {
+      "text": "$75,000 amount-in-controversy requirement",
+      "reason": "jurisdictional threshold amount, not PII"
+    },
+    {
+      "text": "28 U.S.C. \u00a7 1331",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "28 U.S.C. \u00a7 1367",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "Exhibit No. 1",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 5",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "$300,000 statutory cap",
+      "reason": "generic damages cap reference, not PII"
+    },
+    {
+      "text": "Docket No. 1",
+      "reason": "internal docket reference, not PII"
+    },
+    {
+      "text": "Docket No. 15",
+      "reason": "internal docket reference, not PII"
+    },
+    {
+      "text": "35%",
+      "reason": "percentage figure, not PII"
+    },
+    {
+      "text": "No. 1 priority",
+      "reason": "priority ranking, not case number"
+    },
+    {
+      "text": "42 U.S.C. \u00a7 1983",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "$50 filing fee",
+      "reason": "generic cost reference, not PII"
+    },
+    {
+      "text": "Fed. R. Civ. P. 56(a)",
+      "reason": "procedural rule citation, not PII"
+    },
+    {
+      "text": "State Bar No. 245789",
+      "reason": "attorney bar number, not personal PII"
+    },
+    {
+      "text": "the movant",
+      "reason": "generic legal role reference"
+    },
+    {
+      "text": "the non-moving party",
+      "reason": "generic legal role reference"
+    }
+  ]
+}

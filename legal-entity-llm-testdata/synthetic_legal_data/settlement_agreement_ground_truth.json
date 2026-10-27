@@ -1,0 +1,541 @@
+{
+  "scenario_id": "settlement_agreement",
+  "doc_type": "SETTLEMENT AGREEMENT",
+  "word_count": 648,
+  "entity_count": 76,
+  "unique_canonical_count": 28,
+  "entities": [
+    {
+      "text": "December 15, 2023",
+      "token_prefix": "AGREEMENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 15, 2023",
+      "notes": "settlement agreement execution date"
+    },
+    {
+      "text": "Marcus Jonathan Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff full name first mention"
+    },
+    {
+      "text": "847 Maple Grove Drive, Cherry Hill, New Jersey 08003",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "847 Maple Grove Drive, Cherry Hill, New Jersey 08003",
+      "notes": "plaintiff residential address"
+    },
+    {
+      "text": "456-78-9123",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "456-78-9123",
+      "notes": "plaintiff social security number"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "the Claimant",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Precision Industrial Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant corporation full name"
+    },
+    {
+      "text": "2901 Corporate Center Boulevard, Austin, Texas 78731",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2901 Corporate Center Boulevard, Austin, Texas 78731",
+      "notes": "defendant corporation address"
+    },
+    {
+      "text": "74-2883497",
+      "token_prefix": "DEFENDANT_EIN",
+      "entity_type": "ID",
+      "canonical": "74-2883497",
+      "notes": "defendant corporation EIN"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Company",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "2023-CV-08742",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08742",
+      "notes": "federal court case number"
+    },
+    {
+      "text": "Marcus Jonathan Bellwood v. Precision Industrial Technologies Corp., et al.",
+      "token_prefix": "CASE_CAPTION",
+      "entity_type": "ID",
+      "canonical": "Marcus Jonathan Bellwood v. Precision Industrial Technologies Corp., et al.",
+      "notes": "full case caption"
+    },
+    {
+      "text": "Marcus Jonathan Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff name in case caption"
+    },
+    {
+      "text": "Precision Industrial Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant name in case caption"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "March 8, 2022",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2022",
+      "notes": "injury incident date"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "Mr. Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff surname reference with title"
+    },
+    {
+      "text": "Company's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant possessive reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "its",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant possessive pronoun"
+    },
+    {
+      "text": "Patricia R. Morrison",
+      "token_prefix": "MEDIATOR",
+      "entity_type": "PERSON",
+      "canonical": "Patricia R. Morrison",
+      "notes": "mediator full name"
+    },
+    {
+      "text": "November 28, 2023",
+      "token_prefix": "MEDIATION_DATE",
+      "entity_type": "DATE",
+      "canonical": "November 28, 2023",
+      "notes": "mediation session date"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "One Million Three Hundred Fifty Thousand Dollars ($1,350,000.00)",
+      "token_prefix": "SETTLEMENT_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$1,350,000.00",
+      "notes": "total settlement amount"
+    },
+    {
+      "text": "Four Hundred Fifty Thousand Dollars ($450,000.00)",
+      "token_prefix": "PAYMENT_1",
+      "entity_type": "MONEY",
+      "canonical": "$450,000.00",
+      "notes": "first payment amount"
+    },
+    {
+      "text": "Four Hundred Fifty Thousand Dollars ($450,000.00)",
+      "token_prefix": "PAYMENT_2",
+      "entity_type": "MONEY",
+      "canonical": "$450,000.00",
+      "notes": "second payment amount"
+    },
+    {
+      "text": "June 15, 2024",
+      "token_prefix": "PAYMENT_2_DATE",
+      "entity_type": "DATE",
+      "canonical": "June 15, 2024",
+      "notes": "second payment due date"
+    },
+    {
+      "text": "Four Hundred Fifty Thousand Dollars ($450,000.00)",
+      "token_prefix": "PAYMENT_3",
+      "entity_type": "MONEY",
+      "canonical": "$450,000.00",
+      "notes": "third payment amount"
+    },
+    {
+      "text": "December 15, 2024",
+      "token_prefix": "PAYMENT_3_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 15, 2024",
+      "notes": "final payment due date"
+    },
+    {
+      "text": "Marcus Jonathan Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff name on payment instruction"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "Robert M. Davidson",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert M. Davidson",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "Davidson & Associates Law Group",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Davidson & Associates Law Group",
+      "notes": "plaintiff law firm name"
+    },
+    {
+      "text": "1567 Commerce Street, Suite 400, Newark, New Jersey 07102",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1567 Commerce Street, Suite 400, Newark, New Jersey 07102",
+      "notes": "plaintiff law firm address"
+    },
+    {
+      "text": "the Claimant",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Precision Industrial Technologies Corp.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant corporation name"
+    },
+    {
+      "text": "its",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant possessive pronoun"
+    },
+    {
+      "text": "March 8, 2022",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2022",
+      "notes": "incident date in release clause"
+    },
+    {
+      "text": "January 15, 2024",
+      "token_prefix": "RELEASE_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "release effective date"
+    },
+    {
+      "text": "Release Date",
+      "token_prefix": "RELEASE_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 15, 2024",
+      "notes": "release date defined term"
+    },
+    {
+      "text": "Mr. Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff surname with title"
+    },
+    {
+      "text": "He",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "One Hundred Thousand Dollars ($100,000.00)",
+      "token_prefix": "LIQUIDATED_DAMAGES",
+      "entity_type": "MONEY",
+      "canonical": "$100,000.00",
+      "notes": "liquidated damages amount"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "The Company",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference with article"
+    },
+    {
+      "text": "its",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant possessive pronoun"
+    },
+    {
+      "text": "it",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant pronoun reference"
+    },
+    {
+      "text": "Plaintiff's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff possessive role reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Robert M. Davidson",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Robert M. Davidson",
+      "notes": "plaintiff attorney name"
+    },
+    {
+      "text": "(973) 555-0847",
+      "token_prefix": "ATTORNEY_PHONE",
+      "entity_type": "ID",
+      "canonical": "(973) 555-0847",
+      "notes": "plaintiff attorney phone number"
+    },
+    {
+      "text": "rdavidson@davidsonlaw.com",
+      "token_prefix": "ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "rdavidson@davidsonlaw.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "Davidson & Associates Law Group",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Davidson & Associates Law Group",
+      "notes": "plaintiff law firm name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "its",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant possessive pronoun"
+    },
+    {
+      "text": "Jennifer L. Hartwell",
+      "token_prefix": "DEFENDANT_COUNSEL",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Hartwell",
+      "notes": "defendant general counsel full name"
+    },
+    {
+      "text": "(512) 555-0293",
+      "token_prefix": "COUNSEL_PHONE",
+      "entity_type": "ID",
+      "canonical": "(512) 555-0293",
+      "notes": "defendant counsel phone number"
+    },
+    {
+      "text": "jhartwell@precisionindustrial.com",
+      "token_prefix": "COUNSEL_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jhartwell@precisionindustrial.com",
+      "notes": "defendant counsel email"
+    },
+    {
+      "text": "MARCUS JONATHAN BELLWOOD",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff signature block name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff role in signature block"
+    },
+    {
+      "text": "Marcus Jonathan Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff signature line"
+    },
+    {
+      "text": "PRECISION INDUSTRIAL TECHNOLOGIES CORP.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Precision Industrial Technologies Corp.",
+      "notes": "defendant signature block name"
+    },
+    {
+      "text": "Jennifer L. Hartwell",
+      "token_prefix": "DEFENDANT_COUNSEL",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Hartwell",
+      "notes": "defendant counsel signature line"
+    },
+    {
+      "text": "Jennifer L. Hartwell",
+      "token_prefix": "DEFENDANT_COUNSEL",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Hartwell",
+      "notes": "defendant counsel name under signature"
+    },
+    {
+      "text": "Marcus Bellwood",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Jonathan Bellwood",
+      "notes": "plaintiff name in contact info"
+    },
+    {
+      "text": "(856) 555-0172",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(856) 555-0172",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "mbellwood@email.com",
+      "token_prefix": "PLAINTIFF_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mbellwood@email.com",
+      "notes": "plaintiff email address"
+    },
+    {
+      "text": "Davidson & Associates Law Group",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Davidson & Associates Law Group",
+      "notes": "plaintiff law firm in contact info"
+    },
+    {
+      "text": "1567 Commerce Street, Suite 400, Newark, NJ 07102",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1567 Commerce Street, Suite 400, Newark, New Jersey 07102",
+      "notes": "law firm address abbreviated state"
+    }
+  ]
+}

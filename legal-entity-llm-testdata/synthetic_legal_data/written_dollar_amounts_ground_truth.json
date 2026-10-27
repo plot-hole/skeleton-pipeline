@@ -1,0 +1,415 @@
+{
+  "scenario_id": "written_dollar_amounts",
+  "doc_type": "SETTLEMENT AGREEMENT",
+  "word_count": 709,
+  "entity_count": 58,
+  "unique_canonical_count": 25,
+  "entities": [
+    {
+      "text": "2023-CV-08947",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08947",
+      "notes": "case number identifier"
+    },
+    {
+      "text": "15th day of November, 2023",
+      "token_prefix": "EXECUTION_DATE",
+      "entity_type": "DATE",
+      "canonical": "15th day of November, 2023",
+      "notes": "agreement execution date"
+    },
+    {
+      "text": "MARCUS J. WELLINGTON",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "2847 Oakwood Drive, McLean, Virginia 22102",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 Oakwood Drive, McLean, Virginia 22102",
+      "notes": "plaintiff home address"
+    },
+    {
+      "text": "MERIDIAN MANUFACTURING CORPORATION",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant corporation name"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "9600 Industrial Boulevard, Baltimore, Maryland 21224",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "9600 Industrial Boulevard, Baltimore, Maryland 21224",
+      "notes": "defendant business address"
+    },
+    {
+      "text": "March 8, 2022",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2022",
+      "notes": "incident date"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "2023-CV-08947",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08947",
+      "notes": "case number identifier"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "March 8, 2022",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2022",
+      "notes": "incident date"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Seven Hundred Fifty Thousand and No/100 Dollars",
+      "token_prefix": "SETTLEMENT_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "Seven Hundred Fifty Thousand and No/100 Dollars ($750,000.00)",
+      "notes": "written settlement amount"
+    },
+    {
+      "text": "$750,000.00",
+      "token_prefix": "SETTLEMENT_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "Seven Hundred Fifty Thousand and No/100 Dollars ($750,000.00)",
+      "notes": "numeric settlement amount"
+    },
+    {
+      "text": "Two Hundred Thousand Dollars",
+      "token_prefix": "FIRST_INSTALLMENT",
+      "entity_type": "MONEY",
+      "canonical": "Two Hundred Thousand Dollars ($200,000.00)",
+      "notes": "written first installment"
+    },
+    {
+      "text": "$200,000.00",
+      "token_prefix": "FIRST_INSTALLMENT",
+      "entity_type": "MONEY",
+      "canonical": "Two Hundred Thousand Dollars ($200,000.00)",
+      "notes": "numeric first installment"
+    },
+    {
+      "text": "December 1, 2023",
+      "token_prefix": "FIRST_PAYMENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "December 1, 2023",
+      "notes": "first payment due date"
+    },
+    {
+      "text": "One Hundred Fifty Thousand Dollars",
+      "token_prefix": "SECOND_INSTALLMENT",
+      "entity_type": "MONEY",
+      "canonical": "One Hundred Fifty Thousand Dollars ($150,000.00)",
+      "notes": "written second installment"
+    },
+    {
+      "text": "$150,000.00",
+      "token_prefix": "SECOND_INSTALLMENT",
+      "entity_type": "MONEY",
+      "canonical": "One Hundred Fifty Thousand Dollars ($150,000.00)",
+      "notes": "numeric second installment"
+    },
+    {
+      "text": "February 15, 2024",
+      "token_prefix": "SECOND_PAYMENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "February 15, 2024",
+      "notes": "second payment due date"
+    },
+    {
+      "text": "Four Hundred Thousand Dollars",
+      "token_prefix": "THIRD_INSTALLMENT",
+      "entity_type": "MONEY",
+      "canonical": "Four Hundred Thousand Dollars ($400,000.00)",
+      "notes": "written third installment"
+    },
+    {
+      "text": "$400,000.00",
+      "token_prefix": "THIRD_INSTALLMENT",
+      "entity_type": "MONEY",
+      "canonical": "Four Hundred Thousand Dollars ($400,000.00)",
+      "notes": "numeric third installment"
+    },
+    {
+      "text": "May 1, 2024",
+      "token_prefix": "THIRD_PAYMENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "May 1, 2024",
+      "notes": "third payment due date"
+    },
+    {
+      "text": "Wellington's",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff possessive reference"
+    },
+    {
+      "text": "HARRISON & ASSOCIATES, P.C.",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "HARRISON & ASSOCIATES, P.C.",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "1455 Pennsylvania Avenue NW, Suite 800, Washington, D.C. 20004",
+      "token_prefix": "PLAINTIFF_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1455 Pennsylvania Avenue NW, Suite 800, Washington, D.C. 20004",
+      "notes": "plaintiff law firm address"
+    },
+    {
+      "text": "two hundred fifty thousand dollars",
+      "token_prefix": "ATTORNEY_FEES",
+      "entity_type": "MONEY",
+      "canonical": "two hundred fifty thousand dollars ($250,000.00)",
+      "notes": "written attorney fees amount"
+    },
+    {
+      "text": "$250,000.00",
+      "token_prefix": "ATTORNEY_FEES",
+      "entity_type": "MONEY",
+      "canonical": "two hundred fifty thousand dollars ($250,000.00)",
+      "notes": "numeric attorney fees amount"
+    },
+    {
+      "text": "HARRISON & ASSOCIATES, P.C.",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "HARRISON & ASSOCIATES, P.C.",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "Sixty-Three Thousand Four Hundred Twelve Dollars and 87/100",
+      "token_prefix": "MEDICAL_LIEN",
+      "entity_type": "MONEY",
+      "canonical": "Sixty-Three Thousand Four Hundred Twelve Dollars and 87/100 ($63,412.87)",
+      "notes": "written medical lien amount"
+    },
+    {
+      "text": "$63,412.87",
+      "token_prefix": "MEDICAL_LIEN",
+      "entity_type": "MONEY",
+      "canonical": "Sixty-Three Thousand Four Hundred Twelve Dollars and 87/100 ($63,412.87)",
+      "notes": "numeric medical lien amount"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff last name reference"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Meridian Manufacturing Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant corporation name"
+    },
+    {
+      "text": "March 8, 2022",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 8, 2022",
+      "notes": "incident date"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Meridian Manufacturing Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant corporation name"
+    },
+    {
+      "text": "Plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "JENNIFER L. HARRISON, ESQ.",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "JENNIFER L. HARRISON, ESQ.",
+      "notes": "plaintiff attorney name"
+    },
+    {
+      "text": "Harrison & Associates, P.C.",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "HARRISON & ASSOCIATES, P.C.",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "Defendant",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "ROBERT M. CHEN, ESQ.",
+      "token_prefix": "DEFENDANT_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "ROBERT M. CHEN, ESQ.",
+      "notes": "defendant attorney name"
+    },
+    {
+      "text": "Chen, Bradley & Partners LLP",
+      "token_prefix": "DEFENDANT_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Chen, Bradley & Partners LLP",
+      "notes": "defendant law firm"
+    },
+    {
+      "text": "100 Light Street, Suite 2800, Baltimore, Maryland 21202",
+      "token_prefix": "DEFENDANT_LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "100 Light Street, Suite 2800, Baltimore, Maryland 21202",
+      "notes": "defendant law firm address"
+    },
+    {
+      "text": "Marcus J. Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff signature name"
+    },
+    {
+      "text": "November 15, 2023",
+      "token_prefix": "EXECUTION_DATE",
+      "entity_type": "DATE",
+      "canonical": "15th day of November, 2023",
+      "notes": "signature date"
+    },
+    {
+      "text": "MERIDIAN MANUFACTURING CORPORATION",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "MERIDIAN MANUFACTURING CORPORATION",
+      "notes": "defendant corporation signature"
+    },
+    {
+      "text": "David K. Morrison",
+      "token_prefix": "COMPANY_PRESIDENT",
+      "entity_type": "PERSON",
+      "canonical": "David K. Morrison",
+      "notes": "corporation president name"
+    },
+    {
+      "text": "November 15, 2023",
+      "token_prefix": "EXECUTION_DATE",
+      "entity_type": "DATE",
+      "canonical": "15th day of November, 2023",
+      "notes": "signature date"
+    },
+    {
+      "text": "15th day of November, 2023",
+      "token_prefix": "EXECUTION_DATE",
+      "entity_type": "DATE",
+      "canonical": "15th day of November, 2023",
+      "notes": "notarization date"
+    },
+    {
+      "text": "Marcus J. Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff notarization reference"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "MARCUS J. WELLINGTON",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "LISA M. RODRIGUEZ",
+      "token_prefix": "NOTARY",
+      "entity_type": "PERSON",
+      "canonical": "LISA M. RODRIGUEZ",
+      "notes": "notary public name"
+    },
+    {
+      "text": "April 30, 2026",
+      "token_prefix": "NOTARY_EXPIRATION",
+      "entity_type": "DATE",
+      "canonical": "April 30, 2026",
+      "notes": "notary commission expiration"
+    }
+  ]
+}

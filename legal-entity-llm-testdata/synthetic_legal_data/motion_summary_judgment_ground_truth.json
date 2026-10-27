@@ -1,0 +1,436 @@
+{
+  "scenario_id": "motion_summary_judgment",
+  "doc_type": "MOTION FOR SUMMARY JUDGMENT",
+  "word_count": 866,
+  "entity_count": 61,
+  "unique_canonical_count": 28,
+  "entities": [
+    {
+      "text": "1:24-cv-03782-RWS",
+      "token_prefix": "CASE_NUMBER_1",
+      "entity_type": "ID",
+      "canonical": "1:24-cv-03782-RWS",
+      "notes": "federal case number"
+    },
+    {
+      "text": "MICHELLE PATRICIA RODRIGUEZ",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "SOUTHEASTERN INDUSTRIAL SOLUTIONS, INC.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Southeastern Industrial Solutions, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Michelle Patricia Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "Plaintiff Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Defendant Southeastern Industrial Solutions, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Southeastern Industrial Solutions, Inc.",
+      "notes": "defendant company"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Michelle Patricia Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff full name"
+    },
+    {
+      "text": "4729 Peachtree Boulevard, Atlanta, GA 30309",
+      "token_prefix": "PLAINTIFF_ADDRESS_1",
+      "entity_type": "ADDRESS",
+      "canonical": "4729 Peachtree Boulevard, Atlanta, GA 30309",
+      "notes": "plaintiff address"
+    },
+    {
+      "text": "January 8, 2022",
+      "token_prefix": "START_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "January 8, 2022",
+      "notes": "employment start date"
+    },
+    {
+      "text": "September 14, 2023",
+      "token_prefix": "TERMINATION_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "September 14, 2023",
+      "notes": "termination date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "8850 Corporate Center Drive, Charlotte, NC 28226",
+      "token_prefix": "DEFENDANT_ADDRESS_1",
+      "entity_type": "ADDRESS",
+      "canonical": "8850 Corporate Center Drive, Charlotte, NC 28226",
+      "notes": "defendant address"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Thomas Kenneth Hartwell",
+      "token_prefix": "SUPERVISOR_1",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Kenneth Hartwell",
+      "notes": "supervisor full name"
+    },
+    {
+      "text": "David Charles Morrison",
+      "token_prefix": "PLANT_MANAGER_1",
+      "entity_type": "PERSON",
+      "canonical": "David Charles Morrison",
+      "notes": "plant manager full name"
+    },
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "DEPOSITION_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "deposition date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Exhibit 1",
+      "token_prefix": "EXHIBIT_1",
+      "entity_type": "ID",
+      "canonical": "Exhibit 1",
+      "notes": "exhibit reference"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Exhibit 2",
+      "token_prefix": "EXHIBIT_2",
+      "entity_type": "ID",
+      "canonical": "Exhibit 2",
+      "notes": "exhibit reference"
+    },
+    {
+      "text": "July 2023",
+      "token_prefix": "EMAIL_START_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "July 2023",
+      "notes": "email date range start"
+    },
+    {
+      "text": "September 2023",
+      "token_prefix": "EMAIL_END_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "September 2023",
+      "notes": "email date range end"
+    },
+    {
+      "text": "Exhibit 3",
+      "token_prefix": "EXHIBIT_3",
+      "entity_type": "ID",
+      "canonical": "Exhibit 3",
+      "notes": "exhibit reference"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "August 28, 2023",
+      "token_prefix": "HR_COMPLAINT_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "August 28, 2023",
+      "notes": "HR complaint date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Maria Elena Santos",
+      "token_prefix": "WITNESS_1",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Santos",
+      "notes": "witness full name"
+    },
+    {
+      "text": "Robert James Mitchell",
+      "token_prefix": "WITNESS_2",
+      "entity_type": "PERSON",
+      "canonical": "Robert James Mitchell",
+      "notes": "witness full name"
+    },
+    {
+      "text": "Exhibit 4",
+      "token_prefix": "EXHIBIT_4",
+      "entity_type": "ID",
+      "canonical": "Exhibit 4",
+      "notes": "exhibit reference"
+    },
+    {
+      "text": "the plaintiff",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff reference"
+    },
+    {
+      "text": "Dr. Sarah Louise Pemberton",
+      "token_prefix": "EXPERT_WITNESS_1",
+      "entity_type": "PERSON",
+      "canonical": "Dr. Sarah Louise Pemberton",
+      "notes": "expert witness full name"
+    },
+    {
+      "text": "Exhibit 5",
+      "token_prefix": "EXHIBIT_5",
+      "entity_type": "ID",
+      "canonical": "Exhibit 5",
+      "notes": "exhibit reference"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Hartwell",
+      "token_prefix": "SUPERVISOR_1",
+      "entity_type": "PERSON",
+      "canonical": "Thomas Kenneth Hartwell",
+      "notes": "supervisor last name"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "Morrison",
+      "token_prefix": "PLANT_MANAGER_1",
+      "entity_type": "PERSON",
+      "canonical": "David Charles Morrison",
+      "notes": "plant manager last name"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "August 28, 2023",
+      "token_prefix": "HR_COMPLAINT_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "August 28, 2023",
+      "notes": "HR complaint date"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "September 14, 2023",
+      "token_prefix": "TERMINATION_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "September 14, 2023",
+      "notes": "termination date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff last name"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "$185,000",
+      "token_prefix": "DAMAGES_AMOUNT_1",
+      "entity_type": "MONEY",
+      "canonical": "$185,000",
+      "notes": "damages sought amount"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF_1",
+      "entity_type": "PERSON",
+      "canonical": "Michelle Patricia Rodriguez",
+      "notes": "plaintiff pronoun"
+    },
+    {
+      "text": "April 30, 2024",
+      "token_prefix": "DEADLINE_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "April 30, 2024",
+      "notes": "filing deadline"
+    },
+    {
+      "text": "Amanda Christine Foster",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Amanda Christine Foster",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "Amanda Christine Foster",
+      "token_prefix": "PLAINTIFF_ATTORNEY_1",
+      "entity_type": "PERSON",
+      "canonical": "Amanda Christine Foster",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "FOSTER & WILLIAMS LAW GROUP, LLC",
+      "token_prefix": "LAW_FIRM_1",
+      "entity_type": "ORG",
+      "canonical": "Foster & Williams Law Group, LLC",
+      "notes": "law firm name"
+    },
+    {
+      "text": "2847 Buckhead Avenue, Suite 1200, Atlanta, GA 30305",
+      "token_prefix": "LAW_FIRM_ADDRESS_1",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 Buckhead Avenue, Suite 1200, Atlanta, GA 30305",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(404) 555-7821",
+      "token_prefix": "ATTORNEY_PHONE_1",
+      "entity_type": "ID",
+      "canonical": "(404) 555-7821",
+      "notes": "attorney phone number"
+    },
+    {
+      "text": "afoster@fwlawgroup.com",
+      "token_prefix": "ATTORNEY_EMAIL_1",
+      "entity_type": "ID",
+      "canonical": "afoster@fwlawgroup.com",
+      "notes": "attorney email address"
+    }
+  ]
+}

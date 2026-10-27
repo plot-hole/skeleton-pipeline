@@ -1,0 +1,392 @@
+{
+  "scenario_id": "adversarial_pattern_overlap",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 821,
+  "entity_count": 40,
+  "unique_canonical_count": 21,
+  "adversarial": true,
+  "entities": [
+    {
+      "text": "Marcus Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff's full name"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "Wellington",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff surname reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Wellington",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "1234 Court Street, Suite No. 5, Springfield, IL 62701",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1234 Court Street, Suite No. 5, Springfield, IL 62701",
+      "notes": "plaintiff's residential address"
+    },
+    {
+      "text": "456-78-9012",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "456-78-9012",
+      "notes": "plaintiff's social security number"
+    },
+    {
+      "text": "(217) 555-0123",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(217) 555-0123",
+      "notes": "plaintiff's phone number"
+    },
+    {
+      "text": "wellington.marcus@email.com",
+      "token_prefix": "PLAINTIFF_EMAIL",
+      "entity_type": "ID",
+      "canonical": "wellington.marcus@email.com",
+      "notes": "plaintiff's email address"
+    },
+    {
+      "text": "Court Services International, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Court Services International, Inc.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Court Services International, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Court Services International, Inc.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Court Services International, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Court Services International, Inc.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Court Services International, Inc.",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Court Services International, Inc.",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "789 Corporate Plaza, Suite 200, Chicago, IL 60601",
+      "token_prefix": "DEFENDANT_COMPANY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "789 Corporate Plaza, Suite 200, Chicago, IL 60601",
+      "notes": "defendant company address"
+    },
+    {
+      "text": "Bill Case",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Bill Case",
+      "notes": "individual defendant full name"
+    },
+    {
+      "text": "Case",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Bill Case",
+      "notes": "individual defendant surname"
+    },
+    {
+      "text": "Case",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Bill Case",
+      "notes": "individual defendant surname"
+    },
+    {
+      "text": "Case",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Bill Case",
+      "notes": "individual defendant surname"
+    },
+    {
+      "text": "Case",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Bill Case",
+      "notes": "individual defendant surname"
+    },
+    {
+      "text": "567 Justice Lane, Springfield, IL 62704",
+      "token_prefix": "DEFENDANT_INDIVIDUAL_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "567 Justice Lane, Springfield, IL 62704",
+      "notes": "individual defendant address"
+    },
+    {
+      "text": "Jennifer L. Morrison",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Morrison",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "Jennifer L. Morrison",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer L. Morrison",
+      "notes": "plaintiff's attorney"
+    },
+    {
+      "text": "Morrison & Associates Law Group",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Morrison & Associates Law Group",
+      "notes": "plaintiff's law firm"
+    },
+    {
+      "text": "Morrison & Associates Law Group",
+      "token_prefix": "PLAINTIFF_LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Morrison & Associates Law Group",
+      "notes": "plaintiff's law firm"
+    },
+    {
+      "text": "Case No. 2024-CV-00100",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "Case No. 2024-CV-00100",
+      "notes": "court case number"
+    },
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "CONTRACT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "contract signing date"
+    },
+    {
+      "text": "500 Lake Shore Drive",
+      "token_prefix": "PROPERTY_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "500 Lake Shore Drive",
+      "notes": "investment property address"
+    },
+    {
+      "text": "April 1, 2024",
+      "token_prefix": "BREACH_START_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 1, 2024",
+      "notes": "breach period start date"
+    },
+    {
+      "text": "September 30, 2024",
+      "token_prefix": "BREACH_END_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 30, 2024",
+      "notes": "breach period end date"
+    },
+    {
+      "text": "(217) 555-0456",
+      "token_prefix": "DEFENDANT_PHONE",
+      "entity_type": "ID",
+      "canonical": "(217) 555-0456",
+      "notes": "defendant's office phone"
+    },
+    {
+      "text": "6234567",
+      "token_prefix": "ATTORNEY_BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "6234567",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "456 Legal Plaza, Suite 300, Springfield, IL 62701",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "456 Legal Plaza, Suite 300, Springfield, IL 62701",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(217) 555-0789",
+      "token_prefix": "LAW_FIRM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(217) 555-0789",
+      "notes": "law firm phone number"
+    },
+    {
+      "text": "jmorrison@morrisonlaw.com",
+      "token_prefix": "ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jmorrison@morrisonlaw.com",
+      "notes": "attorney email address"
+    }
+  ],
+  "negative_examples": [
+    {
+      "text": "the Court",
+      "reason": "generic institutional reference"
+    },
+    {
+      "text": "this Court",
+      "reason": "generic institutional reference"
+    },
+    {
+      "text": "Court",
+      "reason": "generic institutional reference when referring to judicial body"
+    },
+    {
+      "text": "735 ILCS 5/2-101",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "28 U.S.C. \u00a7 1332",
+      "reason": "statute citation, not PII"
+    },
+    {
+      "text": "Exhibit No. 1",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 2",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 3",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 4",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 5",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 6",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "Exhibit No. 7",
+      "reason": "exhibit reference, not case number"
+    },
+    {
+      "text": "$5 million",
+      "reason": "generic property value, not settlement amount"
+    },
+    {
+      "text": "$45,000",
+      "reason": "damage amount, not personal identifier"
+    },
+    {
+      "text": "$125,000",
+      "reason": "damage amount, not personal identifier"
+    },
+    {
+      "text": "$30,000",
+      "reason": "damage amount, not personal identifier"
+    },
+    {
+      "text": "$15,000",
+      "reason": "payment amount, not personal identifier"
+    },
+    {
+      "text": "$200,000",
+      "reason": "damage claim amount, not personal identifier"
+    },
+    {
+      "text": "$50,000",
+      "reason": "jurisdictional threshold, not personal identifier"
+    },
+    {
+      "text": "Regional Manager",
+      "reason": "job title, not personal name"
+    },
+    {
+      "text": "Delaware corporation",
+      "reason": "business entity type, not specific organization"
+    },
+    {
+      "text": "Illinois Bar No.",
+      "reason": "generic bar reference prefix"
+    },
+    {
+      "text": "Sangamon County",
+      "reason": "geographic jurisdiction, not personal address"
+    },
+    {
+      "text": "Illinois",
+      "reason": "state name, not personal address when used generically"
+    },
+    {
+      "text": "Chicago",
+      "reason": "city name in business address context"
+    }
+  ]
+}

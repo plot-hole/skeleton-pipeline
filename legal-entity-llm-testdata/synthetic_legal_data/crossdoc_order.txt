@@ -1,0 +1,68 @@
+**UNITED STATES DISTRICT COURT**  
+**CENTRAL DISTRICT OF CALIFORNIA**
+
+---
+
+**MARIA ELENA MARTINEZ,**  
+Plaintiff,  
+v.  
+**GREENFIELD PROPERTIES LLC,**  
+Defendant.  
+
+Case No. 2:24-cv-03891-JLW
+
+---
+
+**ORDER ON DEFENDANT'S MOTION TO DISMISS**
+
+This matter came before the Court on March 8, 2025, for hearing on Defendant Greenfield Properties LLC's Motion to Dismiss pursuant to Federal Rules of Civil Procedure 12(b)(6). Having reviewed the pleadings, briefs, and oral argument presented by counsel, the Court rules as follows:
+
+**BACKGROUND**
+
+Plaintiff Maria Elena Martinez filed this action against Defendant Greenfield Properties LLC alleging negligence, premises liability, and intentional infliction of emotional distress arising from an incident that occurred on September 14, 2023, at the Riverside Gardens apartment complex located at 1247 Maple Grove Avenue, Riverside, California 92506. Martinez alleges she suffered injuries when a poorly maintained stairway railing gave way, causing her to fall down a flight of stairs.
+
+The complaint, filed by Plaintiff's counsel Robert Chen of Chen & Associates LLP, seeks compensatory and punitive damages. Defense counsel Patricia Knowles of Morrison, Kemp & Associates has moved to dismiss all three counts, arguing that the complaint fails to state a claim upon which relief can be granted.
+
+**ANALYSIS**
+
+**Count I - Negligence**
+
+The Court finds that Martinez has sufficiently pleaded the elements of negligence under California law. The complaint alleges that Greenfield Properties owed a duty of care to maintain safe common areas, breached that duty by failing to repair a deteriorating handrail despite notice of the dangerous condition, and that this breach proximately caused Martinez's injuries. Defense counsel argued that the complaint lacks specific allegations regarding the defendant's knowledge of the hazardous condition. However, the complaint alleges that property manager Angela Torres received multiple written complaints about the loose railing in the weeks preceding the incident.
+
+Defendant's reliance on *Rodriguez v. Bethlehem Steel Corp.* is misplaced, as that case involved different factual circumstances regarding industrial workplace safety rather than residential premises liability. The Court finds that Martinez's negligence claim survives the motion to dismiss.
+
+**Count II - Premises Liability**
+
+Similarly, the premises liability claim is adequately pleaded. Under California Civil Code Section 1714, property owners have a duty to maintain their premises in reasonably safe condition. The complaint alleges that Greenfield Properties had actual knowledge of the dangerous condition through reports to Torres and constructive notice through the obvious deterioration of the handrail. Martinez alleges she was lawfully present as a tenant's guest, establishing her status as an invitee entitled to the highest degree of care.
+
+The Court notes that expert witness Dr. James Whitfield's anticipated testimony regarding building code violations and standard maintenance practices will be relevant at summary judgment or trial, but such evidence is not required to survive a motion to dismiss.
+
+**Count III - Intentional Infliction of Emotional Distress**
+
+However, the Court finds that Martinez's third cause of action for intentional infliction of emotional distress fails to meet the heightened pleading requirements under California law. To establish this claim, a plaintiff must show that defendant's conduct was "so extreme and outrageous as to exceed all bounds of that usually tolerated in a civilized community." *Potter v. Firestone Tire & Rubber Co.*, 6 Cal.4th 965, 1001 (1993).
+
+The complaint alleges only that Greenfield Properties acted with "callous disregard" by failing to repair the railing after notice. While such conduct may constitute negligence, it does not rise to the level of extreme and outrageous behavior required for intentional infliction of emotional distress. Martinez has not alleged any facts suggesting that the defendant acted with the intent to cause severe emotional distress, nor that the conduct was sufficiently egregious to support this tort claim.
+
+Plaintiff's counsel Chen argued at the March 8, 2025 hearing that the company's pattern of ignoring safety complaints demonstrates outrageous conduct, but the Court finds these allegations insufficient without more specific facts showing deliberate indifference to tenant safety rising to the level of outrageousness required by California precedent.
+
+**RULING**
+
+Based on the foregoing analysis, the Court hereby ORDERS:
+
+1. Defendant's Motion to Dismiss Count I (Negligence) is DENIED.
+
+2. Defendant's Motion to Dismiss Count II (Premises Liability) is DENIED.
+
+3. Defendant's Motion to Dismiss Count III (Intentional Infliction of Emotional Distress) is GRANTED.
+
+4. Defendant shall file an Answer to the remaining counts within twenty-one (21) days of this Order.
+
+5. The Court sets this matter for a Case Management Conference on April 15, 2025, at 10:00 a.m. in Courtroom 7A.
+
+IT IS SO ORDERED.
+
+Dated: March 12, 2025
+
+**_/s/ Linda R. Watkins_**  
+THE HONORABLE LINDA R. WATKINS  
+UNITED STATES DISTRICT JUDGE

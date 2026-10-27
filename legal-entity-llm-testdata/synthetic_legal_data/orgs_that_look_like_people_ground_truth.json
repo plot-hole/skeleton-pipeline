@@ -1,0 +1,478 @@
+{
+  "scenario_id": "orgs_that_look_like_people",
+  "doc_type": "CIVIL COMPLAINT",
+  "word_count": 815,
+  "entity_count": 67,
+  "unique_canonical_count": 27,
+  "entities": [
+    {
+      "text": "Rebecca Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "2023-CV-08947",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08947",
+      "notes": "civil case number"
+    },
+    {
+      "text": "Rebecca Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Williams & Connolly LLP",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Williams & Connolly LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "Rebecca Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "1847 Chestnut Street, Philadelphia, PA 19103",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1847 Chestnut Street, Philadelphia, PA 19103",
+      "notes": "plaintiff residence"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "(215) 555-0192",
+      "token_prefix": "PLAINTIFF_PHONE",
+      "entity_type": "ID",
+      "canonical": "(215) 555-0192",
+      "notes": "plaintiff phone number"
+    },
+    {
+      "text": "rebecca.thompson@email.com",
+      "token_prefix": "PLAINTIFF_EMAIL",
+      "entity_type": "ID",
+      "canonical": "rebecca.thompson@email.com",
+      "notes": "plaintiff email"
+    },
+    {
+      "text": "123-45-6789",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "123-45-6789",
+      "notes": "plaintiff SSN"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "1 Johnson & Johnson Plaza, New Brunswick, New Jersey 08933",
+      "token_prefix": "DEFENDANT_1_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1 Johnson & Johnson Plaza, New Brunswick, New Jersey 08933",
+      "notes": "J&J corporate address"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Morgan Stanley",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Morgan Stanley",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "1585 Broadway, New York, New York 10036",
+      "token_prefix": "DEFENDANT_2_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1585 Broadway, New York, New York 10036",
+      "notes": "Morgan Stanley address"
+    },
+    {
+      "text": "Morgan Stanley",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Morgan Stanley",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Baker Hughes",
+      "token_prefix": "DEFENDANT_COMPANY_3",
+      "entity_type": "ORG",
+      "canonical": "Baker Hughes",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "17021 Aldine Westfield Road, Houston, Texas 77073",
+      "token_prefix": "DEFENDANT_3_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "17021 Aldine Westfield Road, Houston, Texas 77073",
+      "notes": "Baker Hughes address"
+    },
+    {
+      "text": "Baker Hughes",
+      "token_prefix": "DEFENDANT_COMPANY_3",
+      "entity_type": "ORG",
+      "canonical": "Baker Hughes",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Michael Rodriguez",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Michael Rodriguez",
+      "notes": "defendant individual VP"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Michael Rodriguez",
+      "notes": "defendant individual VP"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "m.rodriguez@jnj.com",
+      "token_prefix": "DEFENDANT_EMAIL",
+      "entity_type": "ID",
+      "canonical": "m.rodriguez@jnj.com",
+      "notes": "defendant corporate email"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Marshall & Associates Inc.",
+      "token_prefix": "PLAINTIFF_EMPLOYER",
+      "entity_type": "ORG",
+      "canonical": "Marshall & Associates Inc.",
+      "notes": "plaintiff employer organization"
+    },
+    {
+      "text": "2200 Market Street, Philadelphia, PA 19103",
+      "token_prefix": "EMPLOYER_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "2200 Market Street, Philadelphia, PA 19103",
+      "notes": "employer address"
+    },
+    {
+      "text": "March 15, 2023",
+      "token_prefix": "PURCHASE_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2023",
+      "notes": "product purchase date"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Baker Hughes",
+      "token_prefix": "DEFENDANT_COMPANY_3",
+      "entity_type": "ORG",
+      "canonical": "Baker Hughes",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Morgan Stanley",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Morgan Stanley",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Michael Rodriguez",
+      "notes": "defendant individual VP"
+    },
+    {
+      "text": "April 2, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "April 2, 2023",
+      "notes": "injury incident date"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Baker Hughes",
+      "token_prefix": "DEFENDANT_COMPANY_3",
+      "entity_type": "ORG",
+      "canonical": "Baker Hughes",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Michael Rodriguez",
+      "notes": "defendant individual VP"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "$47,832",
+      "token_prefix": "MEDICAL_COSTS",
+      "entity_type": "MONEY",
+      "canonical": "$47,832",
+      "notes": "plaintiff medical expenses"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Marshall & Associates Inc.",
+      "token_prefix": "PLAINTIFF_EMPLOYER",
+      "entity_type": "ORG",
+      "canonical": "Marshall & Associates Inc.",
+      "notes": "plaintiff employer organization"
+    },
+    {
+      "text": "$15,200",
+      "token_prefix": "LOST_WAGES",
+      "entity_type": "MONEY",
+      "canonical": "$15,200",
+      "notes": "plaintiff lost wages"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Baker Hughes",
+      "token_prefix": "DEFENDANT_COMPANY_3",
+      "entity_type": "ORG",
+      "canonical": "Baker Hughes",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Michael Rodriguez",
+      "notes": "defendant individual VP"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "DEFENDANT_INDIVIDUAL",
+      "entity_type": "PERSON",
+      "canonical": "Michael Rodriguez",
+      "notes": "defendant individual VP"
+    },
+    {
+      "text": "Morgan Stanley",
+      "token_prefix": "DEFENDANT_COMPANY_2",
+      "entity_type": "ORG",
+      "canonical": "Morgan Stanley",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Johnson & Johnson",
+      "token_prefix": "DEFENDANT_COMPANY_1",
+      "entity_type": "ORG",
+      "canonical": "Johnson & Johnson",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "Rebecca Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "$75,000",
+      "token_prefix": "DAMAGE_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$75,000",
+      "notes": "damages threshold amount"
+    },
+    {
+      "text": "Thompson",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Thompson",
+      "notes": "plaintiff individual"
+    },
+    {
+      "text": "David Williams",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "David Williams",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "David Williams",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "David Williams",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "WILLIAMS & CONNOLLY LLP",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Williams & Connolly LLP",
+      "notes": "plaintiff law firm"
+    },
+    {
+      "text": "725 Twelfth Street, N.W., Washington, DC 20005",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "725 Twelfth Street, N.W., Washington, DC 20005",
+      "notes": "law firm address"
+    },
+    {
+      "text": "(202) 434-5000",
+      "token_prefix": "LAW_FIRM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(202) 434-5000",
+      "notes": "law firm phone"
+    },
+    {
+      "text": "dwilliams@wc.com",
+      "token_prefix": "ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "dwilliams@wc.com",
+      "notes": "attorney email"
+    },
+    {
+      "text": "June 8, 2023",
+      "token_prefix": "FILING_DATE",
+      "entity_type": "DATE",
+      "canonical": "June 8, 2023",
+      "notes": "complaint filing date"
+    }
+  ]
+}

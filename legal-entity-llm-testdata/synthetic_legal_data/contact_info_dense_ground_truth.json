@@ -1,0 +1,555 @@
+{
+  "scenario_id": "contact_info_dense",
+  "doc_type": "DEMAND LETTER",
+  "word_count": 797,
+  "entity_count": 78,
+  "unique_canonical_count": 37,
+  "entities": [
+    {
+      "text": "HUTCHINSON & PATEL LAW GROUP",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "HUTCHINSON & PATEL LAW GROUP",
+      "notes": "plaintiff's law firm"
+    },
+    {
+      "text": "1247 Southwest Morrison Street, Suite 850",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "1247 Southwest Morrison Street, Suite 850",
+      "notes": "law firm street address"
+    },
+    {
+      "text": "Portland, Oregon 97205",
+      "token_prefix": "LAW_FIRM_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "Portland, Oregon 97205",
+      "notes": "law firm city/state/zip"
+    },
+    {
+      "text": "(503) 555-7492",
+      "token_prefix": "ATTORNEY_OFFICE_PHONE",
+      "entity_type": "ID",
+      "canonical": "(503) 555-7492",
+      "notes": "attorney office phone"
+    },
+    {
+      "text": "(503) 555-7493",
+      "token_prefix": "ATTORNEY_FAX",
+      "entity_type": "ID",
+      "canonical": "(503) 555-7493",
+      "notes": "attorney fax number"
+    },
+    {
+      "text": "mpatel@hutchinsonpatel.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mpatel@hutchinsonpatel.com",
+      "notes": "plaintiff attorney email"
+    },
+    {
+      "text": "October 15, 2023",
+      "token_prefix": "LETTER_DATE",
+      "entity_type": "DATE",
+      "canonical": "October 15, 2023",
+      "notes": "demand letter date"
+    },
+    {
+      "text": "Ms. Rebecca Chen",
+      "token_prefix": "DEFENDANT_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "defendant CEO full name"
+    },
+    {
+      "text": "Chief Executive Officer",
+      "token_prefix": "DEFENDANT_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "defendant CEO title reference"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation"
+    },
+    {
+      "text": "4421 Pike Street, Suite 1200",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "4421 Pike Street, Suite 1200",
+      "notes": "defendant street address"
+    },
+    {
+      "text": "Seattle, Washington 98101",
+      "token_prefix": "DEFENDANT_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "Seattle, Washington 98101",
+      "notes": "defendant city/state/zip"
+    },
+    {
+      "text": "rchen.personal@cloudnet.com",
+      "token_prefix": "DEFENDANT_OFFICER_PERSONAL_EMAIL",
+      "entity_type": "ID",
+      "canonical": "rchen.personal@cloudnet.com",
+      "notes": "defendant CEO personal email"
+    },
+    {
+      "text": "legal@techflowsystems.com",
+      "token_prefix": "DEFENDANT_CORPORATE_EMAIL",
+      "entity_type": "ID",
+      "canonical": "legal@techflowsystems.com",
+      "notes": "defendant corporate legal email"
+    },
+    {
+      "text": "2023-CV-08247",
+      "token_prefix": "CASE_NUMBER",
+      "entity_type": "ID",
+      "canonical": "2023-CV-08247",
+      "notes": "case reference number"
+    },
+    {
+      "text": "Jennifer Marie Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff full name first mention"
+    },
+    {
+      "text": "Jennifer Marie Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff full name second mention"
+    },
+    {
+      "text": "August 3, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "August 3, 2023",
+      "notes": "data breach incident date"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation second mention"
+    },
+    {
+      "text": "your company",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant company pronoun reference"
+    },
+    {
+      "text": "our client",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff last name reference"
+    },
+    {
+      "text": "3847 Northeast Sandy Boulevard",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "3847 Northeast Sandy Boulevard",
+      "notes": "plaintiff street address"
+    },
+    {
+      "text": "Portland, Oregon 97232",
+      "token_prefix": "PLAINTIFF_ADDRESS",
+      "entity_type": "ADDRESS",
+      "canonical": "Portland, Oregon 97232",
+      "notes": "plaintiff city/state/zip"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation third mention"
+    },
+    {
+      "text": "March 12, 1987",
+      "token_prefix": "PLAINTIFF_DOB",
+      "entity_type": "DATE",
+      "canonical": "March 12, 1987",
+      "notes": "plaintiff date of birth"
+    },
+    {
+      "text": "Jennifer Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff name variation"
+    },
+    {
+      "text": "your company",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant company second pronoun reference"
+    },
+    {
+      "text": "4829",
+      "token_prefix": "PLAINTIFF_SSN",
+      "entity_type": "ID",
+      "canonical": "4829",
+      "notes": "plaintiff SSN last four digits"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "jennifer.rodriguez.pdx@gmail.com",
+      "token_prefix": "PLAINTIFF_PERSONAL_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jennifer.rodriguez.pdx@gmail.com",
+      "notes": "plaintiff personal email"
+    },
+    {
+      "text": "j.rodriguez@oregonhealth.gov",
+      "token_prefix": "PLAINTIFF_WORK_EMAIL",
+      "entity_type": "ID",
+      "canonical": "j.rodriguez@oregonhealth.gov",
+      "notes": "plaintiff work email"
+    },
+    {
+      "text": "(503) 555-2891",
+      "token_prefix": "PLAINTIFF_CELL_PHONE",
+      "entity_type": "ID",
+      "canonical": "(503) 555-2891",
+      "notes": "plaintiff cell phone"
+    },
+    {
+      "text": "(503) 555-4472",
+      "token_prefix": "PLAINTIFF_WORK_PHONE",
+      "entity_type": "ID",
+      "canonical": "(503) 555-4472",
+      "notes": "plaintiff work phone"
+    },
+    {
+      "text": "August 3, 2023",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "August 3, 2023",
+      "notes": "incident date second mention"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation fourth mention"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff last name second reference"
+    },
+    {
+      "text": "September 18, 2023",
+      "token_prefix": "NOTIFICATION_DATE",
+      "entity_type": "DATE",
+      "canonical": "September 18, 2023",
+      "notes": "breach notification date"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff last name only"
+    },
+    {
+      "text": "she",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff pronoun second reference"
+    },
+    {
+      "text": "your",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant company possessive reference"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation fifth mention"
+    },
+    {
+      "text": "CEO Rebecca Chen",
+      "token_prefix": "DEFENDANT_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "defendant CEO title and name"
+    },
+    {
+      "text": "Chief Information Security Officer David Park",
+      "token_prefix": "DEFENDANT_CISO",
+      "entity_type": "PERSON",
+      "canonical": "David Park",
+      "notes": "defendant CISO full title and name"
+    },
+    {
+      "text": "Mr. Park",
+      "token_prefix": "DEFENDANT_CISO",
+      "entity_type": "PERSON",
+      "canonical": "David Park",
+      "notes": "defendant CISO formal reference"
+    },
+    {
+      "text": "dpark.security@techflowsystems.com",
+      "token_prefix": "DEFENDANT_IT_SECURITY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "dpark.security@techflowsystems.com",
+      "notes": "defendant IT security contact email"
+    },
+    {
+      "text": "(206) 555-8834",
+      "token_prefix": "DEFENDANT_OFFICER_DIRECT_LINE",
+      "entity_type": "ID",
+      "canonical": "(206) 555-8834",
+      "notes": "defendant officer direct phone"
+    },
+    {
+      "text": "the company",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant company article reference"
+    },
+    {
+      "text": "The defendant's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant possessive legal reference"
+    },
+    {
+      "text": "(206) 555-3100",
+      "token_prefix": "DEFENDANT_MAIN_NUMBER",
+      "entity_type": "ID",
+      "canonical": "(206) 555-3100",
+      "notes": "defendant main corporate phone"
+    },
+    {
+      "text": "Ms. Chen's",
+      "token_prefix": "DEFENDANT_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "defendant CEO possessive reference"
+    },
+    {
+      "text": "TechFlow's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant company possessive short form"
+    },
+    {
+      "text": "Jennifer Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff name third variation"
+    },
+    {
+      "text": "$4,200",
+      "token_prefix": "DAMAGES_1",
+      "entity_type": "MONEY",
+      "canonical": "$4,200",
+      "notes": "identity theft remediation costs"
+    },
+    {
+      "text": "$3,850",
+      "token_prefix": "DAMAGES_2",
+      "entity_type": "MONEY",
+      "canonical": "$3,850",
+      "notes": "lost wages amount"
+    },
+    {
+      "text": "$1,200",
+      "token_prefix": "DAMAGES_3",
+      "entity_type": "MONEY",
+      "canonical": "$1,200",
+      "notes": "annual preventive measures cost"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation sixth mention"
+    },
+    {
+      "text": "$75,000",
+      "token_prefix": "DEMAND_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$75,000",
+      "notes": "settlement demand amount"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff formal reference third time"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation seventh mention"
+    },
+    {
+      "text": "November 15, 2023",
+      "token_prefix": "RESPONSE_DEADLINE",
+      "entity_type": "DATE",
+      "canonical": "November 15, 2023",
+      "notes": "demand response deadline"
+    },
+    {
+      "text": "TechFlow Systems Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant corporation eighth mention"
+    },
+    {
+      "text": "Rebecca Chen",
+      "token_prefix": "DEFENDANT_CEO",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "defendant CEO name only"
+    },
+    {
+      "text": "David Park",
+      "token_prefix": "DEFENDANT_CISO",
+      "entity_type": "PERSON",
+      "canonical": "David Park",
+      "notes": "defendant CISO name only"
+    },
+    {
+      "text": "$500,000",
+      "token_prefix": "LITIGATION_AMOUNT",
+      "entity_type": "MONEY",
+      "canonical": "$500,000",
+      "notes": "threatened litigation amount"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff formal reference fourth time"
+    },
+    {
+      "text": "She",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff pronoun third reference"
+    },
+    {
+      "text": "her",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "your company's",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "TechFlow Systems Corporation",
+      "notes": "defendant company possessive final reference"
+    },
+    {
+      "text": "my",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Patel",
+      "notes": "attorney first person reference"
+    },
+    {
+      "text": "mpatel@hutchinsonpatel.com",
+      "token_prefix": "PLAINTIFF_ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "mpatel@hutchinsonpatel.com",
+      "notes": "attorney email second mention"
+    },
+    {
+      "text": "Ms. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff formal reference fifth time"
+    },
+    {
+      "text": "HUTCHINSON & PATEL LAW GROUP",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "HUTCHINSON & PATEL LAW GROUP",
+      "notes": "law firm signature block"
+    },
+    {
+      "text": "Maria Elena Patel",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Maria Elena Patel",
+      "notes": "plaintiff attorney full name"
+    },
+    {
+      "text": "OSB #87394",
+      "token_prefix": "ATTORNEY_BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "OSB #87394",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "Jennifer Marie Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff name in attorney line"
+    },
+    {
+      "text": "Jennifer Marie Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Jennifer Marie Rodriguez",
+      "notes": "plaintiff name in cc line"
+    },
+    {
+      "text": "jennifer.rodriguez.pdx@gmail.com",
+      "token_prefix": "PLAINTIFF_PERSONAL_EMAIL",
+      "entity_type": "ID",
+      "canonical": "jennifer.rodriguez.pdx@gmail.com",
+      "notes": "plaintiff personal email in cc line"
+    }
+  ]
+}

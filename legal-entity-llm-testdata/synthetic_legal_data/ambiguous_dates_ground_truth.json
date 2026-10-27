@@ -1,0 +1,436 @@
+{
+  "scenario_id": "ambiguous_dates",
+  "doc_type": "DEMAND LETTER",
+  "word_count": 743,
+  "entity_count": 61,
+  "unique_canonical_count": 30,
+  "entities": [
+    {
+      "text": "March 15, 2024",
+      "token_prefix": "DOCUMENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "March 15, 2024",
+      "notes": "document creation date"
+    },
+    {
+      "text": "Ms. Rebecca Chen",
+      "token_prefix": "INSURANCE_ADJUSTER",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "insurance claims manager"
+    },
+    {
+      "text": "Rebecca Chen",
+      "token_prefix": "INSURANCE_ADJUSTER",
+      "entity_type": "PERSON",
+      "canonical": "Rebecca Chen",
+      "notes": "insurance claims manager"
+    },
+    {
+      "text": "Pacific Northwest Insurance Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Pacific Northwest Insurance Corporation",
+      "notes": "defendant insurance company"
+    },
+    {
+      "text": "2847 Industrial Boulevard, Suite 400",
+      "token_prefix": "DEFENDANT_ADDRESS_STREET",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 Industrial Boulevard, Suite 400, Portland, Oregon 97210",
+      "notes": "defendant company street address"
+    },
+    {
+      "text": "Portland, Oregon 97210",
+      "token_prefix": "DEFENDANT_ADDRESS_CITY",
+      "entity_type": "ADDRESS",
+      "canonical": "2847 Industrial Boulevard, Suite 400, Portland, Oregon 97210",
+      "notes": "defendant company city/state/zip"
+    },
+    {
+      "text": "Marcus Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff client"
+    },
+    {
+      "text": "January 5, 2024",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 5, 2024",
+      "notes": "incident date - PII"
+    },
+    {
+      "text": "PNW-2024-007841",
+      "token_prefix": "CLAIM_NUMBER",
+      "entity_type": "ID",
+      "canonical": "PNW-2024-007841",
+      "notes": "insurance claim number"
+    },
+    {
+      "text": "Marcus Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff client"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "January 5, 2024",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 5, 2024",
+      "notes": "incident date - PII"
+    },
+    {
+      "text": "1456 Commerce Street",
+      "token_prefix": "INCIDENT_ADDRESS_STREET",
+      "entity_type": "ADDRESS",
+      "canonical": "1456 Commerce Street, Eugene, Oregon",
+      "notes": "incident location street"
+    },
+    {
+      "text": "Eugene, Oregon",
+      "token_prefix": "INCIDENT_ADDRESS_CITY",
+      "entity_type": "ADDRESS",
+      "canonical": "1456 Commerce Street, Eugene, Oregon",
+      "notes": "incident location city/state"
+    },
+    {
+      "text": "Mr. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff formal reference"
+    },
+    {
+      "text": "March 12, 1985",
+      "token_prefix": "PLAINTIFF_DOB",
+      "entity_type": "DATE",
+      "canonical": "March 12, 1985",
+      "notes": "plaintiff date of birth - PII"
+    },
+    {
+      "text": "1/5/2024",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 5, 2024",
+      "notes": "incident date alternate format - PII"
+    },
+    {
+      "text": "our client",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "defendant corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Pacific Northwest Insurance Corporation",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "Pacific Northwest Insurance Corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Pacific Northwest Insurance Corporation",
+      "notes": "defendant insurance company"
+    },
+    {
+      "text": "Mr. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff formal reference"
+    },
+    {
+      "text": "Sacred Heart Medical Center",
+      "token_prefix": "MEDICAL_FACILITY",
+      "entity_type": "ORG",
+      "canonical": "Sacred Heart Medical Center",
+      "notes": "medical treatment facility"
+    },
+    {
+      "text": "he",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff pronoun reference"
+    },
+    {
+      "text": "January 8, 2024",
+      "token_prefix": "MEDICAL_TREATMENT_DATE_1",
+      "entity_type": "DATE",
+      "canonical": "January 8, 2024",
+      "notes": "medical treatment date - PII"
+    },
+    {
+      "text": "02/15/2024",
+      "token_prefix": "MEDICAL_TREATMENT_DATE_2",
+      "entity_type": "DATE",
+      "canonical": "02/15/2024",
+      "notes": "medical treatment date - PII"
+    },
+    {
+      "text": "effective January 1, 2020",
+      "token_prefix": "STATUTE_EFFECTIVE_DATE",
+      "entity_type": "DATE",
+      "canonical": "effective January 1, 2020",
+      "notes": "statute effective date - NOT PII"
+    },
+    {
+      "text": "defendant corporation",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Pacific Northwest Insurance Corporation",
+      "notes": "defendant role reference"
+    },
+    {
+      "text": "your insured",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Pacific Northwest Insurance Corporation",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "the plaintiff",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "the two-year period under O.R.S. 12.110",
+      "token_prefix": "STATUTE_LIMITATION_PERIOD",
+      "entity_type": "DATE",
+      "canonical": "the two-year period under O.R.S. 12.110",
+      "notes": "statute of limitations - NOT PII"
+    },
+    {
+      "text": "Marcus Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff client"
+    },
+    {
+      "text": "$4,847.32",
+      "token_prefix": "MEDICAL_EXPENSE_1",
+      "entity_type": "MONEY",
+      "canonical": "$4,847.32",
+      "notes": "emergency room costs"
+    },
+    {
+      "text": "$1,235.00",
+      "token_prefix": "MEDICAL_EXPENSE_2",
+      "entity_type": "MONEY",
+      "canonical": "$1,235.00",
+      "notes": "orthopedic consultation costs"
+    },
+    {
+      "text": "$960.00",
+      "token_prefix": "MEDICAL_EXPENSE_3",
+      "entity_type": "MONEY",
+      "canonical": "$960.00",
+      "notes": "physical therapy costs"
+    },
+    {
+      "text": "$187.45",
+      "token_prefix": "MEDICAL_EXPENSE_4",
+      "entity_type": "MONEY",
+      "canonical": "$187.45",
+      "notes": "prescription medication costs"
+    },
+    {
+      "text": "$7,229.77",
+      "token_prefix": "TOTAL_MEDICAL_EXPENSES",
+      "entity_type": "MONEY",
+      "canonical": "$7,229.77",
+      "notes": "total medical expenses"
+    },
+    {
+      "text": "Mr. Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff formal reference"
+    },
+    {
+      "text": "$8,400.00",
+      "token_prefix": "LOST_WAGES",
+      "entity_type": "MONEY",
+      "canonical": "$8,400.00",
+      "notes": "lost wages amount"
+    },
+    {
+      "text": "Our client",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff role reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "His",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "FIFTY THOUSAND DOLLARS ($50,000.00)",
+      "token_prefix": "SETTLEMENT_DEMAND",
+      "entity_type": "MONEY",
+      "canonical": "$50,000.00",
+      "notes": "settlement demand amount"
+    },
+    {
+      "text": "January 5, 2024",
+      "token_prefix": "INCIDENT_DATE",
+      "entity_type": "DATE",
+      "canonical": "January 5, 2024",
+      "notes": "incident date - PII"
+    },
+    {
+      "text": "the 5th day of April, 2024",
+      "token_prefix": "DEMAND_DEADLINE",
+      "entity_type": "DATE",
+      "canonical": "the 5th day of April, 2024",
+      "notes": "settlement demand deadline - PII"
+    },
+    {
+      "text": "your insured",
+      "token_prefix": "DEFENDANT_COMPANY",
+      "entity_type": "ORG",
+      "canonical": "Pacific Northwest Insurance Corporation",
+      "notes": "defendant reference"
+    },
+    {
+      "text": "Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff last name reference"
+    },
+    {
+      "text": "his",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff possessive pronoun"
+    },
+    {
+      "text": "within thirty (30) days",
+      "token_prefix": "GENERIC_TIME_PERIOD",
+      "entity_type": "DATE",
+      "canonical": "within thirty (30) days",
+      "notes": "generic time period - NOT PII"
+    },
+    {
+      "text": "HAMILTON & ASSOCIATES LAW FIRM",
+      "token_prefix": "LAW_FIRM",
+      "entity_type": "ORG",
+      "canonical": "Hamilton & Associates Law Firm",
+      "notes": "plaintiff attorney law firm"
+    },
+    {
+      "text": "Sarah Hamilton",
+      "token_prefix": "PLAINTIFF_ATTORNEY",
+      "entity_type": "PERSON",
+      "canonical": "Sarah Hamilton",
+      "notes": "plaintiff attorney"
+    },
+    {
+      "text": "OSB #087432",
+      "token_prefix": "ATTORNEY_BAR_NUMBER",
+      "entity_type": "ID",
+      "canonical": "OSB #087432",
+      "notes": "attorney bar number"
+    },
+    {
+      "text": "Marcus Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff client"
+    },
+    {
+      "text": "1247 Oak Street, Suite 202",
+      "token_prefix": "LAW_FIRM_ADDRESS_STREET",
+      "entity_type": "ADDRESS",
+      "canonical": "1247 Oak Street, Suite 202, Eugene, Oregon 97401",
+      "notes": "law firm street address"
+    },
+    {
+      "text": "Eugene, Oregon 97401",
+      "token_prefix": "LAW_FIRM_ADDRESS_CITY",
+      "entity_type": "ADDRESS",
+      "canonical": "1247 Oak Street, Suite 202, Eugene, Oregon 97401",
+      "notes": "law firm city/state/zip"
+    },
+    {
+      "text": "(541) 555-0187",
+      "token_prefix": "LAW_FIRM_PHONE",
+      "entity_type": "ID",
+      "canonical": "(541) 555-0187",
+      "notes": "law firm phone number"
+    },
+    {
+      "text": "shamilton@hamiltonlaw.com",
+      "token_prefix": "ATTORNEY_EMAIL",
+      "entity_type": "ID",
+      "canonical": "shamilton@hamiltonlaw.com",
+      "notes": "attorney email address"
+    },
+    {
+      "text": "Marcus Rodriguez",
+      "token_prefix": "PLAINTIFF",
+      "entity_type": "PERSON",
+      "canonical": "Marcus Rodriguez",
+      "notes": "plaintiff client"
+    },
+    {
+      "text": "2856 Maple Avenue",
+      "token_prefix": "PLAINTIFF_ADDRESS_STREET",
+      "entity_type": "ADDRESS",
+      "canonical": "2856 Maple Avenue, Eugene, Oregon 97402",
+      "notes": "plaintiff street address"
+    },
+    {
+      "text": "Eugene, Oregon 97402",
+      "token_prefix": "PLAINTIFF_ADDRESS_CITY",
+      "entity_type": "ADDRESS",
+      "canonical": "2856 Maple Avenue, Eugene, Oregon 97402",
+      "notes": "plaintiff city/state/zip"
+    }
+  ]
+}
