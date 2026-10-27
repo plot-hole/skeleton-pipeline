@@ -30,6 +30,9 @@ skeleton-pipeline/
 │   ├── run_pipeline.py          # CLI runner
 │   └── generate_metadata.py     # Generates simulated Cyera metadata using spaCy
 ├── stage1-entity-replacement.md # Stage 1 design specification
+├── legal-entity-llm/            # LLM-based entity extraction and replacement that preserves entity relationships
+├── legal-entity-llm-testdata/   # 26 synthetic legal documents with ground-truth PII annotations,
+│                                #   a generator script, and eval.py (precision / recall / F1)
 └── .gitignore
 ```
 
