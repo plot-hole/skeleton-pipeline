@@ -11,13 +11,6 @@ The pipeline receives documents that have already been scanned and classified by
 3. **Building a relationship graph** — capturing structural relationships (cohabitation, parent-child, employment) between tokens
 4. **Validating** — running a second-pass NER scan to catch anything the replacement engine missed
 
-## Stages
-
-| Stage | Description | Status |
-|-------|-------------|--------|
-| **Stage 1** | Entity Resolution & Replacement | Built |
-| Stage 2 | Structural Extraction | Planned |
-
 ## Project Structure
 
 ```
